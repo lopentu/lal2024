@@ -39,13 +39,13 @@ website:
       - week1.qmd
       - week2.qmd
       - week3.qmd
-      - week4.qmd
-      - week5.qmd
-      - week6.qmd
-      - week10.qmd
-      - week12.qmd
-      - week13.qmd
-      - week14.qmd
+      #- week4.qmd
+      #- week5.qmd
+      #- week6.qmd
+      #- week10.qmd
+      #- week12.qmd
+      #- week13.qmd
+      #- week14.qmd
       
   page-navigation: true
 

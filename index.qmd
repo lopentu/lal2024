@@ -7,13 +7,13 @@ subtitle: "LING5503 Logical Analysis of Language"
 # 👏 歡迎
 
 
-- Room: 綜 603 (部分內容剪輯上線)
+- Room: 綜 302 
 
 - Office hours: By appointment
 
 - Email: `shukaihsieh@ntu.edu.tw`
 
-- Time: 14:20-17:10, Wed.
+- Time: 09:10-12:10, Fri.
 
 ## 📜 課程網站
 
