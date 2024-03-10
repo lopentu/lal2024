@@ -1,0 +1,65 @@
+project:
+  type: website
+  title: "Logical Analysis of Language"
+  execute-dir: project
+  output-dir: docs
+  render: 
+      - index.qmd
+      - about.qmd
+      - week*.qmd
+      # - week1.qmd
+      # - week2.qmd
+      # - week3.qmd
+      # - week4.qmd
+      # - week5.qmd
+      # - week6.qmd      
+      # - week10.qmd
+      # - week12.qmd
+      # - week13.qmd
+website:
+  title: "語言的邏輯分析"
+  site-url: https://lopentu.github.io/lal/
+  repo-url: https://github.com/lopentu
+  repo-actions: [issue]
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: 首頁
+      - href: about.qmd
+        text: 關於
+    right:
+      - icon: github
+        href: https://github.com/lopentu
+  sidebar:
+    style: "docked"
+    search: true
+    contents:
+      - index.qmd
+      - week1.qmd
+      - week2.qmd
+      - week3.qmd
+      - week4.qmd
+      - week5.qmd
+      - week6.qmd
+      - week10.qmd
+      - week12.qmd
+      - week13.qmd
+      - week14.qmd
+      
+  page-navigation: true
+
+
+format:
+  html:
+    theme: cosmo
+    css: [styles.css,q-theme.scss]
+    toc: true
+
+callout-appearance: simple
+
+date: today
+date-format: iso
+
+from: markdown+emoji
+jupyter: python3

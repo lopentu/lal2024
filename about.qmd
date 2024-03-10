@@ -1,0 +1,58 @@
+---
+title: "關於"
+---
+
+這門課不預設任何語言相關的知識，只要喜歡邊玩遊戲邊動腦，就很適合。
+
+語言的邏輯分析，是希望透過以語言素材做出的謎題，來練習語言分析、邏輯思維與瞭解世界語言文化的多樣性。同時也能夠學會一些語言謎題遊戲的設計與應用。
+
+# 📚 參考書籍
+
+對於喜歡主動學習，吸收新知的同學，以下是妳會喜歡的書。
+
+- The language lover’s puzzle book
+
+![bellos](pics/bellos.jpeg)
+
+http://www.alexbellos.com/language
+
+
+- **Puzzles in Logic, Languages and Computation**
+
+![](pics/green.webp)
+![](pics/red.webp)
+
+::: {.callout-tip}
+#### The Red/Green book, 2013. ntu lib online available
+
+> This book presents 56 problems, with solutions, created for high school students competing in a computational linguistics olympiad. … The interesting, elegant, and very diverse problems are fun to read and solve, and may be enjoyed not only by high school students, but also by current, future, or potential system thinkers, including programmers, analysts, or linguists.” (H. I. Kilov, Computing Reviews, April, 2014)
+:::
+
+- **The Language Construction Kit**
+
+
+- **What makes us smart: the computational logic of human cognition**
+
+![](pics/smart.jpeg)
+
+::: {.callout-tip}
+#### ntu library, downloadable till 3/31
+:::
+
+
+- **語言學：結構、認知與文化的探索 （黃宣範主編,2022)**
+
+
+
+- **南島語言 （中研院語言所研究員翻譯, 2022）**
+
+
+# 參考資源
+
+- [UKLO](https://uklo.org/): 英國語奧
+
+- [NACLO](https://naclo.org/): 美國語奧
+
+- [Onling](https://onling.org/): 學生版國際語奧 👍
+
+- [TOL](https://lope.linguistics.ntu.edu.tw/ioltw/zh/): 自己國家自己挺
