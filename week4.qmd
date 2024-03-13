@@ -14,17 +14,15 @@ bibliography: tol.bib
 ---
 
 
-# 今天的主題
-
-- 語音轉寫與自動辨識應用
+## 今天的主題
 
 - 音韻學基本概念與分析 (+ 上次的題目討論)
 
+- 語音轉寫與自動辨識應用
 
 
 
-
-# 基本概念
+## 複習一下語音學的基本概念
 
 - Phoneme vs. Allophone
 - Sounds in contrast
