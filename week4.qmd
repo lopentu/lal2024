@@ -16,24 +16,103 @@ bibliography: tol.bib
 
 ## 今天的主題
 
-- 音韻學基本概念與分析 (+ 上次的題目討論)
+- 音韻學基本概念與分析 
+
+- 語音音韻的題型設計 (+ 上次的題目討論)
 
 - 語音轉寫與自動辨識應用
 
 
-
-## 複習一下語音學的基本概念
+## 複習一下基本概念
 
 - Phoneme vs. Allophone
-- Sounds in contrast
-    - Minimal pair
-    - Complementary distribution
-    - Free variation
 
-- Consonant phonemes
-- Vowel phonemes
+- 如何描述子音與母音？
 
-## 基本概念
+## 複習一下基本概念
+
+
+::: {.callout-tip}
+COOL 本週放上去的講義 (chaper 3) 有簡短說明。
+:::
+
+
+## 另一種較大的角度
+Consonant: Place of articulation
+
+<small>
+**Labial（唇音）**：由嘴唇的關閉或部分關閉來產生的，可以進一步細分為雙唇音（兩唇之間的發音）和唇齒音（嘴唇和牙齒間的發音）。
+
+**Coronal（舌尖音/舌冠音）**：通過舌尖或舌冠與上腭的不同部位接觸來產生的，包括舌尖前音和舌尖後音等。
+
+**Dorsal（舌背音）**：通過舌背與上腭或軟腭的接觸來產生的，涉及到的音包括軟腭音（k音和g音等）和腭音（如“y”音）。
+
+**Laryngeal（喉音）**：通過聲帶和喉部結構的不同配置來產生的，包括喉塞音（例如英語中的h音）和聲門閉鎖音（產生一種停頓感）。
+</small>
+
+![](./pics/arti.png){fig-align="right"}
+
+## Consonant: Manner of Articulation
+
+![](./pics/cons1.png)
+
+## Consonant: Manner of Articulation
+![](./pics/cons2.png)
+
+## Consonant: Manner of Articulation
+Other manners of articulation
+
+- Flap: Very short stop
+- Trill
+- Rhotic, Liquid
+- Non-Pulmonic: Click, Implosive, Ejective
+
+
+## Vowel
+ 
+- Height
+- Frontness
+- Roundness
+- Nasalization
+- Length
+
+![](./pics/vowel.png){fig-align="right"}
+
+## 超音段特徵 Supersegmental Features
+
+> 指那些跨越單個音素（語音的最小單位）的語音特徵，它們影響的是音節、單詞甚至更長語句的發音。不僅影響語音的音質，還能傳達情感、語氣和強調等語用信息。
+
+
+##
+<small>
+**語調（Tone）**：語調是指聲音的高低變化，它在一些語言中是區分意義的重要特徵，如漢語。不同的語調可以改變單詞的意義。例如，漢語中的“媽”（高平調）表示“媽媽”，而“麻”（上聲調）則有不同的意義。
+
+**重音（Stress）**：重音是指在單詞或語句中某個音節相對於其他音節發音更強、更高或更長。在許多語言中，重音的位置可以改變單詞的意義或語法特性。例如，英語中“record”（名詞）與“record”（動詞）就是通過重音的不同來區分的。
+
+**節奏（Rhythm）**：節奏是指語言中音節或音素出現的時間模式。不同語言有不同的節奏特徵，例如，有些語言如西班牙語，其節奏比較均勻，而英語則是以重音音節為基礎，形成不均勻的節奏。
+
+**長短（Length）**：在某些語言中，音素（特別是元音）的發音長度可以區分意義。例如，芬蘭語和日語中，音素的長短不同可以構成不同的單詞。
+
+</small>
+
+## 聽一個例子
+
+![](./pics/rhythm.png)
+
+
+
+
+## 回去有練習 IPA 嗎？ 😏
+<small>我們用一個題目來練看看</small>
+
+![](./pics/komnzo.png)
+
+完整題目在 COOL 本週。
+
+
+
+
+## 至少知道這幾個基本概念
 :::{.incremental}
 - **Phoneme**: a contrastive sound or category of sounds within a language
 
@@ -43,6 +122,7 @@ bibliography: tol.bib
 
 - **Phonotactics**: the rules governing the combination of phonemes in a language (e.g. no two consonants can occur together in English) 
 :::
+
 
 ## Alternation
 
@@ -64,31 +144,140 @@ bibliography: tol.bib
 :::
 
 
+## Phonetics vs. Phonology
+
+- Phonetics: What the sounds are
+- Phonology: How the sounds are organized
+- Sounds that are phonetically different can be phonologically same
+
+![](./pics/p1.png)
+![](./pics/p2.png){width=360}
+
+
+
+## Phoneme
+- Are [p] and [pʰ] different sounds?
+- In English?
+- In Mandarin Chinese?
+- How to determine: `minimal pair`
+
+
+
+## Allophone
+
+- Same phoneme, different environment
+- e.g. pan [pʰæn] vs. span [spæn]
+
+
+
+
 ## Phonological analysis (1)
-phoneme vs allophone
+
+![](./pics/flow.png)
+
+
+## 例子
 
 
 
-# Syllable and Phonotactics
+
+
+## 音節 (Syllable) 和 語音組合法 (Phonotactics)
 - Syllable structure
-
 - Sonority scale
-- Syllabification
 - Phonotactic constraints
 
 
 
-## 音節 | syllables  
+## [音節結構](https://www.wikiwand.com/zh-tw/%E9%9F%B3%E8%8A%82)
 
-[音節結構](https://www.wikiwand.com/zh-tw/%E9%9F%B3%E8%8A%82)
-    - Onset
-    - Nucleus
-    - Coda 
+  - Onset（聲母）：<small> 音節的開頭部分，包含一個或多個子音。它出現在核心之前。例如，在單詞 "cat" 中，"c" 是 onset。</small>
+  
+  - Nucleus （核心）：<small> 音節的核心部分，通常是一個母音。它是音節中最重要的部分，因為它賦予音節音高。例如，在單詞 "cat" 中，"a" 是核心。</small>
+  
+  - Coda （韻尾）：<small> 音節的結尾部分，包含一個或多個子音。它跟在核心後面。例如，在單詞 "cat" 中，"t" 是 coda。</small>
+
+![](./pics/syllable.png){width=300}    
 
 
-![](./pics/syllable.png)    
+## 語音組合法 Phonotactics
 
-# Features, Rules, and Derivation
+- Consonant Cluster
+- Open syllable vs. closed syllable：音節結尾是母音 (e.g. `go`) 還是子音 (e.g. `cat`)。
+- Swahili, Hawaiian: (C)V
+- English: (C)(C)(C)V(C)(C)(C)(C)(C?)
+split; sixths; strengths
+
+## Phonotactics: Sonority Hierarchy
+<small>聲響階層
+一種語音學原則，用於描述不同類型的語音元素（如元音、輔音）在發聲的響亮度或音響能量上的相對排列順序。這個層級幫助語言學家理解為什麼某些音節結構在世界的多數語言中更為普遍，以及為什麼某些音的組合在發音時會感覺更自然。</small>
+
+
+- Basically: The sound closer to nucleus will be louder
+- Loudness: Vowel > Sonorant > Fricative > Stop
+  
+  > tree, art, blend, trust but not \*rtee, \*atr, *lbedn
+
+::: {.callout-warning}
+- Notable exception: s + stop : start
+:::
+
+## 重音 Stress
+- Emphasis on a syllable of a word 某個音節相比於其他音節在發音時更加突出
+- Stress pattern
+- Stress and vowel reduction: `schwa`
+  - <photographer> /fəˈtɒɡrəfər/
+  - <photograph> /ˈfoʊtəˌgræf/
+
+## 音調 Tone
+- Pitch that carries lexical/grammatical information
+- Tone pitch are relative
+- Counter tone 聲調的區別在於音高隨時間的變化輪廓，如升調、降調、升降調等。
+- Register tone 聲調的區別主要基於音高的絕對高度或相對高低，而不涉及音高的變化過程。
+
+![](./pics/tone.png){fig-align="right" width=400}
+
+
+::: {.callout-tip}
+Pitch 是指聲音的音高，由發音時聲帶振動頻率的高低決定的物理特性。Tone 則指在某些語言中，不同的音高模式用來區分單詞意義或詞形變化的語音特徵。
+:::
+
+
+# 變調
+
+[台語](https://www.wikiwand.com/zh-tw/%E9%96%A9%E5%8D%97%E8%AA%9E%E9%80%A3%E8%AE%80%E8%AE%8A%E8%AA%BF)
+
+
+## 構詞音韻
+<!-- Swahili (p13)  -->
+Allomorph
+
+- Same morpheme, different pronunciation
+- Why? Different environment!
+- Example: English plural
+
+  ![](./pics/eng.png){width=7in}
+  
+
+## Apophony
+
+![](./pics/apophony.png)
+
+## Harmony
+
+![](./pics/harmony.png)
+
+## Language Comparison
+
+![](./pics/comp.png)
+
+
+##
+
+![](./pics/eye.jpeg)
+
+
+## Features, Rules, and Derivation
 - Feature and natural class
 - Form of phonological rules
 - Rule and derivation
@@ -127,39 +316,78 @@ phoneme vs allophone
 
 
 
-## 重音與音調
-Rules of Stress and Intonation 
-
-1. Word stress
-    - Simplex words
-    - Complex words
-    - Compound words
-2. Sentence stress
-3. Intonation
 
 
-## 上週作業討論
+## Sound change
+<small>why: people are lazy 😄 </small>
+
+
+![](./pics/lenition.png)
+
+
+## Example
+![](./pics/lenition2.png){width=200}
+
+## Sound Change: Assimilation
+<small>Why: People are lazy 😄 </small>
+
+
+![](./pics/assi.png)
+
+
+## Sound Change: Elision and Cheshirization
+
+- Elision: A sound disappears altogether
+  - Cluster reduction: English /wr/, /kn/, /gn/ > /r/, /n/
+  - Loss of unstressed vowel/syllable: 
+     Latin centum > French cent /sɑ̃/
+
+- Cheshirization: A sound leaves a trace
+  - English <night> /nixt/ > /ni:t/ > /naɪ̯t/
+  - French <vin blanc> /vim blaŋk/ > /vɛ͂ blɑ͂/
+
+## Other Sound Changes
+
+- Metathesis: swapping of sounds
+  e.g. English third (< OE þridda, cf. three)
+- Fortition
+- Dissimilation
+- Epenthesis: Insertion of sounds
+  - e.g. ME emty > English empty
+  - e.g. Latin status > Spanish estado
+
+## Chain Shift
+A set of linked sound change
+
+![](./pics/grim.png)
+
+## Features of sound change
+- No memory
+- Ignores grammar
+- Unstoppable
+- Exceptionless
+  - Lexical Diffusion
+  - Influence from similar words
+
+
+## Phonology and orthography
+
+- Orthography retains an earlier form of the language
+  - English <knight> /knixt/ > /naɪ̯t/
+  - French <chanter> /tʃãnˈtæɾ/ > /ʃɑ̃ˈte/
+
+- This phenomenon is primarily seen in language with long historical record
+
+- Other: script insufficient for phonology
 
 
 
 
 
 
-# 變調
+##  🙋 語音題目可以怎麼設計？
 
-[台語](https://www.wikiwand.com/zh-tw/%E9%96%A9%E5%8D%97%E8%AA%9E%E9%80%A3%E8%AE%80%E8%AE%8A%E8%AA%BF)
-
-
-<!-- ## 構詞音韻
-
-Swahili (p13) -->
-
-
-
-
-
-# 語音題目可以怎麼設計？
-- 聽音辨音轉寫
+- 聽音辨音轉寫 （上週恐怖經驗 👻）
 - 聲譜圖對應分析
 - ?
 
@@ -192,27 +420,24 @@ how to solve phonological problems (and turn them into puzzles)
 
 
 
-# 聽寫練習
-`布農巒群方言`
-
-- 請助教先說明一下
+## 上週加分作業討論
 
 
 
-# 機器即將做得比人好
+<!-- # 聽寫練習 -->
+<!-- `布農巒群方言` -->
+
+<!-- - 請助教先說明一下 -->
+
+
+
+## 機器即將做得比人好？
 
 - 進入新的人機協作時代
 
-- 大型語言模型 (e.g. **chatGPT**) 與整合型的大型基礎模型 (foundation model)（即將）改變了社會生活與教育的面貌。
+- (多模態)大型語言模型 (e.g. **chatGPT**) （即將）改變了社會生活與教育的面貌。
 
 [天下專題](https://www.cw.com.tw/article/5124816)
-
-
-## 大型基礎模型 (a.k.a. 大型預訓練多模態語言模型)) 
-
-![](./pics/mllm.png)
-
-[demo](https://huggingface.co/spaces/JavaFXpert/Chat-GPT-LangChain)
 
 [@huang2023language]
 
@@ -225,10 +450,8 @@ how to solve phonological problems (and turn them into puzzles)
 
 
 
-## 練習用 `chatGPT` 來解題
-> 怎麼讓機器解出題目來？以上週作業爲例。
-
-
+## 練習用 `chatGPT` / `Claude 3`/`Gemini`  來解題
+> 怎麼讓機器解出題目來？
 
 
 
@@ -258,7 +481,8 @@ how to solve phonological problems (and turn them into puzzles)
 
 
 
-# 本週作業 (`week4.assignment`)
+## 練習
+
 自行從 `NACLO` 或 `UKLO` 中選擇一個題目，自己解完之後（對答案），設法讓 `chatGPT` (or `GPT-4`) 來解題，並且將此過程記錄下來，寫成文檔上傳。
 
 - 記錄的內容
@@ -268,8 +492,17 @@ how to solve phonological problems (and turn them into puzzles)
     - 討論 
         - 你或機器 (錯誤的原因) 
         - 與其他想法
-    
 
+##
 :::{.callout-note}
 - step-by-step / chain-of-thought
 :::
+
+
+## 第一份正式作業
+
+
+
+
+## 
+

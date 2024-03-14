@@ -15,6 +15,8 @@ subtitle: "LING5503 Logical Analysis of Language"
 
 - Time: 09:10-12:10, Fri.
 
+- TA: 潘同樂 `happypan2466@gmail.com`
+
 ## 📜 課程網站
 
 - [NTU COOL](https://cool.ntu.edu.tw/courses/38069)：指定教材、作業繳交
