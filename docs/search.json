@@ -136,14 +136,22 @@
     "href": "week4.html#alternation",
     "title": "Week 4 語音的世界 (2)",
     "section": "Alternation",
-    "text": "Alternation\n\nan alternation is the phenomenon of a morpheme exhibiting variation in its phonological realization. Each of the various realizations is called an alternant. The variation may be conditioned by the phonological, morphological, and/or syntactic environment in which the morpheme finds itself.\n\nalternation 是個語言學術語，不是音韻學術語\n\n\n\n\n\n\n維基百科沒提到的\n\n\n\n\nsense alternation: regular polysemy; metonymy"
+    "text": "Alternation\n\nan alternation is the phenomenon of a morpheme exhibiting variation in its phonological realization. Each of the various realizations is called an alternant. The variation may be conditioned by the phonological, morphological, and/or syntactic environment in which the morpheme finds itself.\n\nalternation 是個語言學術語，不是音韻學術語\n\n\n\n\n\n\n維基百科沒提到的\n\n\n\n\nsense alternation: regular polysemy; metonymy",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#phonological-analysis-1",
     "href": "week4.html#phonological-analysis-1",
     "title": "Week 4 語音的世界 (2)",
     "section": "Phonological analysis (1)",
-    "text": "Phonological analysis (1)"
+    "text": "Phonological analysis (1)",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#音節-syllables",
@@ -161,28 +169,44 @@
     "href": "week4.html#example-rule",
     "title": "Week 4 語音的世界 (2)",
     "section": "Example rule",
-    "text": "Example rule\n一個規則中，通常包括 target (the segment(s) which the rule applies to) 和 a restructuring (what the rule does to the target)，以及一些 environment (the conditions under which the rule applies).\n\nRule 1 (for English plural): [z] → [ə] before [i] and [u]\nRule 2: [n] → [m] __ [velar]"
+    "text": "Example rule\n一個規則中，通常包括 target (the segment(s) which the rule applies to) 和 a restructuring (what the rule does to the target)，以及一些 environment (the conditions under which the rule applies).\n\nRule 1 (for English plural): [z] → [ə] before [i] and [u]\nRule 2: [n] → [m] __ [velar]",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#how-to-solve-phonological-problems",
     "href": "week4.html#how-to-solve-phonological-problems",
     "title": "Week 4 語音的世界 (2)",
     "section": "How to solve phonological problems",
-    "text": "How to solve phonological problems\n入門分析方法"
+    "text": "How to solve phonological problems\n入門分析方法",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#練習-1",
     "href": "week4.html#練習-1",
     "title": "Week 4 語音的世界 (2)",
     "section": "練習 1",
-    "text": "練習 1\nIndonesian\n\n\nIdentify each alternant of the Indonesian prefix.\nIdentify the conditions under which each alternant appears.\nConstruct rules that produce the various alternants of /meŋ-/"
+    "text": "練習 1\nIndonesian\n\n\nIdentify each alternant of the Indonesian prefix.\nIdentify the conditions under which each alternant appears.\nConstruct rules that produce the various alternants of /meŋ-/",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#練習-2",
     "href": "week4.html#練習-2",
     "title": "Week 4 語音的世界 (2)",
     "section": "練習 2",
-    "text": "練習 2\nGerman neutralization - which roots alternate? what generalization can you make about the alternating and non-alternating roots?"
+    "text": "練習 2\nGerman neutralization - which roots alternate? what generalization can you make about the alternating and non-alternating roots?",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#重音與音調",
@@ -211,14 +235,22 @@
     "href": "week4.html#一般的語言分析題目類型",
     "title": "Week 4 語音的世界 (2)",
     "section": "一般的語言分析題目類型",
-    "text": "一般的語言分析題目類型\n\n翻譯 | Translation\n對應 | Correspondence\n填空 | Fill in the blanks\n非自然語言| Non-language"
+    "text": "一般的語言分析題目類型\n\n翻譯 | Translation\n對應 | Correspondence\n填空 | Fill in the blanks\n非自然語言| Non-language",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#如何解題",
     "href": "week4.html#如何解題",
     "title": "Week 4 語音的世界 (2)",
     "section": "如何解題",
-    "text": "如何解題\nhow to solve phonological problems (and turn them into puzzles)\n\n\nMake observation\nForm a hypothesis (better with linguistic background)\nTest the hypothesis\nHow to test\n\nDoes it conform with the data?\nWhat if the data don’t match?\nWeaken the hypothesis\nGive the exceptions explanations\nAbandon the hypothesis altogether"
+    "text": "如何解題\nhow to solve phonological problems (and turn them into puzzles)\n\n\nMake observation\nForm a hypothesis (better with linguistic background)\nTest the hypothesis\nHow to test\n\nDoes it conform with the data?\nWhat if the data don’t match?\nWeaken the hypothesis\nGive the exceptions explanations\nAbandon the hypothesis altogether",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#大型基礎模型-a.k.a.-大型預訓練多模態語言模型",
@@ -236,7 +268,11 @@
     "href": "week4.html#語言邏輯的重要",
     "title": "Week 4 語音的世界 (2)",
     "section": "語言邏輯的重要",
-    "text": "語言邏輯的重要\n\nin-context learning: a new NLP paradigm that allows language models to learn tasks given only a few examples in the form of demonstration.\n從怎麼下 search query，到怎麼給 prompt。"
+    "text": "語言邏輯的重要\n\nin-context learning: a new NLP paradigm that allows language models to learn tasks given only a few examples in the form of demonstration.\n從怎麼下 search query，到怎麼給 prompt。",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#練習用-chatgpt-來解題",
@@ -254,14 +290,22 @@
     "href": "week4.html#語音也可以",
     "title": "Week 4 語音的世界 (2)",
     "section": "語音也可以",
-    "text": "語音也可以\n\nOpenAI’s whisper is an open-source, multilingual, general-purpose speech recognition model by OpenAI, trained on 680,000 hours of multilingual data collected from the web. (with 100 languages supported)"
+    "text": "語音也可以\n\nOpenAI’s whisper is an open-source, multilingual, general-purpose speech recognition model by OpenAI, trained on 680,000 hours of multilingual data collected from the web. (with 100 languages supported)",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#自動轉寫練習",
     "href": "week4.html#自動轉寫練習",
     "title": "Week 4 語音的世界 (2)",
     "section": "自動轉寫練習",
-    "text": "自動轉寫練習\nSpeech to Text/Transcription with OpenAI’s whisper \nlab：開啓後，請見建立【副本】再行編輯與執行。"
+    "text": "自動轉寫練習\nSpeech to Text/Transcription with OpenAI’s whisper \nlab：開啓後，請見建立【副本】再行編輯與執行。",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week2.html#今天的主題",
@@ -2130,314 +2174,527 @@
     "href": "week4.html#今天的主題",
     "title": "Week 4 語音的世界 (2)",
     "section": "今天的主題",
-    "text": "今天的主題\n\n音韻學基本概念與分析\n語音音韻的題型設計 (+ 上次的題目) 討論\nlab session : 語音轉寫與自動辨識應用"
+    "text": "今天的主題\n\n音韻學基本概念與分析\n語音音韻的題型設計 (+ 上次的題目) 討論\nlab session : 語音轉寫與自動辨識應用",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#複習一下基本概念",
     "href": "week4.html#複習一下基本概念",
     "title": "Week 4 語音的世界 (2)",
     "section": "複習一下基本概念",
-    "text": "複習一下基本概念\n\nPhoneme vs. Allophone\n如何描述子音與母音？"
+    "text": "複習一下基本概念\n\nPhoneme vs. Allophone\n如何描述子音與母音？",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#複習一下基本概念-1",
     "href": "week4.html#複習一下基本概念-1",
     "title": "Week 4 語音的世界 (2)",
     "section": "複習一下基本概念",
-    "text": "複習一下基本概念\n\n\n\n\n\n\nCOOL 本週放上去的講義 (chaper 3) 有簡短說明。"
+    "text": "複習一下基本概念\n\n\n\n\n\n\nCOOL 本週放上去的講義 (chaper 3) 有簡短說明。\n\n\n\n測試：中文注音符號之漢語拼音與 IPA 拼寫對照表",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#另一種較大的角度",
     "href": "week4.html#另一種較大的角度",
     "title": "Week 4 語音的世界 (2)",
     "section": "另一種較大的角度",
-    "text": "另一種較大的角度\nConsonant: Place of articulation\n Labial（唇音）：由嘴唇的關閉或部分關閉來產生的，可以進一步細分為雙唇音（兩唇之間的發音）和唇齒音（嘴唇和牙齒間的發音）。\nCoronal（舌尖音/舌冠音）：通過舌尖或舌冠與上腭的不同部位接觸來產生的，包括舌尖前音和舌尖後音等。\nDorsal（舌背音）：通過舌背與上腭或軟腭的接觸來產生的，涉及到的音包括軟腭音（k音和g音等）和腭音（如“y”音）。\nLaryngeal（喉音）：通過聲帶和喉部結構的不同配置來產生的，包括喉塞音（例如英語中的h音）和聲門閉鎖音（產生一種停頓感）。"
+    "text": "另一種較大的角度\nConsonant: Place of articulation\n Labial（唇音）：由嘴唇的關閉或部分關閉來產生的，可以進一步細分為雙唇音（兩唇之間的發音）和唇齒音（嘴唇和牙齒間的發音）。\nCoronal（舌尖音/舌冠音）：通過舌尖或舌冠與上腭的不同部位接觸來產生的，包括舌尖前音和舌尖後音等。\nDorsal（舌背音）：通過舌背與上腭或軟腭的接觸來產生的，涉及到的音包括軟腭音（k音和g音等）和腭音（如“y”音）。\nLaryngeal（喉音）：通過聲帶和喉部結構的不同配置來產生的，包括喉塞音（例如英語中的h音）和聲門閉鎖音（產生一種停頓感）。",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#consonant-manner-of-articulation",
     "href": "week4.html#consonant-manner-of-articulation",
     "title": "Week 4 語音的世界 (2)",
     "section": "Consonant: Manner of Articulation",
-    "text": "Consonant: Manner of Articulation"
+    "text": "Consonant: Manner of Articulation",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#consonant-manner-of-articulation-1",
     "href": "week4.html#consonant-manner-of-articulation-1",
     "title": "Week 4 語音的世界 (2)",
     "section": "Consonant: Manner of Articulation",
-    "text": "Consonant: Manner of Articulation"
+    "text": "Consonant: Manner of Articulation",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#consonant-manner-of-articulation-2",
     "href": "week4.html#consonant-manner-of-articulation-2",
     "title": "Week 4 語音的世界 (2)",
     "section": "Consonant: Manner of Articulation",
-    "text": "Consonant: Manner of Articulation\nOther manners of articulation\n\nFlap: Very short stop\nTrill\nRhotic, Liquid\nNon-Pulmonic: Click, Implosive, Ejective"
+    "text": "Consonant: Manner of Articulation\nOther manners of articulation\n\nFlap: Very short stop\nTrill\nRhotic, Liquid\nNon-Pulmonic: Click, Implosive, Ejective",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#vowel",
     "href": "week4.html#vowel",
     "title": "Week 4 語音的世界 (2)",
     "section": "Vowel",
-    "text": "Vowel\n\nHeight\nFrontness\nRoundness\nNasalization\nLength"
+    "text": "Vowel\n\nHeight\nFrontness\nRoundness\nNasalization\nLength",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#超音段特徵-supersegmental-features",
     "href": "week4.html#超音段特徵-supersegmental-features",
     "title": "Week 4 語音的世界 (2)",
     "section": "超音段特徵 Supersegmental Features",
-    "text": "超音段特徵 Supersegmental Features\n\n指那些跨越單個音素（語音的最小單位）的語音特徵，它們影響的是音節、單詞甚至更長語句的發音。不僅影響語音的音質，還能傳達情感、語氣和強調等語用信息。"
+    "text": "超音段特徵 Supersegmental Features\n\n指那些跨越單個音素（語音的最小單位）的語音特徵，它們影響的是音節、單詞甚至更長語句的發音。不僅影響語音的音質，還能傳達情感、語氣和強調等語用信息。",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#section",
     "href": "week4.html#section",
     "title": "Week 4 語音的世界 (2)",
     "section": "",
-    "text": "語調（Tone）：語調是指聲音的高低變化，它在一些語言中是區分意義的重要特徵，如漢語。不同的語調可以改變單詞的意義。例如，漢語中的“媽”（高平調）表示“媽媽”，而“麻”（上聲調）則有不同的意義。\n重音（Stress）：重音是指在單詞或語句中某個音節相對於其他音節發音更強、更高或更長。在許多語言中，重音的位置可以改變單詞的意義或語法特性。例如，英語中“record”（名詞）與“record”（動詞）就是通過重音的不同來區分的。\n節奏（Rhythm）：節奏是指語言中音節或音素出現的時間模式。不同語言有不同的節奏特徵，例如，有些語言如西班牙語，其節奏比較均勻，而英語則是以重音音節為基礎，形成不均勻的節奏。\n長短（Length）：在某些語言中，音素（特別是元音）的發音長度可以區分意義。例如，芬蘭語和日語中，音素的長短不同可以構成不同的單詞。"
+    "text": "語調（Tone）：語調是指聲音的高低變化，它在一些語言中是區分意義的重要特徵，如漢語。不同的語調可以改變單詞的意義。例如，漢語中的“媽”（高平調）表示“媽媽”，而“麻”（上聲調）則有不同的意義。\n重音（Stress）：重音是指在單詞或語句中某個音節相對於其他音節發音更強、更高或更長。在許多語言中，重音的位置可以改變單詞的意義或語法特性。例如，英語中“record”（名詞）與“record”（動詞）就是通過重音的不同來區分的。\n節奏（Rhythm）：節奏是指語言中音節或音素出現的時間模式。不同語言有不同的節奏特徵，例如，有些語言如西班牙語，其節奏比較均勻，而英語則是以重音音節為基礎，形成不均勻的節奏。\n長短（Length）：在某些語言中，音素（特別是元音）的發音長度可以區分意義。例如，芬蘭語和日語中，音素的長短不同可以構成不同的單詞。",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#聽一個例子",
     "href": "week4.html#聽一個例子",
     "title": "Week 4 語音的世界 (2)",
     "section": "聽一個例子",
-    "text": "聽一個例子"
+    "text": "聽一個例子",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#回去有練習-ipa-嗎",
     "href": "week4.html#回去有練習-ipa-嗎",
     "title": "Week 4 語音的世界 (2)",
     "section": "回去有練習 IPA 嗎？ 😏",
-    "text": "回去有練習 IPA 嗎？ 😏\n我們用一個題目來練看看\n\n完整題目在 COOL 本週。"
+    "text": "回去有練習 IPA 嗎？ 😏\n我們用一個題目來練看看\n\n完整題目在 COOL 本週。",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#至少知道這幾個基本概念",
     "href": "week4.html#至少知道這幾個基本概念",
     "title": "Week 4 語音的世界 (2)",
     "section": "至少知道這幾個基本概念",
-    "text": "至少知道這幾個基本概念\n\n\nPhoneme: a contrastive sound or category of sounds within a language\nInventory: the set of phonemes (sounds) in a language.\nAllophone: a variant of a phoneme\nPhonotactics: the rules governing the combination of phonemes in a language (e.g. no two consonants can occur together in English)"
+    "text": "至少知道這幾個基本概念\n\n\nPhoneme: a contrastive sound or category of sounds within a language\nInventory: the set of phonemes (sounds) in a language.\nAllophone: a variant of a phoneme\nPhonotactics: the rules governing the combination of phonemes in a language (e.g. no two consonants can occur together in English)",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#phonetics-vs.-phonology",
     "href": "week4.html#phonetics-vs.-phonology",
     "title": "Week 4 語音的世界 (2)",
     "section": "Phonetics vs. Phonology",
-    "text": "Phonetics vs. Phonology\n\nPhonetics: What the sounds are\nPhonology: How the sounds are organized\nSounds that are phonetically different can be phonologically same"
+    "text": "Phonetics vs. Phonology\n\nPhonetics: What the sounds are\nPhonology: How the sounds are organized\nSounds that are phonetically different can be phonologically same",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#phoneme",
     "href": "week4.html#phoneme",
     "title": "Week 4 語音的世界 (2)",
     "section": "Phoneme",
-    "text": "Phoneme\n\nAre [p] and [pʰ] different sounds?\nIn English?\nIn Mandarin Chinese?\nHow to determine: minimal pair"
+    "text": "Phoneme\n\nAre [p] and [pʰ] different sounds?\nIn English?\nIn Mandarin Chinese?\nHow to determine: minimal pair",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#allophone",
     "href": "week4.html#allophone",
     "title": "Week 4 語音的世界 (2)",
     "section": "Allophone",
-    "text": "Allophone\n\nSame phoneme, different environment\ne.g. pan [pʰæn] vs. span [spæn]"
+    "text": "Allophone\n\nSame phoneme, different environment\ne.g. pan [pʰæn] vs. span [spæn]",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#例子",
     "href": "week4.html#例子",
     "title": "Week 4 語音的世界 (2)",
     "section": "例子",
-    "text": "例子"
+    "text": "例子",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#音節-syllable-和-語音組合法-phonotactics",
     "href": "week4.html#音節-syllable-和-語音組合法-phonotactics",
     "title": "Week 4 語音的世界 (2)",
     "section": "音節 (Syllable) 和 語音組合法 (Phonotactics)",
-    "text": "音節 (Syllable) 和 語音組合法 (Phonotactics)\n\nSyllable structure\nSonority scale\nPhonotactic constraints"
+    "text": "音節 (Syllable) 和 語音組合法 (Phonotactics)\n\nSyllable structure\nSonority scale\nPhonotactic constraints",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#音節結構",
     "href": "week4.html#音節結構",
     "title": "Week 4 語音的世界 (2)",
     "section": "音節結構",
-    "text": "音節結構\n\nOnset（聲母）： 音節的開頭部分，包含一個或多個子音。它出現在核心之前。例如，在單詞 “cat” 中，“c” 是 onset。\nNucleus （核心）： 音節的核心部分，通常是一個母音。它是音節中最重要的部分，因為它賦予音節音高。例如，在單詞 “cat” 中，“a” 是核心。\nCoda （韻尾）： 音節的結尾部分，包含一個或多個子音。它跟在核心後面。例如，在單詞 “cat” 中，“t” 是 coda。"
+    "text": "音節結構\n\nOnset（聲母）： 音節的開頭部分，包含一個或多個子音。它出現在核心之前。例如，在單詞 “cat” 中，“c” 是 onset。\nNucleus （核心）： 音節的核心部分，通常是一個母音。它是音節中最重要的部分，因為它賦予音節音高。例如，在單詞 “cat” 中，“a” 是核心。\nCoda （韻尾）： 音節的結尾部分，包含一個或多個子音。它跟在核心後面。例如，在單詞 “cat” 中，“t” 是 coda。",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#語音組合法-phonotactics",
     "href": "week4.html#語音組合法-phonotactics",
     "title": "Week 4 語音的世界 (2)",
     "section": "語音組合法 Phonotactics",
-    "text": "語音組合法 Phonotactics\n\nConsonant Cluster\nOpen syllable vs. closed syllable：音節結尾是母音 (e.g. go) 還是子音 (e.g. cat)。\nSwahili, Hawaiian: (C)V\nEnglish: (C)(C)(C)V(C)(C)(C)(C)(C?) split; sixths; strengths"
+    "text": "語音組合法 Phonotactics\n\nConsonant Cluster\nOpen syllable vs. closed syllable：音節結尾是母音 (e.g. go) 還是子音 (e.g. cat)。\nSwahili, Hawaiian: (C)V\nEnglish: (C)(C)(C)V(C)(C)(C)(C)(C?) split; sixths; strengths",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#phonotactics-sonority-hierarchy",
     "href": "week4.html#phonotactics-sonority-hierarchy",
     "title": "Week 4 語音的世界 (2)",
     "section": "Phonotactics: Sonority Hierarchy",
-    "text": "Phonotactics: Sonority Hierarchy\n聲響階層 一種語音學原則，用於描述不同類型的語音元素（如元音、輔音）在發聲的響亮度或音響能量上的相對排列順序。這個層級幫助語言學家理解為什麼某些音節結構在世界的多數語言中更為普遍，以及為什麼某些音的組合在發音時會感覺更自然。\n\nBasically: The sound closer to nucleus will be louder\nLoudness: Vowel &gt; Sonorant &gt; Fricative &gt; Stop\n\ntree, art, blend, trust but not *rtee, *atr, *lbedn\n\n\n\n\n\n\n\n\n\nNotable exception: s + stop : start"
+    "text": "Phonotactics: Sonority Hierarchy\n聲響階層 一種語音學原則，用於描述不同類型的語音元素（如元音、輔音）在發聲的響亮度或音響能量上的相對排列順序。這個層級幫助語言學家理解為什麼某些音節結構在世界的多數語言中更為普遍，以及為什麼某些音的組合在發音時會感覺更自然。\n\nBasically: The sound closer to nucleus will be louder\nLoudness: Vowel &gt; Sonorant &gt; Fricative &gt; Stop\n\ntree, art, blend, trust but not *rtee, *atr, *lbedn\n\n\n\n\n\n\n\n\n\nNotable exception: s + stop : start",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#重音-stress",
     "href": "week4.html#重音-stress",
     "title": "Week 4 語音的世界 (2)",
     "section": "重音 Stress",
-    "text": "重音 Stress\n\nEmphasis on a syllable of a word 某個音節相比於其他音節在發音時更加突出\nStress pattern\nStress and vowel reduction: schwa\n\n /fəˈtɒɡrəfər/\n /ˈfoʊtəˌgræf/"
+    "text": "重音 Stress\n\nEmphasis on a syllable of a word 某個音節相比於其他音節在發音時更加突出\nStress pattern\nStress and vowel reduction: schwa\n\n /fəˈtɒɡrəfər/\n /ˈfoʊtəˌgræf/",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#音調-tone",
     "href": "week4.html#音調-tone",
     "title": "Week 4 語音的世界 (2)",
     "section": "音調 Tone",
-    "text": "音調 Tone\n\nPitch that carries lexical/grammatical information\nTone pitch are relative\nCounter tone 聲調的區別在於音高隨時間的變化輪廓，如升調、降調、升降調等。\nRegister tone 聲調的區別主要基於音高的絕對高度或相對高低，而不涉及音高的變化過程。\n\n\n\n\n\n\n\n\nPitch 是指聲音的音高，由發音時聲帶振動頻率的高低決定的物理特性。Tone 則指在某些語言中，不同的音高模式用來區分單詞意義或詞形變化的語音特徵。"
+    "text": "音調 Tone\n\nPitch that carries lexical/grammatical information\nTone pitch are relative\nCounter tone 聲調的區別在於音高隨時間的變化輪廓，如升調、降調、升降調等。\nRegister tone 聲調的區別主要基於音高的絕對高度或相對高低，而不涉及音高的變化過程。\n\n\n\n\n\n\n\n\nPitch 是指聲音的音高，由發音時聲帶振動頻率的高低決定的物理特性。Tone 則指在某些語言中，不同的音高模式用來區分單詞意義或詞形變化的語音特徵。",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#構詞音韻",
     "href": "week4.html#構詞音韻",
     "title": "Week 4 語音的世界 (2)",
     "section": "構詞音韻",
-    "text": "構詞音韻\n\nAllomorph\n\nSame morpheme, different pronunciation\nWhy? Different environment!\nExample: English plural"
+    "text": "構詞音韻\n\nAllomorph\n\nSame morpheme, different pronunciation\nWhy? Different environment!\nExample: English plural",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#apophony",
     "href": "week4.html#apophony",
     "title": "Week 4 語音的世界 (2)",
     "section": "Apophony",
-    "text": "Apophony"
+    "text": "Apophony",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#harmony",
     "href": "week4.html#harmony",
     "title": "Week 4 語音的世界 (2)",
     "section": "Harmony",
-    "text": "Harmony"
+    "text": "Harmony",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#language-comparison",
     "href": "week4.html#language-comparison",
     "title": "Week 4 語音的世界 (2)",
     "section": "Language Comparison",
-    "text": "Language Comparison"
+    "text": "Language Comparison",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#features-rules-and-derivation",
     "href": "week4.html#features-rules-and-derivation",
     "title": "Week 4 語音的世界 (2)",
     "section": "Features, Rules, and Derivation",
-    "text": "Features, Rules, and Derivation\n\nFeature and natural class\nForm of phonological rules\nRule and derivation"
+    "text": "Features, Rules, and Derivation\n\nFeature and natural class\nForm of phonological rules\nRule and derivation",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#sound-change",
     "href": "week4.html#sound-change",
     "title": "Week 4 語音的世界 (2)",
     "section": "Sound change",
-    "text": "Sound change\nwhy: people are lazy 😄"
+    "text": "Sound change\nwhy: people are lazy 😄",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#example",
     "href": "week4.html#example",
     "title": "Week 4 語音的世界 (2)",
     "section": "Example",
-    "text": "Example"
+    "text": "Example",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#sound-change-assimilation",
     "href": "week4.html#sound-change-assimilation",
     "title": "Week 4 語音的世界 (2)",
     "section": "Sound Change: Assimilation",
-    "text": "Sound Change: Assimilation\nWhy: People are lazy 😄"
+    "text": "Sound Change: Assimilation\nWhy: People are lazy 😄",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#sound-change-elision-and-cheshirization",
     "href": "week4.html#sound-change-elision-and-cheshirization",
     "title": "Week 4 語音的世界 (2)",
     "section": "Sound Change: Elision and Cheshirization",
-    "text": "Sound Change: Elision and Cheshirization\n\nElision: A sound disappears altogether\n\nCluster reduction: English /wr/, /kn/, /gn/ &gt; /r/, /n/\nLoss of unstressed vowel/syllable: Latin centum &gt; French cent /sɑ̃/\n\nCheshirization: A sound leaves a trace\n\nEnglish  /nixt/ &gt; /ni:t/ &gt; /naɪ̯t/\nFrench  /vim blaŋk/ &gt; /vɛ͂ blɑ͂/"
+    "text": "Sound Change: Elision and Cheshirization\n\nElision: A sound disappears altogether\n\nCluster reduction: English /wr/, /kn/, /gn/ &gt; /r/, /n/\nLoss of unstressed vowel/syllable: Latin centum &gt; French cent /sɑ̃/\n\nCheshirization: A sound leaves a trace\n\nEnglish  /nixt/ &gt; /ni:t/ &gt; /naɪ̯t/\nFrench  /vim blaŋk/ &gt; /vɛ͂ blɑ͂/",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#other-sound-changes",
     "href": "week4.html#other-sound-changes",
     "title": "Week 4 語音的世界 (2)",
     "section": "Other Sound Changes",
-    "text": "Other Sound Changes\n\nMetathesis: swapping of sounds e.g. English third (&lt; OE þridda, cf. three)\nFortition\nDissimilation\nEpenthesis: Insertion of sounds\n\ne.g. ME emty &gt; English empty\ne.g. Latin status &gt; Spanish estado"
+    "text": "Other Sound Changes\n\nMetathesis: swapping of sounds e.g. English third (&lt; OE þridda, cf. three)\nFortition\nDissimilation\nEpenthesis: Insertion of sounds\n\ne.g. ME emty &gt; English empty\ne.g. Latin status &gt; Spanish estado",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#chain-shift",
     "href": "week4.html#chain-shift",
     "title": "Week 4 語音的世界 (2)",
     "section": "Chain Shift",
-    "text": "Chain Shift\nA set of linked sound change"
+    "text": "Chain Shift\nA set of linked sound change",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#features-of-sound-change",
     "href": "week4.html#features-of-sound-change",
     "title": "Week 4 語音的世界 (2)",
     "section": "Features of sound change",
-    "text": "Features of sound change\n\nNo memory\nIgnores grammar\nUnstoppable\nExceptionless\n\nLexical Diffusion\nInfluence from similar words"
+    "text": "Features of sound change\n\nNo memory\nIgnores grammar\nUnstoppable\nExceptionless\n\nLexical Diffusion\nInfluence from similar words",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#phonology-and-orthography",
     "href": "week4.html#phonology-and-orthography",
     "title": "Week 4 語音的世界 (2)",
     "section": "Phonology and orthography",
-    "text": "Phonology and orthography\n\nOrthography retains an earlier form of the language\n\nEnglish  /knixt/ &gt; /naɪ̯t/\nFrench  /tʃãnˈtæɾ/ &gt; /ʃɑ̃ˈte/\n\nThis phenomenon is primarily seen in language with long historical record\nOther: script insufficient for phonology"
+    "text": "Phonology and orthography\n\nOrthography retains an earlier form of the language\n\nEnglish  /knixt/ &gt; /naɪ̯t/\nFrench  /tʃãnˈtæɾ/ &gt; /ʃɑ̃ˈte/\n\nThis phenomenon is primarily seen in language with long historical record\nOther: script insufficient for phonology",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#語音題目可以怎麼設計",
     "href": "week4.html#語音題目可以怎麼設計",
     "title": "Week 4 語音的世界 (2)",
     "section": "🙋 語音題目可以怎麼設計？",
-    "text": "🙋 語音題目可以怎麼設計？\n\n聽音辨音轉寫 （上週恐怖經驗 👻）\n聲譜圖對應分析\n?"
+    "text": "🙋 語音題目可以怎麼設計？\n\n聽音辨音轉寫 （上週恐怖經驗 👻）\n聲譜圖對應分析\n?",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#上週加分作業討論",
     "href": "week4.html#上週加分作業討論",
     "title": "Week 4 語音的世界 (2)",
     "section": "上週加分作業討論",
-    "text": "上週加分作業討論"
+    "text": "上週加分作業討論",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#機器即將做得比人好",
     "href": "week4.html#機器即將做得比人好",
     "title": "Week 4 語音的世界 (2)",
     "section": "機器即將做得比人好？",
-    "text": "機器即將做得比人好？\n\n進入新的人機協作時代\n(多模態)大型語言模型 (e.g. chatGPT) （即將）改變了社會生活與教育的面貌。(Huang et al. 2023)\n\n天下專題"
+    "text": "機器即將做得比人好？\n\n進入新的人機協作時代\n(多模態)大型語言模型 (e.g. chatGPT) （即將）改變了社會生活與教育的面貌。(Huang et al. 2023)\n\n天下專題",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#練習用-chatgpt-claude-3gemini-來解題",
     "href": "week4.html#練習用-chatgpt-claude-3gemini-來解題",
     "title": "Week 4 語音的世界 (2)",
     "section": "練習用 chatGPT / Claude 3/Gemini 來解題",
-    "text": "練習用 chatGPT / Claude 3/Gemini 來解題\n\n怎麼讓機器解出題目來？\n\n\n怎麼不讓機器解出題目來？（你的期末專案題目）"
+    "text": "練習用 chatGPT / Claude 3/Gemini 來解題\n\n怎麼讓機器解出題目來？\n\n\n怎麼不讓機器解出題目來？（你的期末專案題目）",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#練習",
     "href": "week4.html#練習",
     "title": "Week 4 語音的世界 (2)",
     "section": "練習",
-    "text": "練習\n自行從 NACLO 或 UKLO 中選擇一個題目，自己解完之後（對答案），設法讓 chatGPT (or GPT-4) 來解題，並且將此過程記錄下來，寫成文檔上傳。\n\n記錄的內容\n\n題目 (來源、類型)\n解題過程與時間，以及給機器的 prompting chains）\n解題結果（人與機器的正確率）\n討論\n\n你或機器 (錯誤的原因)\n與其他想法"
+    "text": "練習\n自行從 NACLO 或 UKLO 中選擇一個題目，自己解完之後（對答案），設法讓 chatGPT (or GPT-4) 來解題，並且將此過程記錄下來，寫成文檔上傳。\n\n記錄的內容\n\n題目 (來源、類型)\n解題過程與時間，以及給機器的 prompting chains）\n解題結果（人與機器的正確率）\n討論\n\n你或機器 (錯誤的原因)\n與其他想法",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#section-2",
     "href": "week4.html#section-2",
     "title": "Week 4 語音的世界 (2)",
     "section": "",
-    "text": "step-by-step / chain-of-thought"
+    "text": "step-by-step / chain-of-thought",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#第一份正式作業",
     "href": "week4.html#第一份正式作業",
     "title": "Week 4 語音的世界 (2)",
     "section": "第一份正式作業",
-    "text": "第一份正式作業"
+    "text": "第一份正式作業",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#課堂練習",
     "href": "week4.html#課堂練習",
     "title": "Week 4 語音的世界 (2)",
     "section": "課堂練習",
-    "text": "課堂練習\n\n布農巒群方言轉寫\n錄一段你覺得人聽得懂，但機器還無法理解（轉寫）的語音句子，或對話。"
+    "text": "課堂練習\n\n布農巒群方言轉寫\n錄一段你覺得人聽得懂，但機器還無法理解（轉寫）的語音句子，或對話。",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   },
   {
     "objectID": "week4.html#section-3",
     "href": "week4.html#section-3",
     "title": "Week 4 語音的世界 (2)",
     "section": "",
-    "text": "Huang, Shaohan, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, et al. 2023. “Language Is Not All You Need: Aligning Perception with Language Models.” arXiv Preprint arXiv:2302.14045."
+    "text": "Huang, Shaohan, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, et al. 2023. “Language Is Not All You Need: Aligning Perception with Language Models.” arXiv Preprint arXiv:2302.14045.",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
+  },
+  {
+    "objectID": "week4.html#中文注音符號之漢語拼音與-ipa-拼寫對照表",
+    "href": "week4.html#中文注音符號之漢語拼音與-ipa-拼寫對照表",
+    "title": "Week 4 語音的世界 (2)",
+    "section": "中文注音符號之漢語拼音與 IPA 拼寫對照表",
+    "text": "中文注音符號之漢語拼音與 IPA 拼寫對照表",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
+  },
+  {
+    "objectID": "week4.html#section-1",
+    "href": "week4.html#section-1",
+    "title": "Week 4 語音的世界 (2)",
+    "section": "",
+    "text": "語調（Tone）：語調是指聲音的高低變化，它在一些語言中是區分意義的重要特徵，如漢語。不同的語調可以改變單詞的意義。例如，漢語中的“媽”（高平調）表示“媽媽”，而“麻”（上聲調）則有不同的意義。\n重音（Stress）：重音是指在單詞或語句中某個音節相對於其他音節發音更強、更高或更長。在許多語言中，重音的位置可以改變單詞的意義或語法特性。例如，英語中“record”（名詞）與“record”（動詞）就是通過重音的不同來區分的。\n節奏（Rhythm）：節奏是指語言中音節或音素出現的時間模式。不同語言有不同的節奏特徵，例如，有些語言如西班牙語，其節奏比較均勻，而英語則是以重音音節為基礎，形成不均勻的節奏。\n長短（Length）：在某些語言中，音素（特別是元音）的發音長度可以區分意義。例如，芬蘭語和日語中，音素的長短不同可以構成不同的單詞。",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
+  },
+  {
+    "objectID": "week4.html#section-4",
+    "href": "week4.html#section-4",
+    "title": "Week 4 語音的世界 (2)",
+    "section": "",
+    "text": "Huang, Shaohan, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, et al. 2023. “Language Is Not All You Need: Aligning Perception with Language Models.” arXiv Preprint arXiv:2302.14045.",
+    "crumbs": [
+      "首頁",
+      "Week 4 語音的世界 (2)"
+    ]
   }
 ]

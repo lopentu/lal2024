@@ -36,6 +36,10 @@ bibliography: tol.bib
 COOL 本週放上去的講義 (chaper 3) 有簡短說明。
 :::
 
+測試：[中文注音符號之漢語拼音與 IPA 拼寫對照表](https://homepage.ntu.edu.tw/~karchung/ChineseIPAJimmyrev.pdf)
+
+
+
 
 ## 另一種較大的角度
 Consonant: Place of articulation
@@ -124,24 +128,6 @@ Other manners of articulation
 :::
 
 
-## Alternation
-
-> an alternation is the phenomenon of a morpheme exhibiting variation in its phonological realization. Each of the various realizations is called an *alternant*. The variation may be conditioned by the phonological, morphological, and/or syntactic environment in which the morpheme finds itself.
-
-**alternation** 是個語言學術語，不是音韻學術語
-
-:::{.callout-note}
-[維基百科沒提到的](https://www.wikiwand.com/en/Alternation_(linguistics))
-
-<!-- - a scenario in which a **morpheme** has more than one surface realization, depending on the context in which it occurs. -->
-
-<!-- - **alternation** is a special case of **free variation**. -->
-
-<!-- - a phonological pattern in which an underlying form has more than one surface phone realization, depending on the context in which it occurs. -->
-
-- sense alternation: regular polysemy; metonymy
-
-:::
 
 
 ## Phonetics vs. Phonology
@@ -257,7 +243,27 @@ Allomorph
 - Example: English plural
 
   ![](./pics/eng.png){width=7in}
-  
+
+
+
+## Alternation
+
+> an alternation is the phenomenon of a morpheme exhibiting variation in its phonological realization. Each of the various realizations is called an *alternant*. The variation may be conditioned by the phonological, morphological, and/or syntactic environment in which the morpheme finds itself.
+
+**alternation** 是個語言學術語，不是音韻學術語
+
+:::{.callout-note}
+[維基百科沒提到的](https://www.wikiwand.com/en/Alternation_(linguistics))
+
+<!-- - a scenario in which a **morpheme** has more than one surface realization, depending on the context in which it occurs. -->
+
+<!-- - **alternation** is a special case of **free variation**. -->
+
+<!-- - a phonological pattern in which an underlying form has more than one surface phone realization, depending on the context in which it occurs. -->
+
+- sense alternation: regular polysemy; metonymy
+
+:::  
 
 ## Apophony
 
