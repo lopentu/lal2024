@@ -2129,8 +2129,8 @@
     "objectID": "week4.html#今天的主題",
     "href": "week4.html#今天的主題",
     "title": "Week 4 語音的世界 (2)",
-    "section": "",
-    "text": "音韻學基本概念與分析\n語音音韻的題型設計 (+ 上次的題目討論)\n語音轉寫與自動辨識應用"
+    "section": "今天的主題",
+    "text": "今天的主題\n\n音韻學基本概念與分析\n語音音韻的題型設計 (+ 上次的題目) 討論\nlab session : 語音轉寫與自動辨識應用"
   },
   {
     "objectID": "week4.html#複習一下基本概念",
@@ -2284,7 +2284,7 @@
     "href": "week4.html#音調-tone",
     "title": "Week 4 語音的世界 (2)",
     "section": "音調 Tone",
-    "text": "音調 Tone\n\nPitch that carries lexical/grammatical information\nTone pitch are relative\nCounter tone 聲調的區別在於音高隨時間的變化輪廓，如升調、降調、升降調等。\nRegister tone 聲調的區別主要基於音高的絕對高度或相對高低，而不涉及音高的變化過程。\n\n\n\n\n\n\n\n\n\n\n\n\nPitch 是指聲音的音高，由發音時聲帶振動頻率的高低決定的物理特性。Tone 則指在某些語言中，不同的音高模式用來區分單詞意義或詞形變化的語音特徵。"
+    "text": "音調 Tone\n\nPitch that carries lexical/grammatical information\nTone pitch are relative\nCounter tone 聲調的區別在於音高隨時間的變化輪廓，如升調、降調、升降調等。\nRegister tone 聲調的區別主要基於音高的絕對高度或相對高低，而不涉及音高的變化過程。\n\n\n\n\n\n\n\n\nPitch 是指聲音的音高，由發音時聲帶振動頻率的高低決定的物理特性。Tone 則指在某些語言中，不同的音高模式用來區分單詞意義或詞形變化的語音特徵。"
   },
   {
     "objectID": "week4.html#構詞音韻",
@@ -2396,14 +2396,14 @@
     "href": "week4.html#機器即將做得比人好",
     "title": "Week 4 語音的世界 (2)",
     "section": "機器即將做得比人好？",
-    "text": "機器即將做得比人好？\n\n進入新的人機協作時代\n(多模態)大型語言模型 (e.g. chatGPT) （即將）改變了社會生活與教育的面貌。\n\n天下專題\n(Huang et al. 2023)"
+    "text": "機器即將做得比人好？\n\n進入新的人機協作時代\n(多模態)大型語言模型 (e.g. chatGPT) （即將）改變了社會生活與教育的面貌。(Huang et al. 2023)\n\n天下專題"
   },
   {
     "objectID": "week4.html#練習用-chatgpt-claude-3gemini-來解題",
     "href": "week4.html#練習用-chatgpt-claude-3gemini-來解題",
     "title": "Week 4 語音的世界 (2)",
     "section": "練習用 chatGPT / Claude 3/Gemini 來解題",
-    "text": "練習用 chatGPT / Claude 3/Gemini 來解題\n\n怎麼讓機器解出題目來？"
+    "text": "練習用 chatGPT / Claude 3/Gemini 來解題\n\n怎麼讓機器解出題目來？\n\n\n怎麼不讓機器解出題目來？（你的期末專案題目）"
   },
   {
     "objectID": "week4.html#練習",
@@ -2425,5 +2425,19 @@
     "title": "Week 4 語音的世界 (2)",
     "section": "第一份正式作業",
     "text": "第一份正式作業"
+  },
+  {
+    "objectID": "week4.html#課堂練習",
+    "href": "week4.html#課堂練習",
+    "title": "Week 4 語音的世界 (2)",
+    "section": "課堂練習",
+    "text": "課堂練習\n\n布農巒群方言轉寫\n錄一段你覺得人聽得懂，但機器還無法理解（轉寫）的語音句子，或對話。"
+  },
+  {
+    "objectID": "week4.html#section-3",
+    "href": "week4.html#section-3",
+    "title": "Week 4 語音的世界 (2)",
+    "section": "",
+    "text": "Huang, Shaohan, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, et al. 2023. “Language Is Not All You Need: Aligning Perception with Language Models.” arXiv Preprint arXiv:2302.14045."
   }
 ]

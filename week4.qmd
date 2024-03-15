@@ -18,9 +18,9 @@ bibliography: tol.bib
 
 - 音韻學基本概念與分析 
 
-- 語音音韻的題型設計 (+ 上次的題目討論)
+- 語音音韻的題型設計 (+ 上次的題目) 討論
 
-- 語音轉寫與自動辨識應用
+- lab session : 語音轉寫與自動辨識應用
 
 
 ## 複習一下基本概念
@@ -435,11 +435,11 @@ how to solve phonological problems (and turn them into puzzles)
 
 - 進入新的人機協作時代
 
-- (多模態)大型語言模型 (e.g. **chatGPT**) （即將）改變了社會生活與教育的面貌。
+- (多模態)大型語言模型 (e.g. **chatGPT**) （即將）改變了社會生活與教育的面貌。[@huang2023language]
 
 [天下專題](https://www.cw.com.tw/article/5124816)
 
-[@huang2023language]
+
 
 
 ## 語言邏輯的重要
@@ -453,7 +453,7 @@ how to solve phonological problems (and turn them into puzzles)
 ## 練習用 `chatGPT` / `Claude 3`/`Gemini`  來解題
 > 怎麼讓機器解出題目來？
 
-
+> 怎麼不讓機器解出題目來？（你的期末專案題目）
 
 ## 語音也可以
 
@@ -472,6 +472,14 @@ how to solve phonological problems (and turn them into puzzles)
 [lab](https://colab.research.google.com/drive/10Ve_5sWbBoYk-U1Fr51n89-LBrH04eA4?usp=sharing)：開啓後，請見建立【副本】再行編輯與執行。
 
 
+
+## 課堂練習
+
+- 布農巒群方言轉寫 
+
+- 錄一段你覺得人聽得懂，但機器還無法理解（轉寫）的語音句子，或對話。
+
+![](./pics/bunun.png)
 
 <!-- [參考](https://towardsdatascience.com/speech-to-text-with-openais-whisper-53d5cea9005e) -->
 
