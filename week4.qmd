@@ -82,7 +82,7 @@ Other manners of articulation
 
 ![](./pics/vowel.png){fig-align="right"}
 
-## 超音段特徵 Supersegmental Features
+## 超音段特徵 Suprasegmental Features
 
 > 指那些跨越單個音素（語音的最小單位）的語音特徵，它們影響的是音節、單詞甚至更長語句的發音。不僅影響語音的音質，還能傳達情感、語氣和強調等語用信息。
 
