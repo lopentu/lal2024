@@ -1826,7 +1826,7 @@
     "href": "week5.html#語言結構",
     "title": "Week 5 構詞",
     "section": "語言結構",
-    "text": "語言結構\n\n構詞學 (Morphology) the analysis of internal structure of words\n句法 (Syntax) the analysis of the internal structure of sentences/utterances",
+    "text": "語言結構\n詞法 與 句法\n\n構詞學 (Morphology) the analysis of internal structure of words\n句法 (Syntax) the analysis of the internal structure of sentences/utterances",
     "crumbs": [
       "首頁",
       "Week 5 構詞"
@@ -1881,7 +1881,7 @@
     "href": "week5.html#morphemes-bound-and-free",
     "title": "Week 5 構詞",
     "section": "Morphemes: Bound and Free",
-    "text": "Morphemes: Bound and Free\n\ncan be used alone (i.e., as a word) or not.\nAffix (prefix, suffix, infix, circumfix,…)\nMorphologically complex words consist of a root and one or more affixes.\n\nA root is a lexical content morphemes that cannot be analyzed into small parts.\nWhen a root morpheme is combined with an affix, it forms a stem, which may or may not be a word.\n\n\n\nsemitic",
+    "text": "Morphemes: Bound and Free\n\ncan be used alone (i.e., as a word) or not.\nAffix (prefix, suffix, infix, circumfix,…)\nMorphologically complex words consist of a root and one or more affixes.\n\nA root is a lexical content morphemes that cannot be analyzed into small parts.\nWhen a root morpheme is combined with an affix, it forms a stem, which may or may not be a word.",
     "crumbs": [
       "首頁",
       "Week 5 構詞"
@@ -1892,7 +1892,7 @@
     "href": "week5.html#english-morpheme",
     "title": "Week 5 構詞",
     "section": "English morpheme",
-    "text": "English morpheme\n\nEnglish morphology",
+    "text": "English morpheme",
     "crumbs": [
       "首頁",
       "Week 5 構詞"
@@ -1947,7 +1947,7 @@
     "href": "week5.html#構詞與詞義的界面",
     "title": "Week 5 構詞",
     "section": "構詞與詞義的界面",
-    "text": "構詞與詞義的界面\n\nwhy is ‘unlockable’ ambiguous?",
+    "text": "構詞與詞義的界面",
     "crumbs": [
       "首頁",
       "Week 5 構詞"
@@ -1958,7 +1958,7 @@
     "href": "week5.html#不可解的還是可解的",
     "title": "Week 5 構詞",
     "section": "不可解的還是可解的",
-    "text": "不可解的還是可解的",
+    "text": "不可解的還是可解的\n\nwhy is ‘unlockable’ ambiguous?",
     "crumbs": [
       "首頁",
       "Week 5 構詞"
@@ -1969,7 +1969,7 @@
     "href": "week5.html#歧義練習",
     "title": "Week 5 構詞",
     "section": "歧義練習",
-    "text": "歧義練習\n\n歧義 (ambiguity) is a property of language that arises when a word or phrase can be interpreted in more than one way.\ntypes of ambiguity:\n\nlexical ambiguity\nsyntactic ambiguity",
+    "text": "歧義練習\n\n歧義 (ambiguity) is a property of language that arises when a word or phrase can be interpreted in more than one way.\ntypes of ambiguity:\n\nlexical ambiguity\nsyntactic ambiguity\nscope ambiguity",
     "crumbs": [
       "首頁",
       "Week 5 構詞"
@@ -1980,7 +1980,7 @@
     "href": "week5.html#中文詞彙網路",
     "title": "Week 5 構詞",
     "section": "中文詞彙網路",
-    "text": "中文詞彙網路",
+    "text": "中文詞彙網路\n「老」有幾個意思？「老鼠」的「老」是什麼？(empty morpheme?)\n\n\n\n\n\n\n打的故事：課堂加分作業一",
     "crumbs": [
       "首頁",
       "Week 5 構詞"
@@ -2156,7 +2156,7 @@
     "href": "week5.html#applying-morphology-neologism",
     "title": "Week 5 構詞",
     "section": "Applying Morphology: Neologism",
-    "text": "Applying Morphology: Neologism\n\nwhat is the underlying word formation process?\nproductivity? chance of survival?",
+    "text": "Applying Morphology: Neologism\n\nwhat is the underlying word formation process?\nproductivity? chance of survival?\n\n\n\n\n\n\n\n\n卡位 (blocking) 原則\n\n\n臺北大學 》北大；系友會 vs 所有會？",
     "crumbs": [
       "首頁",
       "Week 5 構詞"
@@ -2706,6 +2706,215 @@
     "crumbs": [
       "首頁",
       "Week 4 語音的世界 (2)"
+    ]
+  },
+  {
+    "objectID": "week5.html#本週主題",
+    "href": "week5.html#本週主題",
+    "title": "Week 5 構詞",
+    "section": "本週主題",
+    "text": "本週主題\n\n字詞的內部與組合結構",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#先岔開做一個實驗",
+    "href": "week5.html#先岔開做一個實驗",
+    "title": "Week 5 構詞",
+    "section": "先岔開做一個實驗",
+    "text": "先岔開做一個實驗\n\n\nContent words (open class) vs function words (closed class).\n\nAny psychological or neurological evidence?\n\n\n\n\n\n\n\n\n\n以下句子有幾個 F 字母？\n\n\nFINISHED FILES ARE THE RESULT OF YEARS OF SCIENTIFIC STUDY COMBINED WITH THE EXPERIENCE OF YEARS",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#詞素-morpheme",
+    "href": "week5.html#詞素-morpheme",
+    "title": "Week 5 構詞",
+    "section": "詞素 Morpheme",
+    "text": "詞素 Morpheme\n\nThe minimal units of Meaning (a linguistic hypothesis)  boy (1), boy-ish (2), boy-ish-ness (3), gentle-man-li-ness (4), un-gentle-man-li-ness (5) \nEvery word in every language is composed of one or more morphemes (bold hypothesis of discreteness!)\n\n\n\n\n\n\n\n\nnot to confuse morphemes with syllables\n\n\n\nMississippi has more than one syllable but is only a single morpheme",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#exercise-咒罵中綴-expletive-infixation",
+    "href": "week5.html#exercise-咒罵中綴-expletive-infixation",
+    "title": "Week 5 構詞",
+    "section": "Exercise: 咒罵中綴 Expletive Infixation",
+    "text": "Exercise: 咒罵中綴 Expletive Infixation\n\nThe most common infix in America is the word fuckin’ and all the euphemisms for it, such as friggin, freakin, flippin, and fuggin, as in in-fuggin-credible, un-fuckin-believable. In Britain, a common infix is bloody, an obscene term in British English, and its euphemisms, such as bloomin’. (as in the movie and stage musical My Fair Lady, the word abso + bloomin + lutely)\nNative speakers (with some dialectal variations) have intuitions about where to insert the (expletive) infix.\n\n\n\n\n\n\n\nabsolutely ?\nbasketball ?",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#構詞語意",
+    "href": "week5.html#構詞語意",
+    "title": "Week 5 構詞",
+    "section": "構詞語意",
+    "text": "構詞語意",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#構詞語意練習",
+    "href": "week5.html#構詞語意練習",
+    "title": "Week 5 構詞",
+    "section": "構詞語意練習",
+    "text": "構詞語意練習\nYou are given words in Swahili:\nmtu, mbuzi, jito, mgeni, jitu and kibuzi. \nTheir translations in a different order are:\ngiant, little goat, guest, goat, person, large river\n\nMake the correspondence.",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#wordnet",
+    "href": "week5.html#wordnet",
+    "title": "Week 5 構詞",
+    "section": "Wordnet",
+    "text": "Wordnet\nfine-grained word sense inventory",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#section-4",
+    "href": "week5.html#section-4",
+    "title": "Week 5 構詞",
+    "section": "",
+    "text": "最多義的動詞？ :::{.incremental}\n :::",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#section-5",
+    "href": "week5.html#section-5",
+    "title": "Week 5 構詞",
+    "section": "",
+    "text": "More data analysis and applications in AI context\nROCLING 2023 tutorial",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#sense-tagger",
+    "href": "week5.html#sense-tagger",
+    "title": "Week 5 構詞",
+    "section": "Sense tagger",
+    "text": "Sense tagger\ncolab notebook",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#語法化",
+    "href": "week5.html#語法化",
+    "title": "Week 5 構詞",
+    "section": "語法化",
+    "text": "語法化\n虛化\n\n實詞 (content word) 語義在歷史的軌跡中，轉化為非實詞語義，並且該詞轉化為表語法功能為主的成分（即虛詞或稱功能詞） 的過程或現象。如漢語「把」「被」。\n「那(個)」\n\n 從最原始的遠指指示代名詞 (“那(個)人”)，到心理空間中較遠 (“你如果不喜歡，那我就不去”)，到言談中換取思考時間的填充詞 (filler) (“那個那個拍得很好”)\n那個我跟你說，我老公實在很那個，昨天那個來了他還要那個",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#語奧必考知識",
+    "href": "week5.html#語奧必考知識",
+    "title": "Week 5 構詞",
+    "section": "語奧必考知識",
+    "text": "語奧必考知識\nGrammatical Category 或 Grammatical features\n\n\n\n\n\n\n推薦語奧推廣影片",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#section-6",
+    "href": "week5.html#section-6",
+    "title": "Week 5 構詞",
+    "section": "",
+    "text": "Fusional language\n\nwords are formed by adding bound morphemes to stems, just as in agglutinating languages, but in fusional languages the affixes may not be easy to separate from the stem.\nin fusional languages a single affix more frequently conveys several meanings simultaneously. (e.g., the following sentence in Russian, the suffix [-l] means singular, masculine, and past tense, simultaneously.)\n\n[[ʧital]  `he was reading’",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#section-7",
+    "href": "week5.html#section-7",
+    "title": "Week 5 構詞",
+    "section": "",
+    "text": "Polysynthetic language\n\nhighly complex words may be formed by combining several stems and affixes; this is usually a matter of making nouns (subjects, objects, etc.) into parts of the verb forms.\ne.g., Sora, a language spoken in India, allows such incorporation of objects (subjects, instruments, etc.) into verbs\n\n\n\n\nsora",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#wordhood-是個大哉問",
+    "href": "week5.html#wordhood-是個大哉問",
+    "title": "Week 5 構詞",
+    "section": "Wordhood 是個大哉問",
+    "text": "Wordhood 是個大哉問",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#還在那邊的斷詞剖析",
+    "href": "week5.html#還在那邊的斷詞剖析",
+    "title": "Week 5 構詞",
+    "section": "「還在那邊」]的斷詞剖析",
+    "text": "「還在那邊」]的斷詞剖析\nBEFORE\n\n不是我要說他，已經什麼都有了他還在那邊邱什麼邱。別人我不敢說，這種人喔實在是 $#* :-(\n\nAFTER",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#錄位-listeme",
+    "href": "week5.html#錄位-listeme",
+    "title": "Week 5 構詞",
+    "section": "「錄位」 listeme",
+    "text": "「錄位」 listeme\n\nidiosyncratic linguistic unit that must be recorded in the lexicon.\n記憶單位 (Memorized units:)：不拘大小，可以是語段、詞組、句子、成語、單詞、音段、聲調、子母音…",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#構式-constructions",
+    "href": "week5.html#構式-constructions",
+    "title": "Week 5 構詞",
+    "section": "構式 constructions",
+    "text": "構式 constructions",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#題目練習",
+    "href": "week5.html#題目練習",
+    "title": "Week 5 構詞",
+    "section": "題目練習",
+    "text": "題目練習\nIn Latvian a noun can be one of two genders; furthermore, adjectives agree with nouns in gender, number and case. You are given phrases in either the nominative or the genitive case with their translations:\nsilts ezers — warm lake\nmelns lauva — black lion\nliela krāsns — big oven\nlielas jūras — big sea’s\nsarkana ezera — red lake’s\nmelna kafija — black coffee\nsarkans putns — red bird\nliela kalna — big mountain’s\nsarkanas lapas — red leaf’s\nsarkana pils — red castle\nliels ezers — big lake\nmelna putna — black bird’s\nliela lauvas — big lion’s\nsilta jūra — warm sea\nmelnas kafijas — black coffee’s\nliels kalns — big mountain",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
     ]
   }
 ]

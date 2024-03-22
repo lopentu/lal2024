@@ -10,7 +10,7 @@ project:
       - week2.qmd
       - week3.qmd
       - week4.qmd
-      # - week5.qmd
+      - week5.qmd
       # - week6.qmd      
       # - week10.qmd
       # - week12.qmd
@@ -40,7 +40,7 @@ website:
       - week2.qmd
       - week3.qmd
       - week4.qmd
-      #- week5.qmd
+      - week5.qmd
       #- week6.qmd
       #- week10.qmd
       #- week12.qmd

@@ -15,33 +15,25 @@ bibliography: tol.bib
 
 
 
-# 本週主題
-- Morphology
+## 本週主題
+
+- 字詞的內部與組合結構
 
 
 
 ## 語言結構
+`詞法` 與 `句法`
 
 - 構詞學 (*Morphology*) the analysis of internal structure of words
 
 - 句法 (*Syntax*) the analysis of the internal structure of sentences/utterances
 
-## 注意【界面】問題
-題型設計上（語言使用上也是），常常放在一起討論。
 
-- 構詞句法 (*Morphosyntax*) the analysis of the internal structure of utterances, both above the word level and below it.
 
-:::{.callout-note}
-## 例子：[English Numeral Modification]{.blue-text}
-
-`one tree, two trees, three trees`, etc. 
-
-同時涉及句法 (名詞於數量詞的次序) 和 構詞 (名詞的單複數變化)。
-:::
 
 
 # 構詞學
-**Morphology**
+或稱形態學 **Morphology**
 
 - The study of word-making, morphological process and morphological types of world Languages.
 - Rules underlying our knowledge of structured of words.
@@ -53,14 +45,14 @@ bibliography: tol.bib
 
 
 
-## 岔開做一個實驗
+## 先岔開做一個實驗
 :::{.incremental}
 
 - Content words (open class) vs function words (closed class).
-    - Any psychological or neurological evidence? (count the number of F’s in the following text)
+    - Any psychological or neurological evidence? 
 
-:::{.callout-warning}
-**有幾個 F 字母？**
+:::{.callout-warning title="以下句子有幾個 F 字母？"}
+
 
 [FINISHED FILES ARE THE RESULT OF YEARS OF SCIENTIFIC STUDY COMBINED WITH THE EXPERIENCE OF YEARS]{.blue-text}
 
@@ -70,22 +62,20 @@ bibliography: tol.bib
 
 
 
-## Morpheme
-
+## 詞素 Morpheme
 
 - The minimal units of Meaning (a linguistic hypothesis)
-    - one morpheme: boy
-    - two morphemes: boy-ish
-    - three morphemes: boy-ish-ness
-    - four morphemes: gentle-man-li-ness
-    - five morphemes: un-gentle-man-li-ness		
-
-- not to confuse morphemes with syllables
-    - *Mississippi* has more than one syllable but is only a single morpheme
-    <!-- - 鄒語的 amo「爸爸」 -->
+<small>
+    boy (1), boy-ish (2), boy-ish-ness (3), gentle-man-li-ness (4), un-gentle-man-li-ness	(5)	
+</small>
 
 - Every word in every language is composed of one or more morphemes (bold hypothesis of discreteness!)
 
+:::{.callout-tip title="not to confuse morphemes with syllables"}
+- *Mississippi* has more than one syllable but is only a single morpheme
+<!-- - 鄒語的 amo「爸爸」 -->
+
+:::
 
 
 ## Morphemes: Bound and Free
@@ -96,12 +86,14 @@ bibliography: tol.bib
     - A root is a lexical content morphemes that cannot be analyzed into small parts.
     - When a root morpheme is combined with an affix, it forms a stem, which may or may not be a word.
 
-![semitic](pics/semitic.png)
+## 
+
+![](pics/semitic.png)
 
 
 ## English morpheme
 
-![English morphology](pics/morpheme.png)
+![](pics/morpheme.png)
 
 
 
@@ -114,7 +106,7 @@ bibliography: tol.bib
 
 
 
-## Exercise: Expletive Infixation
+## Exercise: 咒罵中綴 Expletive Infixation
 
 - The most common infix in America is the word fuckin’ and all the euphemisms for it, such as friggin, freakin, flippin, and fuggin, as in in-fuggin-credible, un-fuckin-believable. In Britain, a common infix is bloody, an obscene term in British English, and its euphemisms, such as bloomin’. (as in the movie and stage musical My Fair Lady, the word abso + bloomin + lutely) 	
 
@@ -133,7 +125,7 @@ basketball ?
 
 ## Morphemes identification
 
-![Flowchart for identifying morphemes](pics/mor_id.png)
+![Flowchart for identifying morphemes](pics/mor_id.png){width=30%}
 
 
 
@@ -141,19 +133,29 @@ basketball ?
 
 
 
+## 注意【界面】問題
+題型設計上（語言使用上也是），常常放在一起討論。
+
+- 構詞句法 (*Morphosyntax*) the analysis of the internal structure of utterances, both above the word level and below it.
+
+:::{.callout-note}
+## 例子：[English Numeral Modification]{.blue-text}
+
+`one tree, two trees, three trees`, etc. 
+
+同時涉及句法 (名詞於數量詞的次序) 和 構詞 (名詞的單複數變化)。
+:::
+
 
 
 ## 構詞與詞義的界面
 
-> why is ‘unlockable’ ambiguous?
+
 
 
 ## 不可解的還是可解的
-
+> why is ‘unlockable’ ambiguous?
 ![](pics/unlockable.png)
-
-
-
 
 ## 歧義練習
 
@@ -161,12 +163,84 @@ basketball ?
 - types of ambiguity:
     - lexical ambiguity
     - syntactic ambiguity
+    - scope ambiguity
 
 
 
+## 構詞語意
+
+
+## 構詞語意練習
+
+You are given words in Swahili: 
+
+```
+mtu, mbuzi, jito, mgeni, jitu and kibuzi. 
+```
+
+Their translations in a different order are: 
+```
+giant, little goat, guest, goat, person, large river
+```
+
+- Make the correspondence.
+
+
+
+## Wordnet
+`fine-grained word sense inventory`
+
+![](pics/wn1.png)
+
+
+##
+![](pics/wn2.png)
+
+
+##
+![](pics/wn3.png)
+
+
+
+##
+![](pics/wn4.png)
+
+## 
+最多義的動詞？
+:::{.incremental}
+
+
+![](pics/break.png)
+:::
 
 
 ## 中文詞彙網路
+
+
+
+
+
+「老」有幾個意思？「老鼠」的「老」是什麼？(`empty morpheme`?)
+
+
+
+
+:::{.callout-note}
+## 打的故事：課堂加分作業一
+:::
+
+
+
+
+##
+More data analysis and applications in AI context
+
+[ROCLING 2023 tutorial](https://lopentu.github.io/CwnWeb/talks/#/)
+
+
+## Sense tagger
+[colab notebook](https://colab.research.google.com/drive/1ifMIy5ydH5BvxqCKqKg552I3ffv7fpD5?usp=sharing)
+
 
 
 ## Basic categories
@@ -176,7 +250,19 @@ basketball ?
 
 
 
-# 語奧必考知識
+## [語法化](https://www.wikiwand.com/zh-tw/%E8%AF%AD%E6%B3%95%E5%8C%96) 
+`虛化`
+
+- 實詞 (content word) 語義在歷史的軌跡中，轉化為非實詞語義，並且該詞轉化為表語法功能為主的成分（即虛詞或稱功能詞）
+的過程或現象。如漢語「把」「被」。
+
+- 「那(個)」
+
+  - <small> 從最原始的遠指指示代名詞 ("那(個)人")，到心理空間中較遠 ("你如果不喜歡，那我就不去")，到言談中換取思考時間的**填充詞** (filler) ("那個那個拍得很好")</small>
+
+  - <small>那個我跟你說，我老公實在很那個，昨天那個來了他還要那個 </small>
+
+## 語奧必考知識
 
 [Grammatical Category](https://www.wikiwand.com/en/Grammatical_category) 或 [Grammatical features](https://www.wikiwand.com/en/Grammatical_category)
 
@@ -264,6 +350,11 @@ Sign languages make use of affixation as well.
 `Iwonderifyoucanreadthiswithoutspacesaseasilyasyoucanwhentherearespacesbetweenthewords.
 `
 
+
+## Wordhood 是個大哉問
+![](pics/wordhood.png)
+
+
 ## What about Chinese?
 - less than 80% agreement in word counts experiment
 - Character = morpheme = syllable ???
@@ -298,6 +389,32 @@ The indeterminacy of word boundaries shows that "word" is far from a simple conc
 
 
 
+## 「還在那邊」]的斷詞剖析 
+### BEFORE
+
+> 不是我要說他，已經什麼都有了他還在那邊邱什麼邱。別人我不敢說，這種人喔實在是 $#* :-(
+
+
+### AFTER
+
+<!-- ```{r echo=TRUE, message=FALSE, warning=FALSE} -->
+<!-- tokens("不是我要說他，已經什麼都有了他還在那邊邱什麼邱。別人我不敢說，這種人喔實在是 $#* :-( $#*") -->
+<!-- ``` -->
+
+
+
+
+
+## 「錄位」 listeme
+
+- idiosyncratic linguistic unit that must be recorded in the lexicon.
+
+- 記憶單位 (Memorized units:)：不拘大小，可以是語段、詞組、句子、成語、單詞、音段、聲調、子母音...
+
+
+## 構式 constructions
+
+
 
 ## Applying Morphology: Emoticon
 
@@ -318,9 +435,42 @@ The indeterminacy of word boundaries shows that "word" is far from a simple conc
 
 
 ## Applying Morphology: Neologism
+
 - what is the underlying word formation process?
 	
 - productivity? chance of survival?
 
 
 ![](pics/neologism.png)
+
+
+::: {.callout-tip}
+### 卡位 (*blocking*) 原則
+臺北大學 》北大；系友會 vs 所有會？
+:::
+
+
+
+
+## 題目練習
+<small>In Latvian a noun can be one of two genders; furthermore, adjectives agree with nouns in gender, number and case. You are given phrases in either the nominative or the genitive case with their translations:
+
+```
+silts ezers — warm lake
+melns lauva — black lion
+liela krāsns — big oven
+lielas jūras — big sea’s
+sarkana ezera — red lake’s
+melna kafija — black coffee
+sarkans putns — red bird
+liela kalna — big mountain’s
+sarkanas lapas — red leaf’s
+sarkana pils — red castle
+liels ezers — big lake
+melna putna — black bird’s
+liela lauvas — big lion’s
+silta jūra — warm sea
+melnas kafijas — black coffee’s
+liels kalns — big mountain
+```
+</small>
