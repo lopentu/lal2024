@@ -62,7 +62,7 @@ bibliography: tol.bib
 ## Categorical Grammar
 規則更少更抽象的
 
-![](../pics/cg.png)
+![](pics/cg.png)
 
 
 
@@ -116,11 +116,11 @@ bibliography: tol.bib
 ##
 皮爾斯提出了三種不同類型的符號 (sign)：
 
-  - 標誌符號 (icon) : 符號與客觀對象有形象上的關係。     ![icon](../pics/icon.jpeg){width="30%"}
+  - 標誌符號 (icon) : 符號與客觀對象有形象上的關係。     ![icon](pics/icon.jpeg){width="30%"}
 
   - 指示符號（index）: 符號與客觀對象有直接的或因果的關係。![index](../pics/paw-prints.jpg){width="30%"}
 
-  - 象徵符號（symbol）: 符號與客觀對象有約定俗成的關係。 ![symbol](../pics/symbols.jpeg){width="30%"}
+  - 象徵符號（symbol）: 符號與客觀對象有約定俗成的關係。 ![symbol](pics/symbols.jpeg){width="30%"}
 
 [pic source](https://media-studies.com/peirce-sign-categories/)
 
@@ -160,13 +160,13 @@ bibliography: tol.bib
 - 概念的原型和屬性
 - 階層化
 
-![cup or bowl](../pics/Labov-Cups.png){width="70%"}
+![cup or bowl](pics/Labov-Cups.png){width="70%"}
 
 
 
 ## 主體與背景  (Figure and Ground)
 
-![](../pics/fig-ground.png){width="40%"}
+![](pics/fig-ground.png){width="40%"}
 
 - 語言順序如何反應主體與背景的認知關係？
 
@@ -222,7 +222,7 @@ Computational Construction Grammar (C*G)
 
 [CxLM: A Construction and Context-aware Language Model, 2022](https://aclanthology.org/2022.lrec-1.683/)
 
-![](../pics/ccg1.png)
+![](pics/ccg1.png)
 
 
 
@@ -233,7 +233,7 @@ Computational Construction Grammar (C*G)
 
 ## 也可以出成題目
 
-![](../pics/klo2018.png){width=80%}
+![](pics/klo2018.png){width=80%}
 
 
 
