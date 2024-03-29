@@ -8,7 +8,6 @@ format:
         chalkboard: true
         # multiplex: true
         logo: /pics/logo_round.png
-
 jupyter: python3
 bibliography: tol.bib
 ---
@@ -320,7 +319,7 @@ Sign languages make use of affixation as well.
     - words are formed by adding bound morphemes to stems, just as in agglutinating languages, but in fusional languages the affixes may not be easy to separate from the stem. 
     - in fusional languages a single affix more frequently conveys several meanings simultaneously. (e.g., the following sentence in Russian, the suffix [-l] means singular, masculine, and past tense, simultaneously.)
 
-    `[[ʧital]`  `he was reading' 
+    `[[ʧital]` `he was reading' 
 
 
 ##
@@ -397,9 +396,9 @@ The indeterminacy of word boundaries shows that "word" is far from a simple conc
 
 ### AFTER
 
-<!-- ```{r echo=TRUE, message=FALSE, warning=FALSE} -->
-<!-- tokens("不是我要說他，已經什麼都有了他還在那邊邱什麼邱。別人我不敢說，這種人喔實在是 $#* :-( $#*") -->
-<!-- ``` -->
+```{r echo=TRUE, message=FALSE, warning=FALSE}
+tokens("不是我要說他，已經什麼都有了他還在那邊邱什麼邱。別人我不敢說，這種人喔實在是 $#* :-( $#*") 
+``` 
 
 
 

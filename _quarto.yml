@@ -11,7 +11,7 @@ project:
       - week3.qmd
       - week4.qmd
       - week5.qmd
-      # - week6.qmd      
+      - week6.qmd      
       # - week10.qmd
       # - week12.qmd
       # - week13.qmd
@@ -41,7 +41,7 @@ website:
       - week3.qmd
       - week4.qmd
       - week5.qmd
-      #- week6.qmd
+      - week6.qmd
       #- week10.qmd
       #- week12.qmd
       #- week13.qmd

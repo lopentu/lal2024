@@ -1,5 +1,5 @@
 ---
-title: "Week 6 構詞句法"
+title: "Week 6 構詞與句法"
 author: "謝舒凱 台大語言所"
 format:
     revealjs:
@@ -16,42 +16,239 @@ bibliography: tol.bib
 
 
 # 本週主題
-- Morpho-Syntax (II)
+- Morpho-Syntax 
 
 
 
-## Syntax vs Grammar
+## 基本用語
 
-- 句法（syntax）是語言學中研究句子結構的學科。構詞語法則較從世界語言的角度，探究 grammar 特徵 (構詞句法互動)。(注意這裏的 grammar 不是教學意義上的教學文法，而是一個整體語言系統)
+- 句法學（syntax）是語言學中研究句子結構的學科。
+
+- Grammar 是一般教學用的文法概念；在語言學中也可以當成是指涉整體語言系統。
+
+- 構詞句法 (morpho-syntax) 則是從世界語言的角度，探究與描述 grammar 特徵 (esp. 構詞句法互動)。
+
+
+
+## Syntax 101
+
+- Constituent: a unit of syntactic structure, such as a phrase or a clause.
+- Syntactic categories: N, V, Noun Phrase, Verb Phrase, Prepositional Phrase, etc.
+
+## Syntax 101
 
 - Subject and Object; Word order
 - Argument: argument, complement (non-subject, obligatory argument), adjunct (optional argument)
+- thematic roles
 - Agreement
 
 :::{.callout-note}
 - (a). The painting resembles *a flower*. 
-- (b). The painting was stolen *from the museumr*.
-
+- (b). The painting was stolen *from the museum*.
 :::
 
-- Constituent: a unit of syntactic structure, such as a phrase or a clause.
-- Syntactic categories: N, V, Noun Phrase, Verb Phrase, Preopositional Phrase, etc.
 
 ## Constructing a grammar
 `(形式) 語言學向來的主流假說`
-- 一個語言的 grammar 由一系列的規則+詞庫組成，這些規則可以用來描述語言的結構。
+- 一個語言的 grammar 由一系列的句法規則+詞庫組成，這些規則可以用來描述與生成語言的結構。
 
 - Phrase structure rule and Recursion
 
+## 
+在語法上，遞歸（Recursion）指的是能夠利用有限的規則和詞彙生成無限數量的句子的語言特質。遞歸允許在語言結構中的某一部分在其自身內部被重複使用。`NP -> NP Conj NP`
+
+- 有各種方式：`Bob的[朋友的[兄弟]]]`, `我知道[你喜歡[她說的話]]`
+
+## Categorical Grammar
+規則更少更抽象的
+
+![](../pics/cg.png)
+
+
+
+## 
+形式語言學（形式語法與邏輯語意）在程式語言的編譯上具有很大的用途。
+
+- 語意學很長一段時間將重點放在具有真值 (truth value) 判斷的陳述句，同時開展了相當完整的邏輯與推導系統。
+
+- 但是，語言的使用者不只是要表達真實的意義，也要表達自己的情緒、態度、立場、意圖、想法、慾望等交際意義。
+
+
+## 語言學到現在累積的幾個經驗 
+<small>(Hsieh 2023)</small>
+
+- 化約論 (reductionism) (複雜的問題可以通過分析其組成部分來解決) 在探究**語言的意義**上有很大的局限性。
+
+- 模塊觀 (modularist view) 是 useful fiction。例如把語意與語用分開處理，是教學方便。
+
+- 語法自主 (autonomy of syntax) 與內在天賦論 (innateness) 是可疑的。 $\rightarrow$ 語言學習是意義與交互作用中驅動的。句法與語意不可分，是在使用中湧現的產物。
+
+
+:::{.callout-note}
+語言不僅是單一的物理現象、生理現象、社會現象，心理現象。它是人文化成的複雜系統。
+:::
+
+# 認知與語言
+
+那麼，在語言學中有什麼其他的想法或假設嗎？
+
+
+## 語言學的認知假設
+**認知語言學** (cognitive linguistics) ，或**語言與認知** 
+
+- 在腦神經科學與認知科學的基礎下，80-90 年代，一些語言學家開始關注語言與人類認知之間的相互作用。
+
+> 核心觀點是語言不僅是一種抽象的符號系統，而且是與我們的思維、知識和經驗密切相關的複雜心智現象。
+
+
+## 主要研究範疇
+
+:::{.callout-important}
+
+概念隱喻（Conceptual Metaphor）、構式語法（Construction Grammar）、語言類型學（Linguistic Typology）與文化、語言習得和使用、語言與時間空間、語言與概念組織等
+:::
+
+
+
+## 核心觀點
+**象似性** (iconicity)：語言的符號與其對應的客觀對象之間的相似性。[the degree to which a linguistic expression resembles the object or event it denotes (Peirce).]{.tiny}
+
+##
+皮爾斯提出了三種不同類型的符號 (sign)：
+
+  - 標誌符號 (icon) : 符號與客觀對象有形象上的關係。     ![icon](../pics/icon.jpeg){width="30%"}
+
+  - 指示符號（index）: 符號與客觀對象有直接的或因果的關係。![index](../pics/paw-prints.jpg){width="30%"}
+
+  - 象徵符號（symbol）: 符號與客觀對象有約定俗成的關係。 ![symbol](../pics/symbols.jpeg){width="30%"}
+
+[pic source](https://media-studies.com/peirce-sign-categories/)
+
+
+
+## 象似性在中文文字造字上的表現
+
+象形 (*iconic*)、指示 (*indexical*)、...?
+
+## 象似性在漢語上的表現
+語言中的象似性主要是指「語言結構」跟人的「概念結構」之間的自然聯繫 (戴浩一, 1985)。展現在順序、距離、重疊等方面。
+
+- **順序象似性**
+
+`她搭捷運到這裏` vs `她到這裏搭捷運`
+
+
+## 象似性在漢語上的表現
+- **距離象似性** (概念上距離近的成分設法在句法分佈上彼此鄰近)
+
+`吃飽了`vs `*吃了飽` vs `吃個飽`
+
+`他送給她一張卡片`vs `他送一張卡片給他`
+
+
+
+## 主觀性、場景與注意力/焦點
+
+- Subjectivity 心理活動的選擇性
+  <small>個體在其心理活動中對於信息、感受、想法等進行主觀選擇和偏好的過程。</small>
+- Focus 心理活動所選擇的客觀物件
+  <small>通常指的是話語或思考中被賦予特別注意力或突出顯示的信息或對象。</small>
+
+
+## 範疇化 (categorization)
+
+- 概念的原型和屬性
+- 階層化
+
+![cup or bowl](../pics/Labov-Cups.png){width="70%"}
+
+
+
+## 主體與背景  (Figure and Ground)
+
+![](../pics/fig-ground.png){width="40%"}
+
+- 語言順序如何反應主體與背景的認知關係？
+
+
+## 意象圖示 | Image Schemas
+
+- **意象**: 在某物不在場時，我們的心智還能想像得出該物的具體。
+
+- **圖示**：把經驗加工組織成某種認知結構，較長期地儲存在記憶之中。
+
+- **意象圖示**：在人與客觀世界感知與互動中一種反覆出現的動態的模式。
+e.g, `SOURCE-PATH-GOAL` schema
+
+## 完形與語言壓縮
+`Gestalt and Language Compression`
+
+> 語言壓縮涉及將信息簡化或縮減，以去除冗餘或不必要的部分，同時仍使接收者能夠根據上下文或已知的模式來重建原始信息的完整意義。~GPT4
+
+
+
+## 隱喻與轉喻 (metaphor and metonymy)
+**隱喻** (基於相似)
+
+- 隱喻在修辭上，由**本體** (tenor)、喻體 (vehicle)、**喻基** (ground) 三個部分組成。
+
+    `世界是舞台；男人和女人都是演戲的人；他們都有各自的出場及下場。`([cf. wiki](https://www.wikiwand.com/zh-tw/%E9%9A%90%E5%96%BB))
+
+- 認知隱喻：source - target 
+
+**轉喻** (基於鄰近)
+
+
+## 構式語法（Construction Grammar）
+(Goldberg)
+
+- 構式是指形意配對的模式，是語言的一種基本結構。
+
+- 較穩定的如
+
+    - 中動構式 `NP-起來-AP(AD+Adj)`
+    - 把字句構式
+    - ... 
+
+[參考投影片](https://deeplexr.github.io/cocogram/cocog.html#1)
+
+## 構式知識語料庫
+
+[北大現代漢語構式數據庫](http://ccl.pku.edu.cn/ccgd/)
+
+
+## 構式與機器學習
+Computational Construction Grammar (C*G)
+
+[CxLM: A Construction and Context-aware Language Model, 2022](https://aclanthology.org/2022.lrec-1.683/)
+
+![](../pics/ccg1.png)
+
+
+
+## 總結
+
+- 人的認知結構（象似性、思維時序關係、空間層次關係等）參與決定了語言的意義結構。
+
+
+## 也可以出成題目
+
+![](../pics/klo2018.png){width=80%}
+
+
+
+
+
+
 # Grammatical Features of Languages
+
+## 
 `grammatical features` $\approxeq$ `grammatical categories`
 
 - **Grammatical features** are the properties of languages that are used to describe the grammatical structure of sentences. 
 
 
-- 上週提到可以利用 [Grammatical Category](https://www.wikiwand.com/en/Grammatical_category) 來看看不同的語言有哪些**語法特徵**。
-
-
+## 
 ![這個分佈圖，猜得出是什麼特徵嗎？](pics/genders-map.jpg)
 
 
@@ -60,10 +257,9 @@ bibliography: tol.bib
 This map from the World Atlas of Language Structures Online shows the distribution of gender as a grammatical feature in 256 languages: white = none; yellow = two; orange = three; red = four; black = five or more.
 :::
 
-
 ## Grammatical Features of World Languages
-我們來分別看看頁面中右下的 *grammatical features*，可以看到有很多種關聯到名詞、動詞、一般等語法特徵。以下是比較重要的幾種。
 
+- 我們先用維基上的 [Grammatical Category](https://www.wikiwand.com/en/Grammatical_category) 來看看不同的語言有哪些**語法特徵**。頁面中右下的 *grammatical features*，可以看到有很多種關聯到名詞、動詞、一般等語法特徵。以下是比較重要的幾種。
 
 - 這個參考資源會用上！[語言學的註釋縮寫](https://www.wikiwand.com/en/List_of_glossing_abbreviations)
 
@@ -112,8 +308,7 @@ This map from the World Atlas of Language Structures Online shows the distributi
 ## Tense-Aspect-Mood (**TAM**) 
 時態、時貌、情態
 
-- 
-- In some languages, evidentiality (whether evidence exists for the statement, and if so what kind) and mirativity (surprise) may also be included.
+- `event-in-time` vs `time-in-event`
 
 :::{.callout-note}
 語法特徵的語言單位實現，不見得是單一的詞彙，也不見得是 1-1 的關係。
@@ -121,7 +316,8 @@ This map from the World Atlas of Language Structures Online shows the distributi
 反過來說，許多印歐語言也沒有明顯方式來區分 `tense` 與 `aspect`。
 :::
 
-- Evidentiality
+- Evidentiality：In some languages, evidentiality (whether evidence exists for the statement, and if so what kind) and mirativity (surprise) may also be included.
+
 
 
 ## Clusivity

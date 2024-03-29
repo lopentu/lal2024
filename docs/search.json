@@ -1,1110 +1,498 @@
 [
   {
-    "objectID": "week6.html#syntax-vs-grammar",
-    "href": "week6.html#syntax-vs-grammar",
-    "title": "Week 6 構詞句法",
-    "section": "Syntax vs Grammar",
-    "text": "Syntax vs Grammar\n\n句法（syntax）是語言學中研究句子結構的學科。構詞語法則較從世界語言的角度，探究 grammar 特徵 (構詞句法互動)。(注意這裏的 grammar 不是教學意義上的教學文法，而是一個整體語言系統)\nSubject and Object; Word order\nArgument: argument, complement (non-subject, obligatory argument), adjunct (optional argument)\nAgreement\n\n\n\n\n\n\n\n\n(a). The painting resembles a flower.\n(b). The painting was stolen from the museumr.\n\n\n\n\n\nConstituent: a unit of syntactic structure, such as a phrase or a clause.\nSyntactic categories: N, V, Noun Phrase, Verb Phrase, Preopositional Phrase, etc.",
+    "objectID": "week5.html#本週主題",
+    "href": "week5.html#本週主題",
+    "title": "Week 5 構詞",
+    "section": "本週主題",
+    "text": "本週主題\n\n字詞的內部與組合結構",
     "crumbs": [
       "首頁",
-      "Week 6 構詞句法"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week6.html#constructing-a-grammar",
-    "href": "week6.html#constructing-a-grammar",
-    "title": "Week 6 構詞句法",
-    "section": "Constructing a grammar",
-    "text": "Constructing a grammar\n(形式) 語言學向來的主流假說 - 一個語言的 grammar 由一系列的規則+詞庫組成，這些規則可以用來描述語言的結構。\n\nPhrase structure rule and Recursion",
+    "objectID": "week5.html#語言結構",
+    "href": "week5.html#語言結構",
+    "title": "Week 5 構詞",
+    "section": "語言結構",
+    "text": "語言結構\n詞法 與 句法\n\n構詞學 (Morphology) the analysis of internal structure of words\n句法 (Syntax) the analysis of the internal structure of sentences/utterances",
     "crumbs": [
       "首頁",
-      "Week 6 構詞句法"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week6.html#grammatical-features-of-world-languages",
-    "href": "week6.html#grammatical-features-of-world-languages",
-    "title": "Week 6 構詞句法",
-    "section": "Grammatical Features of World Languages",
-    "text": "Grammatical Features of World Languages\n我們來分別看看頁面中右下的 grammatical features，可以看到有很多種關聯到名詞、動詞、一般等語法特徵。以下是比較重要的幾種。\n\n這個參考資源會用上！語言學的註釋縮寫",
+    "objectID": "week5.html#word",
+    "href": "week5.html#word",
+    "title": "Week 5 構詞",
+    "section": "Word",
+    "text": "Word\n\nknowing a word",
     "crumbs": [
       "首頁",
-      "Week 6 構詞句法"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week6.html#case",
-    "href": "week6.html#case",
-    "title": "Week 6 構詞句法",
-    "section": "Case",
-    "text": "Case\n\nCase is a grammatical feature of nouns, pronouns, and certain other words in some languages, which expresses the grammatical relationship between the word and other words in the clause.\nFrom Persian (2) to Tsez (64) cases\n\n\n\n\n\n\n\n\n英文有幾個格？\n\n\n\n\n\nGender\nNumber\n\n\n綜合整理：Icelandic 爲例",
+    "objectID": "week5.html#先岔開做一個實驗",
+    "href": "week5.html#先岔開做一個實驗",
+    "title": "Week 5 構詞",
+    "section": "先岔開做一個實驗",
+    "text": "先岔開做一個實驗\n\n\nContent words (open class) vs function words (closed class).\n\nAny psychological or neurological evidence?\n\n\n\n\n\n\n\n\n\n以下句子有幾個 F 字母？\n\n\nFINISHED FILES ARE THE RESULT OF YEARS OF SCIENTIFIC STUDY COMBINED WITH THE EXPERIENCE OF YEARS",
     "crumbs": [
       "首頁",
-      "Week 6 構詞句法"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week6.html#classifier",
-    "href": "week6.html#classifier",
-    "title": "Week 6 構詞句法",
-    "section": "Classifier",
-    "text": "Classifier\n\nA classifier is a word or affix that accompanies nouns and can be considered to “classify” a noun depending on the type of its referent.\n在中文，(量詞、分類詞)、(數量詞)常常混用。\n\n\n\n\n\n\n\n\n語意分類是可能的嗎？",
+    "objectID": "week5.html#詞素-morpheme",
+    "href": "week5.html#詞素-morpheme",
+    "title": "Week 5 構詞",
+    "section": "詞素 Morpheme",
+    "text": "詞素 Morpheme\n\nThe minimal units of Meaning (a linguistic hypothesis)  boy (1), boy-ish (2), boy-ish-ness (3), gentle-man-li-ness (4), un-gentle-man-li-ness (5) \nEvery word in every language is composed of one or more morphemes (bold hypothesis of discreteness!)\n\n\n\n\n\n\n\n\nnot to confuse morphemes with syllables\n\n\n\nMississippi has more than one syllable but is only a single morpheme",
     "crumbs": [
       "首頁",
-      "Week 6 構詞句法"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week6.html#genetive-construction",
-    "href": "week6.html#genetive-construction",
-    "title": "Week 6 構詞句法",
-    "section": "Genetive construction",
-    "text": "Genetive construction\npossessive construction",
+    "objectID": "week5.html#morphemes-bound-and-free",
+    "href": "week5.html#morphemes-bound-and-free",
+    "title": "Week 5 構詞",
+    "section": "Morphemes: Bound and Free",
+    "text": "Morphemes: Bound and Free\n\ncan be used alone (i.e., as a word) or not.\nAffix (prefix, suffix, infix, circumfix,…)\nMorphologically complex words consist of a root and one or more affixes.\n\nA root is a lexical content morphemes that cannot be analyzed into small parts.\nWhen a root morpheme is combined with an affix, it forms a stem, which may or may not be a word.",
     "crumbs": [
       "首頁",
-      "Week 6 構詞句法"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week6.html#tense-aspect-mood-tam",
-    "href": "week6.html#tense-aspect-mood-tam",
-    "title": "Week 6 構詞句法",
-    "section": "Tense-Aspect-Mood (TAM)",
-    "text": "Tense-Aspect-Mood (TAM)\n時態、時貌、情態\n\n\nIn some languages, evidentiality (whether evidence exists for the statement, and if so what kind) and mirativity (surprise) may also be included.\n\n\n\n\n\n\n\n語法特徵的語言單位實現，不見得是單一的詞彙，也不見得是 1-1 的關係。 例如：English -s is used for the third person singular present tense. 反過來說，許多印歐語言也沒有明顯方式來區分 tense 與 aspect。\n\n\n\n\nEvidentiality",
+    "objectID": "week5.html#english-morpheme",
+    "href": "week5.html#english-morpheme",
+    "title": "Week 5 構詞",
+    "section": "English morpheme",
+    "text": "English morpheme",
     "crumbs": [
       "首頁",
-      "Week 6 構詞句法"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week6.html#clusivity",
-    "href": "week6.html#clusivity",
-    "title": "Week 6 構詞句法",
-    "section": "Clusivity",
-    "text": "Clusivity\ninclusive \"we\" and exclusive \"we\"",
+    "objectID": "week5.html#infix",
+    "href": "week5.html#infix",
+    "title": "Week 5 構詞",
+    "section": "Infix",
+    "text": "Infix\n\nThe Inuktitut language of Western Canada, a member of the Eskimo-Aleut language family, has an infix, -pallia-, which must be inserted into a verb root, resulting in a distinct form of the verb.\n\nnungup + pallia + jut  = nungupalliajut (“They are gradually disappearing”)\nilinniaq + pallia + jugut = ilinniapalliajugut (“We are gradually learning”)",
     "crumbs": [
       "首頁",
-      "Week 6 構詞句法"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week6.html#conjugation",
-    "href": "week6.html#conjugation",
-    "title": "Week 6 構詞句法",
-    "section": "Conjugation",
-    "text": "Conjugation\n\n動詞的屈折變化 (conjugation) ：以便能夠與主語的人稱、數量、性別、時態、情態等不同的語法特徵相符合。\n例如：English 的動詞屈折變化，以 be 為例：\n\nI am\nyou are\nhe/she/it is\nwe are\nyou are\nthey are\n\n注意 conjugation 這個詞只用在動詞的屈折變化，其他詞類如名詞或形容詞的屈折變化則稱 declension\n\n\n西班牙文的跑",
+    "objectID": "week5.html#exercise-咒罵中綴-expletive-infixation",
+    "href": "week5.html#exercise-咒罵中綴-expletive-infixation",
+    "title": "Week 5 構詞",
+    "section": "Exercise: 咒罵中綴 Expletive Infixation",
+    "text": "Exercise: 咒罵中綴 Expletive Infixation\n\nThe most common infix in America is the word fuckin’ and all the euphemisms for it, such as friggin, freakin, flippin, and fuggin, as in in-fuggin-credible, un-fuckin-believable. In Britain, a common infix is bloody, an obscene term in British English, and its euphemisms, such as bloomin’. (as in the movie and stage musical My Fair Lady, the word abso + bloomin + lutely)\nNative speakers (with some dialectal variations) have intuitions about where to insert the (expletive) infix.\n\n\n\n\n\n\n\nabsolutely ?\nbasketball ?",
     "crumbs": [
       "首頁",
-      "Week 6 構詞句法"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week6.html#練習",
-    "href": "week6.html#練習",
-    "title": "Week 6 構詞句法",
+    "objectID": "week5.html#morphemes-identification",
+    "href": "week5.html#morphemes-identification",
+    "title": "Week 5 構詞",
+    "section": "Morphemes identification",
+    "text": "Morphemes identification\n\nFlowchart for identifying morphemes",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#練習",
+    "href": "week5.html#練習",
+    "title": "Week 5 構詞",
     "section": "練習",
-    "text": "練習\n請解釋 Japhug Rgyalrong 語言中的 associated motion 特徵？",
+    "text": "練習",
     "crumbs": [
       "首頁",
-      "Week 6 構詞句法"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week6.html#練習-1",
-    "href": "week6.html#練習-1",
-    "title": "Week 6 構詞句法",
-    "section": "練習",
-    "text": "練習\nantipassive voice, 和中文的 middle Voice？",
+    "objectID": "week5.html#注意界面問題",
+    "href": "week5.html#注意界面問題",
+    "title": "Week 5 構詞",
+    "section": "注意【界面】問題",
+    "text": "注意【界面】問題\n題型設計上（語言使用上也是），常常放在一起討論。\n\n構詞句法 (Morphosyntax) the analysis of the internal structure of utterances, both above the word level and below it.\n\n\n\n\n\n\n\n例子：English Numeral Modification\n\n\none tree, two trees, three trees, etc.\n同時涉及句法 (名詞於數量詞的次序) 和 構詞 (名詞的單複數變化)。",
     "crumbs": [
       "首頁",
-      "Week 6 構詞句法"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week4.html#基本概念-1",
-    "href": "week4.html#基本概念-1",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "基本概念",
-    "text": "基本概念\n\n\nPhoneme: a contrastive sound or category of sounds within a language\nInventory: the set of phonemes (sounds) in a language.\nAllophone: a variant of a phoneme\nPhonotactics: the rules governing the combination of phonemes in a language (e.g. no two consonants can occur together in English)",
+    "objectID": "week5.html#構詞與詞義的界面",
+    "href": "week5.html#構詞與詞義的界面",
+    "title": "Week 5 構詞",
+    "section": "構詞與詞義的界面",
+    "text": "構詞與詞義的界面",
     "crumbs": [
       "首頁",
-      "Week 4 語音的世界 (2)"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week4.html#alternation",
-    "href": "week4.html#alternation",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Alternation",
-    "text": "Alternation\n\nan alternation is the phenomenon of a morpheme exhibiting variation in its phonological realization. Each of the various realizations is called an alternant. The variation may be conditioned by the phonological, morphological, and/or syntactic environment in which the morpheme finds itself.\n\nalternation 是個語言學術語，不是音韻學術語\n\n\n\n\n\n\n維基百科沒提到的\n\n\n\n\nsense alternation: regular polysemy; metonymy",
+    "objectID": "week5.html#不可解的還是可解的",
+    "href": "week5.html#不可解的還是可解的",
+    "title": "Week 5 構詞",
+    "section": "不可解的還是可解的",
+    "text": "不可解的還是可解的\n\nwhy is ‘unlockable’ ambiguous?",
     "crumbs": [
       "首頁",
-      "Week 4 語音的世界 (2)"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week4.html#phonological-analysis-1",
-    "href": "week4.html#phonological-analysis-1",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Phonological analysis (1)",
-    "text": "Phonological analysis (1)",
+    "objectID": "week5.html#歧義練習",
+    "href": "week5.html#歧義練習",
+    "title": "Week 5 構詞",
+    "section": "歧義練習",
+    "text": "歧義練習\n\n歧義 (ambiguity) is a property of language that arises when a word or phrase can be interpreted in more than one way.\ntypes of ambiguity:\n\nlexical ambiguity\nsyntactic ambiguity\nscope ambiguity",
     "crumbs": [
       "首頁",
-      "Week 4 語音的世界 (2)"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week4.html#音節-syllables",
-    "href": "week4.html#音節-syllables",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "音節 | syllables",
-    "text": "音節 | syllables\n音節結構 - Onset - Nucleus - Coda",
+    "objectID": "week5.html#構詞語意",
+    "href": "week5.html#構詞語意",
+    "title": "Week 5 構詞",
+    "section": "構詞語意",
+    "text": "構詞語意",
     "crumbs": [
       "首頁",
-      "Week 4 語音的世界 (2)"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week4.html#example-rule",
-    "href": "week4.html#example-rule",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Example rule",
-    "text": "Example rule\n一個規則中，通常包括 target (the segment(s) which the rule applies to) 和 a restructuring (what the rule does to the target)，以及一些 environment (the conditions under which the rule applies).\n\nRule 1 (for English plural): [z] → [ə] before [i] and [u]\nRule 2: [n] → [m] __ [velar]",
+    "objectID": "week5.html#構詞語意練習",
+    "href": "week5.html#構詞語意練習",
+    "title": "Week 5 構詞",
+    "section": "構詞語意練習",
+    "text": "構詞語意練習\nYou are given words in Swahili:\nmtu, mbuzi, jito, mgeni, jitu and kibuzi. \nTheir translations in a different order are:\ngiant, little goat, guest, goat, person, large river\n\nMake the correspondence.",
     "crumbs": [
       "首頁",
-      "Week 4 語音的世界 (2)"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week4.html#how-to-solve-phonological-problems",
-    "href": "week4.html#how-to-solve-phonological-problems",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "How to solve phonological problems",
-    "text": "How to solve phonological problems\n入門分析方法",
+    "objectID": "week5.html#wordnet",
+    "href": "week5.html#wordnet",
+    "title": "Week 5 構詞",
+    "section": "Wordnet",
+    "text": "Wordnet\nfine-grained word sense inventory",
     "crumbs": [
       "首頁",
-      "Week 4 語音的世界 (2)"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week4.html#練習-1",
-    "href": "week4.html#練習-1",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "練習 1",
-    "text": "練習 1\nIndonesian\n\n\nIdentify each alternant of the Indonesian prefix.\nIdentify the conditions under which each alternant appears.\nConstruct rules that produce the various alternants of /meŋ-/",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#練習-2",
-    "href": "week4.html#練習-2",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "練習 2",
-    "text": "練習 2\nGerman neutralization - which roots alternate? what generalization can you make about the alternating and non-alternating roots?",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#重音與音調",
-    "href": "week4.html#重音與音調",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "重音與音調",
-    "text": "重音與音調\nRules of Stress and Intonation\n\nWord stress\n\nSimplex words\nComplex words\nCompound words\n\nSentence stress\nIntonation",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#上週作業討論",
-    "href": "week4.html#上週作業討論",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "上週作業討論",
-    "text": "上週作業討論",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#一般的語言分析題目類型",
-    "href": "week4.html#一般的語言分析題目類型",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "一般的語言分析題目類型",
-    "text": "一般的語言分析題目類型\n\n翻譯 | Translation\n對應 | Correspondence\n填空 | Fill in the blanks\n非自然語言| Non-language",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#如何解題",
-    "href": "week4.html#如何解題",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "如何解題",
-    "text": "如何解題\nhow to solve phonological problems (and turn them into puzzles)\n\n\nMake observation\nForm a hypothesis (better with linguistic background)\nTest the hypothesis\nHow to test\n\nDoes it conform with the data?\nWhat if the data don’t match?\nWeaken the hypothesis\nGive the exceptions explanations\nAbandon the hypothesis altogether",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#大型基礎模型-a.k.a.-大型預訓練多模態語言模型",
-    "href": "week4.html#大型基礎模型-a.k.a.-大型預訓練多模態語言模型",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "大型基礎模型 (a.k.a. 大型預訓練多模態語言模型))",
-    "text": "大型基礎模型 (a.k.a. 大型預訓練多模態語言模型))\n\ndemo\n(Huang et al. 2023)",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#語言邏輯的重要",
-    "href": "week4.html#語言邏輯的重要",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "語言邏輯的重要",
-    "text": "語言邏輯的重要\n\nin-context learning: a new NLP paradigm that allows language models to learn tasks given only a few examples in the form of demonstration.\n從怎麼下 search query，到怎麼給 prompt。",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#練習用-chatgpt-來解題",
-    "href": "week4.html#練習用-chatgpt-來解題",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "練習用 chatGPT 來解題",
-    "text": "練習用 chatGPT 來解題\n\n怎麼讓機器解出題目來？以上週作業爲例。",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#語音也可以",
-    "href": "week4.html#語音也可以",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "語音也可以",
-    "text": "語音也可以\n\nOpenAI’s whisper is an open-source, multilingual, general-purpose speech recognition model by OpenAI, trained on 680,000 hours of multilingual data collected from the web. (with 100 languages supported)",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#自動轉寫練習",
-    "href": "week4.html#自動轉寫練習",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "自動轉寫練習",
-    "text": "自動轉寫練習\nSpeech to Text/Transcription with OpenAI’s whisper \nlab：開啓後，請見建立【副本】再行編輯與執行。",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week2.html#今天的主題",
-    "href": "week2.html#今天的主題",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "今天的主題",
-    "text": "今天的主題\n\n所謂的語言的邏輯分析是什麼？\n我們怎麼利用語言遊戲的設計與解謎來學習語言的邏輯分析？\n先備知識背景：語言類型學與文化邏輯",
-    "crumbs": [
-      "首頁",
-      "Week 2 語言文化與演算思維"
-    ]
-  },
-  {
-    "objectID": "week2.html#語言的邏輯分析",
-    "href": "week2.html#語言的邏輯分析",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "語言的邏輯分析",
-    "text": "語言的邏輯分析\n語言中的邏輯思考與分析力\n\n認知、判斷、察覺關聯、感知、同理與想像",
-    "crumbs": [
-      "首頁",
-      "Week 2 語言文化與演算思維"
-    ]
-  },
-  {
-    "objectID": "week2.html#先來一點語言智力測驗",
-    "href": "week2.html#先來一點語言智力測驗",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "先來一點(語言)智力測驗",
-    "text": "先來一點(語言)智力測驗\n\n分類邏輯",
-    "crumbs": [
-      "首頁",
-      "Week 2 語言文化與演算思維"
-    ]
-  },
-  {
-    "objectID": "week2.html#課堂練習-1",
-    "href": "week2.html#課堂練習-1",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "課堂練習 [1]",
-    "text": "課堂練習 [1]\n\n分別就前四類的題目 (文字與圖形的分類與類比)，你可以綜合整理出什麼樣的分析模式（與題型）呢？",
-    "crumbs": [
-      "首頁",
-      "Week 2 語言文化與演算思維"
-    ]
-  },
-  {
-    "objectID": "week2.html#語言分析中的邏輯推導",
-    "href": "week2.html#語言分析中的邏輯推導",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "語言分析中的邏輯推導",
-    "text": "語言分析中的邏輯推導\n據一個例子 (範疇語法)",
-    "crumbs": [
-      "首頁",
-      "Week 2 語言文化與演算思維"
-    ]
-  },
-  {
-    "objectID": "week2.html#語言學家的解碼工作",
-    "href": "week2.html#語言學家的解碼工作",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "語言學家的解碼工作",
-    "text": "語言學家的解碼工作\n\n除了規則推導，語言學家很重要的訓練在於田野工作。\n意思就是去語言現場工作。\n趙元任 是一個典範",
-    "crumbs": [
-      "首頁",
-      "Week 2 語言文化與演算思維"
-    ]
-  },
-  {
-    "objectID": "week2.html#section-1",
-    "href": "week2.html#section-1",
-    "title": "Week 2 語言文化與演算思維",
+    "objectID": "week5.html#section-4",
+    "href": "week5.html#section-4",
+    "title": "Week 5 構詞",
     "section": "",
-    "text": "是綜合性的語言、文字與邏輯運算\n文化數學",
+    "text": "最多義的動詞？ :::{.incremental}\n :::",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#思考的演算",
-    "href": "week2.html#思考的演算",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "思考的演算",
-    "text": "思考的演算\nThe power of computational thinking\n兩位倫敦皇后大學的資訊科學教授出版了一本計算思維的入門書（The power of computational thinking，台灣中譯：「思考的演算」），介紹了在 AI 時代需要的思考能力訓練，包括了:",
+    "objectID": "week5.html#中文詞彙網路",
+    "href": "week5.html#中文詞彙網路",
+    "title": "Week 5 構詞",
+    "section": "中文詞彙網路",
+    "text": "中文詞彙網路\n「老」有幾個意思？「老鼠」的「老」是什麼？(empty morpheme?)\n\n\n\n\n\n\n打的故事：課堂加分作業一",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#section-2",
-    "href": "week2.html#section-2",
-    "title": "Week 2 語言文化與演算思維",
+    "objectID": "week5.html#section-5",
+    "href": "week5.html#section-5",
+    "title": "Week 5 構詞",
     "section": "",
-    "text": "邏輯思考 》 能夠考慮所有的可能性，因而也能有效率的推導與解決問題。\n模型比對 》能觀察到問題／數據本質上的相似性\n捷徑思考 》不保證最佳解，但追求在合理時間內的合理解。\n資料表徵法 》 能夠抽象化與通化所觀察到的資料\n對人有所瞭解 》理解人，才知道問題皆有脈絡，才能對症下藥。",
+    "text": "More data analysis and applications in AI context\nROCLING 2023 tutorial",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#rethinking-computational-thinking",
-    "href": "week2.html#rethinking-computational-thinking",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "Rethinking “computational thinking”",
-    "text": "Rethinking “computational thinking”\n\n\n計算思維的概念，勢必要往更多元的方向發展。單從資訊科學的角度出發，可能難以套解不同領域或是跨領域的問題。此外，計算思維與想像力、創造力如何結合是個有趣的教育議題。&gt;&gt; 語言、認知與文化\n新世代帶來新問題。要面臨的複雜情境必然地跨越了傳統的學門邊界。也就是說，問題常常是以「主題」、「任務導向」的面貌出現，而我們傳統學校教育設計恐怕來不及因應這個趨勢。\n用「遊戲」「解謎」等思考娛樂的方式，可能是補足教育的一個趨勢。",
+    "objectID": "week5.html#sense-tagger",
+    "href": "week5.html#sense-tagger",
+    "title": "Week 5 構詞",
+    "section": "Sense tagger",
+    "text": "Sense tagger\ncolab notebook",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#什麼是語言的文化想像",
-    "href": "week2.html#什麼是語言的文化想像",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "什麼是語言的文化想像",
-    "text": "什麼是語言的文化想像\nUniversity with Diversity\n\n跨文化、跨世紀、跨物種的語言想像力",
+    "objectID": "week5.html#basic-categories",
+    "href": "week5.html#basic-categories",
+    "title": "Week 5 構詞",
+    "section": "Basic categories",
+    "text": "Basic categories\n(NOUN): Number, Gender, Case, (VERB): Tempus, Modus, Genus verbi,..",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#例核廢料隔離先導場標語設計",
-    "href": "week2.html#例核廢料隔離先導場標語設計",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "例：核廢料隔離先導場標語設計",
-    "text": "例：核廢料隔離先導場標語設計\nThe Waste Isolation Pilot Plant (WIPP) is designed as the final resting place for ‘transuranic’ waste, consisting mostly of items rendered radioactive during the production of nuclear weapons.\n\n- 位於新墨西哥州境內的地下核廢料永久儲存場「核廢料隔離先導場」 從 1999 年起，便儲存來自全美核武實驗室與核武設施的超鈾核廢料，該核廢場每年須處理的核廢料高達數千桶。The US. has produced 55,000 tons of this waste, and continues to produce about 2,000 tons annually. It's highly toxic and will remain toxic for app. 10,000 years. (FYI:  twice as long as all of recorded histoty!)\n\nhow do we set up a waning signs? (Sproat, 2010)",
+    "objectID": "week5.html#語法化",
+    "href": "week5.html#語法化",
+    "title": "Week 5 構詞",
+    "section": "語法化",
+    "text": "語法化\n虛化\n\n實詞 (content word) 語義在歷史的軌跡中，轉化為非實詞語義，並且該詞轉化為表語法功能為主的成分（即虛詞或稱功能詞） 的過程或現象。如漢語「把」「被」。\n「那(個)」\n\n 從最原始的遠指指示代名詞 (“那(個)人”)，到心理空間中較遠 (“你如果不喜歡，那我就不去”)，到言談中換取思考時間的填充詞 (filler) (“那個那個拍得很好”)\n那個我跟你說，我老公實在很那個，昨天那個來了他還要那個",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#conventionality",
-    "href": "week2.html#conventionality",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "Conventionality",
-    "text": "Conventionality\n符碼-意義都是約定俗成的，不瞭解這個 慣例性 的意義，就無法很好理解這個符碼的意義（從而容易產生偏見）。\n\nSymbols (linguistic, mathematical, stop signs, or nuclear trefoils), are conventional.\n\n\nyou have to know that what they mean, and if you don’t know, and if you don’t share the cultural background of the people who created them, it is unlikely in general that you are going to figure them out. (Sproat, 2010)",
+    "objectID": "week5.html#語奧必考知識",
+    "href": "week5.html#語奧必考知識",
+    "title": "Week 5 構詞",
+    "section": "語奧必考知識",
+    "text": "語奧必考知識\nGrammatical Category 或 Grammatical features\n\n\n\n\n\n\n推薦語奧推廣影片",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#我們怎麼利用語言遊戲的設計與解謎來學習語言的邏輯分析",
-    "href": "week2.html#我們怎麼利用語言遊戲的設計與解謎來學習語言的邏輯分析",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "我們怎麼利用語言遊戲的設計與解謎來學習語言的邏輯分析？",
-    "text": "我們怎麼利用語言遊戲的設計與解謎來學習語言的邏輯分析？\n語言遊戲是什麼？能做什麼？",
+    "objectID": "week5.html#morphological-processes",
+    "href": "week5.html#morphological-processes",
+    "title": "Week 5 構詞",
+    "section": "Morphological Processes",
+    "text": "Morphological Processes\n\nThe (main) process of forming words\n\nAffixation\nCompounding\nReduplication\nAlternation\nSuppletion\n….\n\n\n\n\n\n\n\n\nSign languages make use of affixation as well.",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#section-4",
-    "href": "week2.html#section-4",
-    "title": "Week 2 語言文化與演算思維",
+    "objectID": "week5.html#morphological-typology",
+    "href": "week5.html#morphological-typology",
+    "title": "Week 5 構詞",
+    "section": "Morphological Typology",
+    "text": "Morphological Typology\n用構詞特徵來把人類語言分成兩大類\n\nAnalytic language: made up of sequences of free morphemes. Each word consists of a single morpheme, used by itself with meaning and function intact.\n\nPurely analytic languages, also called isolating languages, do not use affixes to compose words.\nE.g., Chinese has a highly analytic structure.\n\n\n\n\nSynthetic language: made up of sequences of bound morphemes.\n\n\n\nHungarian",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#synthetic-language-再分三類",
+    "href": "week5.html#synthetic-language-再分三類",
+    "title": "Week 5 構詞",
+    "section": "Synthetic language 再分三類",
+    "text": "Synthetic language 再分三類\n\nAgglutinative language: have several morphemes that attach to a root morpheme, and each morpheme has only one meaning that is clearly distinct. (e.g., Turkish, Swahili, Japanese).\n\n\nswahili",
+    "crumbs": [
+      "首頁",
+      "Week 5 構詞"
+    ]
+  },
+  {
+    "objectID": "week5.html#section-6",
+    "href": "week5.html#section-6",
+    "title": "Week 5 構詞",
     "section": "",
-    "text": "抒發情緒\n學習工具\nGame as a language resource / Game with a purpose",
+    "text": "Fusional language\n\nwords are formed by adding bound morphemes to stems, just as in agglutinating languages, but in fusional languages the affixes may not be easy to separate from the stem.\nin fusional languages a single affix more frequently conveys several meanings simultaneously. (e.g., the following sentence in Russian, the suffix [-l] means singular, masculine, and past tense, simultaneously.)\n\n[[ʧital] `he was reading’",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#an-example-sementria",
-    "href": "week2.html#an-example-sementria",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "An example: Sementria",
-    "text": "An example: Sementria\n\n語意經驗 (semantic experience) 字詞聯想遊戲 semantris\n\n\n隨著 AR/VR 技術的快速發展，加上與 AI/IOT 的結合，可以想像一個有趣的人類意識的轉化。虛實難分的景況，人生如戲，戲如人生。遊戲產生了新的哲學高度。而遊戲所產生的人類反應資料，也成了機器學習的材料。以 Google 公開的「語意經驗」字詞聯想遊戲 semantris 為例，我們在玩遊戲中輸入的「答案」，正足以訓練與增強機器逼近人類的支持語意相似度判斷準確能力。",
-    "crumbs": [
-      "首頁",
-      "Week 2 語言文化與演算思維"
-    ]
-  },
-  {
-    "objectID": "week2.html#section-5",
-    "href": "week2.html#section-5",
-    "title": "Week 2 語言文化與演算思維",
+    "objectID": "week5.html#section-7",
+    "href": "week5.html#section-7",
+    "title": "Week 5 構詞",
     "section": "",
-    "text": "語言遊戲，在 AI - 自然語言處理的需求之下可以預見的將成為重要的一種「語言資源」(language resources)。我們在遊戲中留下的邏輯推理軌跡，除了訓練人類，也訓練機器。語言分析與解碼作為一種有趣但尚未普及的語言遊戲。",
+    "text": "Polysynthetic language\n\nhighly complex words may be formed by combining several stems and affixes; this is usually a matter of making nouns (subjects, objects, etc.) into parts of the verb forms.\ne.g., Sora, a language spoken in India, allows such incorporation of objects (subjects, instruments, etc.) into verbs\n\n\n\n\nsora",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#多看看各種-ai-相關的遊戲設計可以嗅出一些端倪",
-    "href": "week2.html#多看看各種-ai-相關的遊戲設計可以嗅出一些端倪",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "多看看各種 AI 相關的遊戲設計可以嗅出一些端倪",
-    "text": "多看看各種 AI 相關的遊戲設計可以嗅出一些端倪\n\nCreatability",
+    "objectID": "week5.html#練習這是什麼類型的語言",
+    "href": "week5.html#練習這是什麼類型的語言",
+    "title": "Week 5 構詞",
+    "section": "練習：這是什麼類型的語言？",
+    "text": "練習：這是什麼類型的語言？\n\nYup’ik",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#語言謎題題目類型",
-    "href": "week2.html#語言謎題題目類型",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "語言謎題題目類型",
-    "text": "語言謎題題目類型\n\n\nword play? 回文構詞 (anagrams)? 繞口令？文字接龍？猜字推理？\nIOL (Rosetta Stone Linguistic Problems (Bozhanov and Derzhanski 2013))",
+    "objectID": "week5.html#challenging-yet-unresolved-morphological-issue-wordwordhood",
+    "href": "week5.html#challenging-yet-unresolved-morphological-issue-wordwordhood",
+    "title": "Week 5 構詞",
+    "section": "Challenging yet unresolved morphological issue: Word/Wordhood",
+    "text": "Challenging yet unresolved morphological issue: Word/Wordhood\n\nWhat are words / lexicon (a mental dictionary you store your ‘words’) like?\n\nthe lack of pauses between ‘words’ in speech\nthe lack of boundary between ‘words’ in (some) writing systems\nnote that no spaces when we speak\n\n\nIwonderifyoucanreadthiswithoutspacesaseasilyasyoucanwhentherearespacesbetweenthewords.",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#problem-solving-in-iol",
-    "href": "week2.html#problem-solving-in-iol",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "Problem Solving in IOL",
-    "text": "Problem Solving in IOL\n\nTime and memory “complexity”\n\n為何需要解碼時間限制\n為何需要團隊合作 （Check team contest IOL）\n\nEssentialism, minimalism\n\n最少的步驟\n最少的假說\n解釋最多的語料",
+    "objectID": "week5.html#wordhood-是個大哉問",
+    "href": "week5.html#wordhood-是個大哉問",
+    "title": "Week 5 構詞",
+    "section": "Wordhood 是個大哉問",
+    "text": "Wordhood 是個大哉問",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#機器解題的意義",
-    "href": "week2.html#機器解題的意義",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "機器解題的意義",
-    "text": "機器解題的意義\nrule-based to in-context learning",
+    "objectID": "week5.html#what-about-chinese",
+    "href": "week5.html#what-about-chinese",
+    "title": "Week 5 構詞",
+    "section": "What about Chinese?",
+    "text": "What about Chinese?\n\nless than 80% agreement in word counts experiment\nCharacter = morpheme = syllable ???\n\n\n\n\n\n\n\nThe indeterminacy of word boundaries shows that “word” is far from a simple concept, and possibly not possible to define in a consistent way cross-linguistically. (Haspelmath, 2011)",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#section-6",
-    "href": "week2.html#section-6",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "",
-    "text": "PuzzLingMachines",
+    "objectID": "week5.html#以下句子中有幾個字",
+    "href": "week5.html#以下句子中有幾個字",
+    "title": "Week 5 構詞",
+    "section": "以下句子中有幾個字",
+    "text": "以下句子中有幾個字\n(今天聯合報即時新聞)\n柯文哲說，他卸任這一陣子，就是當老百姓，每天坐公車、騎YouBike，不過柯也忍不住抱怨，在台北市騎 YouBike真危險，「騎人行道怕撞到人，騎到慢車道怕被車撞」，",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#llm-and-linguistic-puzzles",
-    "href": "week2.html#llm-and-linguistic-puzzles",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "LLM and Linguistic Puzzles",
-    "text": "LLM and Linguistic Puzzles",
+    "objectID": "week5.html#繼續玩一下",
+    "href": "week5.html#繼續玩一下",
+    "title": "Week 5 構詞",
+    "section": "繼續玩一下",
+    "text": "繼續玩一下\n(隨機在 Dcard 上選了這篇)",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#從-conlang-來想回來也可以可能更難一點",
-    "href": "week2.html#從-conlang-來想回來也可以可能更難一點",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "從 ConLang 來想回來也可以，可能更難一點",
-    "text": "從 ConLang 來想回來也可以，可能更難一點\n\n人造語言/constructed languages: a gateway to the complexity and creativity of 【LANGUAGE】\nCMU course : ConLanging: Learning about linguistics and language technologies through construction of artificial languages",
+    "objectID": "week5.html#word-segmentation",
+    "href": "week5.html#word-segmentation",
+    "title": "Week 5 構詞",
+    "section": "Word segmentation",
+    "text": "Word segmentation\n對「正規」文本看似沒事，但問題很大。（不是新詞表、停用詞表可以解決的）\n\nptt、社會媒體\n口語對話\n語言障礙",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#創造遊戲而不要被遊戲制約",
-    "href": "week2.html#創造遊戲而不要被遊戲制約",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "創造遊戲，而不要被遊戲制約",
-    "text": "創造遊戲，而不要被遊戲制約\n唐鳳：An interactive guide to the game theory of cooperation\n\n短期來講，遊戲決定玩家，但是長期來說，決定遊戲的正是我們這些玩家。",
+    "objectID": "week5.html#還在那邊的斷詞剖析",
+    "href": "week5.html#還在那邊的斷詞剖析",
+    "title": "Week 5 構詞",
+    "section": "「還在那邊」]的斷詞剖析",
+    "text": "「還在那邊」]的斷詞剖析\nBEFORE\n\n不是我要說他，已經什麼都有了他還在那邊邱什麼邱。別人我不敢說，這種人喔實在是 $#* :-(\n\nAFTER\n{r echo=TRUE, message=FALSE, warning=FALSE} tokens(\"不是我要說他，已經什麼都有了他還在那邊邱什麼邱。別人我不敢說，這種人喔實在是 $#* :-( $#*\")",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#語料-language-and-linguistic-data",
-    "href": "week2.html#語料-language-and-linguistic-data",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "語料 (language and linguistic data)",
-    "text": "語料 (language and linguistic data)",
+    "objectID": "week5.html#錄位-listeme",
+    "href": "week5.html#錄位-listeme",
+    "title": "Week 5 構詞",
+    "section": "「錄位」 listeme",
+    "text": "「錄位」 listeme\n\nidiosyncratic linguistic unit that must be recorded in the lexicon.\n記憶單位 (Memorized units:)：不拘大小，可以是語段、詞組、句子、成語、單詞、音段、聲調、子母音…",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#語言類型學-linguistic-typology",
-    "href": "week2.html#語言類型學-linguistic-typology",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "語言類型學 | Linguistic typology",
-    "text": "語言類型學 | Linguistic typology\n\nto find similarities among languages that are independent of genetic origin, areal influence, and shared environment conditions. (Moravcsik 2012)\nlexical, syntactic, morphological, phonological typology",
+    "objectID": "week5.html#構式-constructions",
+    "href": "week5.html#構式-constructions",
+    "title": "Week 5 構詞",
+    "section": "構式 constructions",
+    "text": "構式 constructions",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#lexical-typology",
-    "href": "week2.html#lexical-typology",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "Lexical Typology",
-    "text": "Lexical Typology\n各種語言的詞彙在以下的幾個層面上有什麼 相同/不同的特徵？\n\nbody parts, kinship terms, personal pronouns, numerals, antonymic adjectives, and color terms, etc.",
+    "objectID": "week5.html#applying-morphology-emoticon",
+    "href": "week5.html#applying-morphology-emoticon",
+    "title": "Week 5 構詞",
+    "section": "Applying Morphology: Emoticon",
+    "text": "Applying Morphology: Emoticon\n       http://emojitracker.com/",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#syntactic-typology",
-    "href": "week2.html#syntactic-typology",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "Syntactic Typology",
-    "text": "Syntactic Typology\nchoice of words, word forms and orders\n\n\n\n\n\n\nout of 1228 languages\n\n\nSOV: 497  SVO: 435  VSO: 85  VOS: 26  OVS: 9  OSV: 4  Lacking a dominant order: 172",
+    "objectID": "week5.html#顏文字",
+    "href": "week5.html#顏文字",
+    "title": "Week 5 構詞",
+    "section": "顏文字",
+    "text": "顏文字\n◢▆▅▄▃崩╰(〒皿〒)╯溃▃▄▅▇◣\n\nemoji",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#世界語言與文字地圖",
-    "href": "week2.html#世界語言與文字地圖",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "世界語言與文字地圖",
-    "text": "世界語言與文字地圖",
+    "objectID": "week5.html#迷因",
+    "href": "week5.html#迷因",
+    "title": "Week 5 構詞",
+    "section": "迷因",
+    "text": "迷因",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#跨模態推理練習",
-    "href": "week2.html#跨模態推理練習",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "跨模態推理練習",
-    "text": "跨模態推理練習",
+    "objectID": "week5.html#applying-morphology-neologism",
+    "href": "week5.html#applying-morphology-neologism",
+    "title": "Week 5 構詞",
+    "section": "Applying Morphology: Neologism",
+    "text": "Applying Morphology: Neologism\n\nwhat is the underlying word formation process?\nproductivity? chance of survival?\n\n\n\n\n\n\n\n\n卡位 (blocking) 原則\n\n\n臺北大學 》北大；系友會 vs 所有會？",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
   },
   {
-    "objectID": "week2.html#參考文獻",
-    "href": "week2.html#參考文獻",
-    "title": "Week 2 語言文化與演算思維",
-    "section": "參考文獻",
-    "text": "參考文獻\n\n\n\n\n\n\n\n\n\nBozhanov, Bozhidar, and Ivan Derzhanski. 2013. “Rosetta Stone Linguistic Problems.” In Proceedings of the Fourth Workshop on Teaching NLP and CL, 1–8.\n\n\nMoravcsik, Edith A. 2012. Introducing Language Typology. Cambridge University Press.",
+    "objectID": "week5.html#題目練習",
+    "href": "week5.html#題目練習",
+    "title": "Week 5 構詞",
+    "section": "題目練習",
+    "text": "題目練習\nIn Latvian a noun can be one of two genders; furthermore, adjectives agree with nouns in gender, number and case. You are given phrases in either the nominative or the genitive case with their translations:\nsilts ezers — warm lake\nmelns lauva — black lion\nliela krāsns — big oven\nlielas jūras — big sea’s\nsarkana ezera — red lake’s\nmelna kafija — black coffee\nsarkans putns — red bird\nliela kalna — big mountain’s\nsarkanas lapas — red leaf’s\nsarkana pils — red castle\nliels ezers — big lake\nmelna putna — black bird’s\nliela lauvas — big lion’s\nsilta jūra — warm sea\nmelnas kafijas — black coffee’s\nliels kalns — big mountain",
     "crumbs": [
       "首頁",
-      "Week 2 語言文化與演算思維"
+      "Week 5 構詞"
     ]
-  },
-  {
-    "objectID": "week13.html#結繩記事",
-    "href": "week13.html#結繩記事",
-    "title": "Week 13 文字系統",
-    "section": "結繩記事",
-    "text": "結繩記事\n\n文字發明前，人所使用的一種記事方法。即在一條繩子上打結。上古時期的中原地區及秘魯印地安人皆有此習慣",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#section",
-    "href": "week13.html#section",
-    "title": "Week 13 文字系統",
-    "section": "",
-    "text": "【昔者倉頡作書而天雨粟，鬼夜哭。】《淮南子·本經訓》\n\n\n雙瞳四目",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#representing-languages",
-    "href": "week13.html#representing-languages",
-    "title": "Week 13 文字系統",
-    "section": "Representing Languages",
-    "text": "Representing Languages\n\n探問紀錄與表達語言的文字符號系統\n\n‘spoken language’ vs ‘written language’ (note: writing is a fairly recent invention) 語言「也許」始於 300 -400 萬年前的直立人；文字則「相對確定」約在 1 萬年前萌芽於新石器時代的刻符與岩畫。\n文字嘗試再現語言，但不是語言 Only 25% of the world’s languages have written forms.\n\n人類文字系統",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#文字系統的成分",
-    "href": "week13.html#文字系統的成分",
-    "title": "Week 13 文字系統",
-    "section": "文字系統的成分",
-    "text": "文字系統的成分\n\n文字系統需要至少包含甚麼?\n\n\nA script: a set of graphic symbols used to represent the units of a writing system.\nOrthography: a set of rules and conventions for using a writing system to represent a language in a readable and understandable manner.",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#自由與黏着",
-    "href": "week13.html#自由與黏着",
-    "title": "Week 13 文字系統",
-    "section": "自由與黏着",
-    "text": "自由與黏着\n\nfree grapheme and bound grapheme (e.g. 變音符號 diacritic marks 只能和其他字素結合出現。法文的 `)\n\n梵文中的變音符號 （黏着字素） 出現在輔音的位置各不同（上、下、前、後） क &lt;k&gt;: को &lt;ke&gt; का &lt;kā&gt; कि &lt;ki&gt; की &lt;kī&gt; कु &lt;ku&gt; कू &lt;kū&gt;\n\ngraphemes vs allograph 的問題；異體字。\n\n\n\n\n\n\n\n\nligature\n\n\n連字（ligature） 是由兩個或多個字素合在一起的符號單位，並且在書寫時以一個單一的字形出現。例如，丹麥語的字母æ 是字母 a 和 e 的連字；英文ﬁ是字母f和i的連字。(但這僅僅是出於印刷審美考慮，或是書寫效率，在書寫時減少抬筆的次數。)",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#文字簡史",
-    "href": "week13.html#文字簡史",
-    "title": "Week 13 文字系統",
-    "section": "文字簡史",
-    "text": "文字簡史\n\n原始文字時期\n\n文字源於圖畫 (picture writing)\n\n古典文字時期\n\n3200 BC 西亞兩河流域的蘇美人創造「楔形文字」。\n北非尼羅河流域的古埃及人創造「聖書字」(hieroglyphics)，使用了三千多年。\n1300 BC 中國黃河流域殷商帝國創立「甲骨文」\n其他：2000 BC 中美洲的「馬雅」、中國「彞文」\n\n字母文字時期\n\n1500 開始因應貿易需求的字母文字\nlinear-B / Byblos /\n腓尼基、希臘、拉丁字母",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#section-1",
-    "href": "week13.html#section-1",
-    "title": "Week 13 文字系統",
-    "section": "",
-    "text": "一個名爲「鼈隨妻」(turtle-following-his-wife) 的人給他的兒子（小子’little man’）捎信要他回家，並隨信附上 53 元作爲盤纏。",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#從表達的功能來看",
-    "href": "week13.html#從表達的功能來看",
-    "title": "Week 13 文字系統",
-    "section": "從表達的功能來看",
-    "text": "從表達的功能來看",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#logograms-語素文字",
-    "href": "week13.html#logograms-語素文字",
-    "title": "Week 13 文字系統",
-    "section": "Logograms 語素文字",
-    "text": "Logograms 語素文字\n\na logogram, or logograph, is a symbol that represents a word or a morpheme. [表達想法]\ntwo subtypes of logographic system:\n\npictograms: pictures or symbols that represent an object or idea and may communicate a message, but they are not direct representations of speech.\nideograms: symbols that communicate or represent an idea, though they are not necessarily pictures of actual objects or events. When a picture becomes conventionalized, it may be an ideogram, like the peace sign.",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#the-rebus-principle-假借",
-    "href": "week13.html#the-rebus-principle-假借",
-    "title": "Week 13 文字系統",
-    "section": "The Rebus Principle (「假借」)",
-    "text": "The Rebus Principle (「假借」)\n但是，所有已知的 logographic writing system 都含有一些語音成分(常來自 “假借”：the use of existing symbols, purely for their sounds regardless of their meaning, to represent new words)\n\nWhen a graphic sign no longer has a visual connection to the word it represents, it becomes a phonographic symbol, standing for the sounds that represent the word.\nA single sign can then be used to represent all words with the same sound (同音字). e.g, My 曰 is a teacher.",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#漢字系統",
-    "href": "week13.html#漢字系統",
-    "title": "Week 13 文字系統",
-    "section": "漢字系統",
-    "text": "漢字系統\n\n語素文字或音節文字？\n漢語的大量同音現象導致了漢字的「同音字」現象。(所以纔有石室詩士施氏嗜獅 這樣的文字遊戲。)\n\n\n\n\n\n\n\n\n同音字\n\n\n現代漢語常用的 1359 個音節形式（含聲調）中，每一個都是以平均 11 個漢字作爲其不同的書寫形式。\n\n\n\n\n\n\n六書：（造字法）象形 (pictography)、指事 (abstract pictograms)。(組字法) 會意 (semantic extension)、形聲 (semantic-phonetic compound)。(用字法？) 假借 、轉注",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#練習",
-    "href": "week13.html#練習",
-    "title": "Week 13 文字系統",
-    "section": "練習",
-    "text": "練習\n以【口】爲例，請列出有口參與的字，並說明其造字法。",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#logograms-and-phonograms",
-    "href": "week13.html#logograms-and-phonograms",
-    "title": "Week 13 文字系統",
-    "section": "Logograms and Phonograms",
-    "text": "Logograms and Phonograms\n\nPictograms and ideograms are not complete writing systems for any (sound-based) language.\nPhonogram is a symbol based on sound rather than meaning. Phonographic systems include:\n\nsyllabary (syllabic)\nalphabets (phonemic)",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#音節文字-syllabic-system-和-短音節文字-moraic-system",
-    "href": "week13.html#音節文字-syllabic-system-和-短音節文字-moraic-system",
-    "title": "Week 13 文字系統",
-    "section": "音節文字 Syllabic system 和 短音節文字 (moraic system)",
-    "text": "音節文字 Syllabic system 和 短音節文字 (moraic system)\n\n書寫單位對應的是一個音節 (CV; CVC; V)\n大部分的音節文字其實是短音節文字（onset-nucleus or coda only）。",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#注音符號",
-    "href": "week13.html#注音符號",
-    "title": "Week 13 文字系統",
-    "section": "注音符號",
-    "text": "注音符號",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#alphabetic",
-    "href": "week13.html#alphabetic",
-    "title": "Week 13 文字系統",
-    "section": "Alphabetic",
-    "text": "Alphabetic\nTrue Alphabets\n\nA true alphabet is a writing system with symbols that mean all sorts of individual sounds, both consonants and vowels.\ne.g., Roman alphabet, which is used in large parts of the world, the Greek alphabet, which is used in Greece and Cyprus, and the Cyrillic alphabet, which is used in many countries in Eastern Europe and Central Asia, where Russia had a major influence during the days of the Soviet Union.\n\n\n\n\n\n\n\n音素文字系統的結構符號（子音和母音）通常被稱爲字母 (letter)，而這些字母排列在一起就形成了字母表 (alphabet)。",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#alphabetic-1",
-    "href": "week13.html#alphabetic-1",
-    "title": "Week 13 文字系統",
-    "section": "Alphabetic",
-    "text": "Alphabetic\nAbjads 子音文字 (Consonantal alphabets)\n\nY cn stll rd wtht vwls.\n\n\nabjad /ˈæbdʒæd/ (輔音音素文字)特點是每個符號都代表輔音，沒有元音字母。 Alphabets that do not show vowels but only consonants are called abjads.\n「完全」的輔音音素文字是指文字完全沒有元音標示，如古腓尼基語 (Phoenician)。然而大部分現代的輔音音素文字，如阿拉伯文 (Arabic)、希伯萊文 (Hebrew)都「不完全」。它們可能有一 些附加元音符號。 Examples of abjads are the Arabic alphabet, which is used in much of the Muslim world, and the Hebrew alphabet used for Jewish languages like Hebrew and Yiddish. Both of these abjads are written in lines that run from right to left.",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#alphabetic-2",
-    "href": "week13.html#alphabetic-2",
-    "title": "Week 13 文字系統",
-    "section": "Alphabetic",
-    "text": "Alphabetic\nAbugidas : 母音副標文字\n\nabugida /ɑːbʊˈɡiːdə, ˈæb-/, alphasyllabary (母音附標文字) 是一類以輔音字母為主體、母音以附加符號形式標出的表音文字。\n該書寫系統的主要特點是：子音字母本身即有元音,一般是/a/，構成一個音節；其它母音字母一般附加在子音字母的周圍 (前後上下均有可能) 替代預設母音，以改變音節的讀音。\n南亞和東南亞的梵文文化圈普遍使用abugida作為其書寫形式。 \n\nAbugidas are alphabets where sequences of consonant+vowel are written as a unit based on the consonant letter, and one of the vowels is never written but understood by the consonant letter if no other vowel is written. Examples of abugidas are writing systems of India and Southeast Asia like Devanagari used for Hindi and Sanskrit.",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#特殊的-abuigida-canadian-aboriginal-syllabics",
-    "href": "week13.html#特殊的-abuigida-canadian-aboriginal-syllabics",
-    "title": "Week 13 文字系統",
-    "section": "特殊的 Abuigida: Canadian Aboriginal Syllabics",
-    "text": "特殊的 Abuigida: Canadian Aboriginal Syllabics\n(子音會旋轉！)\n \n\n\n\n\n\n\n\n只要涉及分類，都是權宜性\n\n\nMost writing systems are not purely one type.",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#以下文字如何分類",
-    "href": "week13.html#以下文字如何分類",
-    "title": "Week 13 文字系統",
-    "section": "以下文字如何分類？",
-    "text": "以下文字如何分類？\n\n\n\n\n\n\n\n練習\n\n\n東巴文字 蒙古文字 楔形文字 喃字 狀字 女真文字 女書 韓國諺文 藏文 維吾爾文字 馬雅文字",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week13.html#section-3",
-    "href": "week13.html#section-3",
-    "title": "Week 13 文字系統",
-    "section": "",
-    "text": "Complexities of Writing Systems",
-    "crumbs": [
-      "首頁",
-      "Week 13 文字系統"
-    ]
-  },
-  {
-    "objectID": "week10.html#原初邏輯",
-    "href": "week10.html#原初邏輯",
-    "title": "Week 10 語意與文化",
-    "section": "原初邏輯",
-    "text": "原初邏輯",
-    "crumbs": [
-      "首頁",
-      "Week 10 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week10.html#世界觀",
-    "href": "week10.html#世界觀",
-    "title": "Week 10 語意與文化",
-    "section": "世界觀",
-    "text": "世界觀\n\n不去描寫感知者的主題所獲得之印象，而去描寫客體在生活空間中的 形狀、輪廓、位置、運動、作用方式等等。",
-    "crumbs": [
-      "首頁",
-      "Week 10 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week10.html#另一個例子",
-    "href": "week10.html#另一個例子",
-    "title": "Week 10 語意與文化",
-    "section": "另一個例子",
-    "text": "另一個例子\n\nKafir",
-    "crumbs": [
-      "首頁",
-      "Week 10 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week10.html#田野工作-linguistic-fieldwork-與語言類型學-linguistic-typology",
-    "href": "week10.html#田野工作-linguistic-fieldwork-與語言類型學-linguistic-typology",
-    "title": "Week 10 語意與文化",
-    "section": "田野工作 (linguistic fieldwork) 與語言類型學 (linguistic typology)",
-    "text": "田野工作 (linguistic fieldwork) 與語言類型學 (linguistic typology)\n要瞭解語言與思維，坐在安樂椅上是危險的。\n\n\n\nFieldwork Methodology\n\n\n\n\n\nFieldwork Methodology\n\n\n\n\n\nFieldwork Methodology",
-    "crumbs": [
-      "首頁",
-      "Week 10 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week10.html#eliciting-evidentiality",
-    "href": "week10.html#eliciting-evidentiality",
-    "title": "Week 10 語意與文化",
-    "section": "Eliciting Evidentiality",
-    "text": "Eliciting Evidentiality\n\n\n\n\n\n\nEvidentiality expresses the nature of evidence for a given statement, i.e., whether the speaker knows it as a fact, whether they heard it from someone else (hearsay), whether they witness it etc.\n\n\n\n舉個例子。英文的「言據性」Evidentiality 是用藉由一些動詞與副詞來表達:\n\nI am happy (direct evidence)\nMary seems happy (inferential)\nMary looks happy (visual evidence, inferential) (d) Mary is happy, reportedly (hearsay)\nI hear that Mary is happy (hearsay)",
-    "crumbs": [
-      "首頁",
-      "Week 10 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week10.html#思考",
-    "href": "week10.html#思考",
-    "title": "Week 10 語意與文化",
-    "section": "[思考]",
-    "text": "[思考]\n如何設計情境才能得出像是 Tariana 的言據系統?\n\nTariana",
-    "crumbs": [
-      "首頁",
-      "Week 10 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week10.html#人類語言學-anthropological-linguistics",
-    "href": "week10.html#人類語言學-anthropological-linguistics",
-    "title": "Week 10 語意與文化",
-    "section": "人類語言學 (anthropological linguistics)",
-    "text": "人類語言學 (anthropological linguistics)\n(Dimmendaal 2022) 詞彙語意、認知與文化\n\n數字系統 (numeral systems)、親屬關係 (kinship terminology)、動植物命名 (bionomenclature)\n顏色 (colour)、身體詞 (body-part nomenclature)、嗅覺認知 (Olfactory cognition)\n空間與方位 (spatial orientation)\n取名 (Onomastics)\n曆法 (calendars)、時間 (time)、天氣 (weather)\n情緒與委婉\n。。。",
-    "crumbs": [
-      "首頁",
-      "Week 10 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week10.html#情緒",
-    "href": "week10.html#情緒",
-    "title": "Week 10 語意與文化",
-    "section": "情緒",
-    "text": "情緒\n\nAmharic (衣索比亞官方語言）中，sadness and disappointment 由一樣的動詞 azzənə 來表達。\nDutch 把某些情緒嵌入詞彙結構\n\n\ndutch",
-    "crumbs": [
-      "首頁",
-      "Week 10 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week10.html#the-sound-of-silence",
-    "href": "week10.html#the-sound-of-silence",
-    "title": "Week 10 語意與文化",
-    "section": "The sound of silence",
-    "text": "The sound of silence\n沉默 停頓 暫停 等待 緘默 無言 無聲 靜默 靜止不語 ...\n在言談交際上有何意義？",
-    "crumbs": [
-      "首頁",
-      "Week 10 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week10.html#日本法律將親屬以關係密切程度分成不同等級",
-    "href": "week10.html#日本法律將親屬以關係密切程度分成不同等級",
-    "title": "Week 10 語意與文化",
-    "section": "日本法律將親屬以關係密切程度分成不同等級",
-    "text": "日本法律將親屬以關係密切程度分成不同等級\n\nwiki",
-    "crumbs": [
-      "首頁",
-      "Week 10 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week10.html#漢語親屬系統",
-    "href": "week10.html#漢語親屬系統",
-    "title": "Week 10 語意與文化",
-    "section": "漢語親屬系統",
-    "text": "漢語親屬系統\n被歸類於蘇丹型親屬系統（Sudanese kinship）的一種。在該系統中每個人依據其宗族、輩分、性別與年齡，而有不同的親屬稱謂。複習一下",
-    "crumbs": [
-      "首頁",
-      "Week 10 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week10.html#怎麼設計成題目",
-    "href": "week10.html#怎麼設計成題目",
-    "title": "Week 10 語意與文化",
-    "section": "怎麼設計成題目？",
-    "text": "怎麼設計成題目？\n\nBasque family",
-    "crumbs": [
-      "首頁",
-      "Week 10 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week10.html#怎麼設計成可愛的題目",
-    "href": "week10.html#怎麼設計成可愛的題目",
-    "title": "Week 10 語意與文化",
-    "section": "怎麼設計成（可愛的）題目？",
-    "text": "怎麼設計成（可愛的）題目？\n從前有一個喜歡聚會的立陶宛家族。他們在某個家族成員 Algirdas 的生日宴會上再次聚會，其中有 3 人缺席，16 人到場。以下是到場者的姓與名，但兩者的順序被打亂了。\n\n\n請寫出以下成員的姓氏：Algirdas, Elena, Jonas, Elžbeta\n請寫出以下缺席者的姓氏：Rasa 的丈夫； Rimas 的妻子； Elena 和 Aidas 的女兒",
-    "crumbs": [
-      "首頁",
-      "Week 10 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week10.html#練習-如何翻譯成好的中文",
-    "href": "week10.html#練習-如何翻譯成好的中文",
-    "title": "Week 10 語意與文化",
-    "section": "[練習] 如何翻譯成(好的)中文？",
-    "text": "[練習] 如何翻譯成(好的)中文？\n\nJur-Lwoo, a language spoken in South Sudan",
-    "crumbs": [
-      "首頁",
-      "Week 10 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week10.html#詞彙與名字",
-    "href": "week10.html#詞彙與名字",
-    "title": "Week 10 語意與文化",
-    "section": "詞彙與名字",
-    "text": "詞彙與名字\n\n\n\n中文姓名聲調分佈\n\n\n\n\n\n臺灣名字排行",
-    "crumbs": [
-      "首頁",
-      "Week 10 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week10.html#猜一猜這兩張圖在比什麼",
-    "href": "week10.html#猜一猜這兩張圖在比什麼",
-    "title": "Week 10 語意與文化",
-    "section": "猜一猜這兩張圖在比什麼",
-    "text": "猜一猜這兩張圖在比什麼",
-    "crumbs": [
-      "首頁",
-      "Week 10 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week10.html#練習-台大水果題方位題",
-    "href": "week10.html#練習-台大水果題方位題",
-    "title": "Week 10 語意與文化",
-    "section": "[練習] 台大水果題、方位題",
-    "text": "[練習] 台大水果題、方位題",
-    "crumbs": [
-      "首頁",
-      "Week 10 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week10.html#如何分類",
-    "href": "week10.html#如何分類",
-    "title": "Week 10 語意與文化",
-    "section": "如何分類？",
-    "text": "如何分類？\n\n某種參考 \n\n\n\nendocentric (有 head) and exocentric (沒有 head)",
-    "crumbs": [
-      "首頁",
-      "Week 10 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week10.html#漢語二字詞",
-    "href": "week10.html#漢語二字詞",
-    "title": "Week 10 語意與文化",
-    "section": "漢語二字詞",
-    "text": "漢語二字詞\n以【心】爲例。",
-    "crumbs": [
-      "首頁",
-      "Week 10 語意與文化"
-    ]
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "關於",
-    "section": "",
-    "text": "這門課不預設任何語言相關的知識，只要喜歡邊玩遊戲邊動腦，就很適合。\n語言的邏輯分析，是希望透過以語言素材做出的謎題，來練習語言分析、邏輯思維與瞭解世界語言文化的多樣性。同時也能夠學會一些語言謎題遊戲的設計與應用。\n\n📚 參考書籍\n對於喜歡主動學習，吸收新知的同學，以下是妳會喜歡的書。\n\nThe language lover’s puzzle book\n\n\n\n\nbellos\n\n\nhttp://www.alexbellos.com/language\n\nPuzzles in Logic, Languages and Computation\n\n \n\n\n\n\n\n\nThe Red/Green book, 2013. ntu lib online available\n\n\n\n\nThis book presents 56 problems, with solutions, created for high school students competing in a computational linguistics olympiad. … The interesting, elegant, and very diverse problems are fun to read and solve, and may be enjoyed not only by high school students, but also by current, future, or potential system thinkers, including programmers, analysts, or linguists.” (H. I. Kilov, Computing Reviews, April, 2014)\n\n\n\n\nThe Language Construction Kit\nWhat makes us smart: the computational logic of human cognition\n\n\n\n\n\n\n\n\nntu library, downloadable till 3/31\n\n\n\n\n\n\n\n語言學：結構、認知與文化的探索 （黃宣範主編,2022)\n南島語言 （中研院語言所研究員翻譯, 2022）\n\n\n\n參考資源\n\nUKLO: 英國語奧\nNACLO: 美國語奧\nOnling: 學生版國際語奧 👍\nTOL: 自己國家自己挺"
   },
   {
     "objectID": "index.html",
@@ -1192,1729 +580,6 @@
     "crumbs": [
       "首頁",
       "LING5503 語言的邏輯分析"
-    ]
-  },
-  {
-    "objectID": "week1.html#我是",
-    "href": "week1.html#我是",
-    "title": "Week1 Orientation",
-    "section": "我是",
-    "text": "我是",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#語言的邏輯分析",
-    "href": "week1.html#語言的邏輯分析",
-    "title": "Week1 Orientation",
-    "section": "語言的邏輯分析",
-    "text": "語言的邏輯分析\n\n語言？\n邏輯？\n分析？\n[語言的邏輯]分析？ [語言]的[邏輯分析]？",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#語言與語言學",
-    "href": "week1.html#語言與語言學",
-    "title": "Week1 Orientation",
-    "section": "語言與語言學",
-    "text": "語言與語言學\nLanguages and Linguistics\n\n\nTo uncover and describe what you know, and how you learned\nForm (sound and script) and Meaning\n\nPhonetics/Phonology; Morphology/Syntax; Semantics/Pragmatics\nPsycho-neuro-social-historical-cultural dimensions\nvarious applications : language pedagogy, natural language processing/understanding, language, speech therapy (language-speech-pathology)",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#語言與語言科學",
-    "href": "week1.html#語言與語言科學",
-    "title": "Week1 Orientation",
-    "section": "語言與語言科學",
-    "text": "語言與語言科學\nLinguistics and Language Science(s) Language Modalities\n\n\nEvery language must have a mode of communication / modality\n\nAuditory-vocal\nvisual-gestural\n\nImportance of studying different modalities &gt; toward Language Science(s)",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#world-languages",
-    "href": "week1.html#world-languages",
-    "title": "Week1 Orientation",
-    "section": "World Languages",
-    "text": "World Languages\n我們會的語言，只是七千多種的幾個。(對臺灣最具意義的南島語族約 1200+ 種，不斷流失中）\n\n\n\n\n\n\n我就問：會是什麼意思？\n\n\nWhat do you know when you (say) you know a language? (BTW, Language is not Writing System) 5000-7000/1000－2000）",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#all-languages-matter",
-    "href": "week1.html#all-languages-matter",
-    "title": "Week1 Orientation",
-    "section": "All Languages matter!",
-    "text": "All Languages matter!\n自然語言、動物語言、星際語言、人造語言、電腦語言、以及其他書寫文字溝通系統\n\n【人造語言/constructed languages】\n【外星語言學 Xenolinguistics】\n【Linguistic Steganography 語言隱寫術】／ 【Algorithmic Deciperment (Voynich; Rovash), etc】\n\nnon-verbal, non-symbolic communication system, ever possible? (electrocardiogram etc )",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#邏輯",
-    "href": "week1.html#邏輯",
-    "title": "Week1 Orientation",
-    "section": "邏輯",
-    "text": "邏輯\n\n語言與邏輯是彼此密切相關的，語言就是由一系列符號（詞語、標記、符號）和它們之間的規則組成的系統，可以用來表達思想或溝通。邏輯是一門對推理進行分析和評估的科學，它提供了一個框架，用來檢查推理的合理性，以及推理中涉及的假設的清楚性和有效性。因此，語言的邏輯分析就是對語言的結構和語言中推理的合理性進行分析和評估的過程。它是利用邏輯的原則對語言表達的概念及其關系進行分析的過程，以探索語言的正確性和有效性，并確定語言表達中的推理是否符合邏輯規則。\n\n\n(這段是 AI 生成的)",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#邏輯有很多意義",
-    "href": "week1.html#邏輯有很多意義",
-    "title": "Week1 Orientation",
-    "section": "邏輯有很多意義",
-    "text": "邏輯有很多意義\n\n邏輯是一個涵義很廣的概念，涵蓋的並不局限于形式邏輯或數理邏輯所表達的範圍 （參見康德【純理性批判】Critique of Pure Reason）",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#這門課不這樣談語言-可惜慶幸",
-    "href": "week1.html#這門課不這樣談語言-可惜慶幸",
-    "title": "Week1 Orientation",
-    "section": "這門課不這樣談語言 (可惜？慶幸？ 😄)",
-    "text": "這門課不這樣談語言 (可惜？慶幸？ 😄)",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#語言文化與邏輯",
-    "href": "week1.html#語言文化與邏輯",
-    "title": "Week1 Orientation",
-    "section": "語言文化與邏輯",
-    "text": "語言文化與邏輯\n\n我們來看一個例子：巴拉圭的 Toba 語言中的數字表達",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#section",
-    "href": "week1.html#section",
-    "title": "Week1 Orientation",
-    "section": "",
-    "text": "阿拉伯數字\n表達\n\n\n\n\n1\nnathedac\n\n\n2\ncacayni 或 nivoca\n\n\n3\ncacaynilia\n\n\n4\nnalotapegat\n\n\n5\nnivoca cacaynilia\n\n\n6\ncacayni cacaynilia\n\n\n7\nnathedac cacayni cacaynilia\n\n\n8\nnivoca nalotapegat\n\n\n9\nnivoca nalotapegat nathedac\n\n\n10\ncacayni nivoca nalotapegat",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#原初邏輯與文化",
-    "href": "week1.html#原初邏輯與文化",
-    "title": "Week1 Orientation",
-    "section": "原初邏輯與文化",
-    "text": "原初邏輯與文化\n\n\n對抽象沒有興趣；矛盾也沒有關係。\n\n-  `Tasmanians` 沒有「樹」這個詞，但對於每一種灌木、橡膠樹都有專門的語詞；沒有抽象的方式表達硬的、軟的、圓的。會說「像石頭一樣」(硬)，「像大腿一樣」(長)，「像月亮一樣」(圓)。\n\n\n\n\n\n\n世界觀\n\n\n不去描寫感知者的主題所獲得之印象，而去描寫客體在生活空間中的 形狀、輪廓、位置、運動、作用方式等等。",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#affordance",
-    "href": "week1.html#affordance",
-    "title": "Week1 Orientation",
-    "section": "Affordance",
-    "text": "Affordance\n從生態心理學來的這個概念也很有幫助理解語言的邏輯分析。\n\n任何對環境或物體的知覺，都提供了知覺者某種行動的可能。如: 可以用來支撐的地面、可以食用的物質等。\n語言通常也透過物體的名稱來反映了這種 affordance 的關係。",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#affordance-in-language",
-    "href": "week1.html#affordance-in-language",
-    "title": "Week1 Orientation",
-    "section": "Affordance in Language",
-    "text": "Affordance in Language",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#小總結",
-    "href": "week1.html#小總結",
-    "title": "Week1 Orientation",
-    "section": "小總結",
-    "text": "小總結\n\n語言：世界語言與人造語言，只要是人類用來溝通的符碼系統，形意結合的符號系統，都是語言。\n邏輯分析：不帶文化偏見的規則與模型探究與推導。",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#娛樂語言學",
-    "href": "week1.html#娛樂語言學",
-    "title": "Week1 Orientation",
-    "section": "娛樂語言學",
-    "text": "娛樂語言學\n[Recreational linguistics](https://www.wikiwand.com/en/Logology_(linguistics)\n\na discipline which stimulates language learning through word games and lexical combinations. The method includes acrostics, mesostichs, tongue twisters, crossword puzzles, word searches, riddles, which Mollica advocates to teach language (vocabulary and grammar) as well as culture.",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#遊戲與人生",
-    "href": "week1.html#遊戲與人生",
-    "title": "Week1 Orientation",
-    "section": "遊戲與人生",
-    "text": "遊戲與人生\n\n寓教於樂的 AI 世代\n\n\n\n\n\n\n\n想像一個大部分的人都不需要為生活操心的世界，遊戲與娛樂將成為人類 (或AI 希望人類)的主要活動。這樣的世界將會是怎樣的呢？",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#linguistics-in-the-real-world",
-    "href": "week1.html#linguistics-in-the-real-world",
-    "title": "Week1 Orientation",
-    "section": "Linguistics in the real World",
-    "text": "Linguistics in the real World\n\nLinguistics in Everyday Life\nLinguistics in the real world: Multi-modal and Multi-channel communication Revisiting Semiotics",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#linguistics-in-the-irreal-world",
-    "href": "week1.html#linguistics-in-the-irreal-world",
-    "title": "Week1 Orientation",
-    "section": "Linguistics in the irreal World",
-    "text": "Linguistics in the irreal World\nHeptapods in Arrival",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#post-ai-skills",
-    "href": "week1.html#post-ai-skills",
-    "title": "Week1 Orientation",
-    "section": "post-AI skills",
-    "text": "post-AI skills\nunplugged computational-linguistic (algorithmic) thinking\n大型語言模型下的時代意義\n\n(Language) Game with a purpose\nin-context learning and (anthropomorphized) prompt engineering",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#謝老師神預言",
-    "href": "week1.html#謝老師神預言",
-    "title": "Week1 Orientation",
-    "section": "謝老師神預言 😄",
-    "text": "謝老師神預言 😄",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#我們怎麼實作這門課",
-    "href": "week1.html#我們怎麼實作這門課",
-    "title": "Week1 Orientation",
-    "section": "我們怎麼實作這門課？",
-    "text": "我們怎麼實作這門課？\nLinguistic problem solving with small data\n\n\n用少量的知識當基礎\n用自然語言與人造語言的例子來練習\n\n\n從解碼、辨識與推導 (Decoding, Recognition and Inference) 到編碼 (Encoding) 能力學習",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#提醒",
-    "href": "week1.html#提醒",
-    "title": "Week1 Orientation",
-    "section": "提醒",
-    "text": "提醒\n\n記得帶筆記本、筆電或平板之類。\n這門課也是台大計算語言學領域專長的核心必修課程。 (程式設計與資料科學導論、語言的邏輯分析、計算語言學與語言理論、計算語言學專題)",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#暫時課綱",
-    "href": "week1.html#暫時課綱",
-    "title": "Week1 Orientation",
-    "section": "暫時課綱",
-    "text": "暫時課綱",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week1.html#課堂練習",
-    "href": "week1.html#課堂練習",
-    "title": "Week1 Orientation",
-    "section": "課堂練習",
-    "text": "課堂練習\n\n語奧初試",
-    "crumbs": [
-      "首頁",
-      "Week1 Orientation"
-    ]
-  },
-  {
-    "objectID": "week12.html#語言認知與多模態-1",
-    "href": "week12.html#語言認知與多模態-1",
-    "title": "Week 12 語意與文化",
-    "section": "語言、認知與多模態",
-    "text": "語言、認知與多模態\nmetaphor\n\n隱喻也是一種神經機制，這種用於感覺運動的神經機制創建了抽象推理的形式（同時也具備潛力與侷限）。\n我們在語言中使用隱喻的方式。往往反映出具身的經驗。例如，使用隱喻 “我感到沮喪/難過”來表達悲傷，是基於與悲傷感覺相關的姿態和能量水平的身體經驗。",
-    "crumbs": [
-      "首頁",
-      "Week 12 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week12.html#語言認知與多模態-2",
-    "href": "week12.html#語言認知與多模態-2",
-    "title": "Week 12 語意與文化",
-    "section": "語言、認知與多模態",
-    "text": "語言、認知與多模態\n\\(\\mu\\) 波抑制：具身語言活動的神經生理指標\n\n\\(\\mu\\) 波是大腦的一種特定類型的腦波，通常在頻率範圍 8-13 Hz 之間。它們主要出現在感覺運動皮質（大腦負責處理身體運動和感覺的區域），特別是在休息和閉眼時比較顯著。\n有些研究顯示，當我們觀察他人的動作或想像自己進行某種動作時，\\(\\mu\\) 波會被抑制。這種現象被認為是體現認知的一種表現，因為它顯示了我們的大腦在觀察他人的行為或想像自己的行為時，如何模擬這些行為。這種模擬可能有助於我們理解他人的行為和意圖，以及想像和計劃自己的行為。",
-    "crumbs": [
-      "首頁",
-      "Week 12 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week12.html#語言認知與多模態-3",
-    "href": "week12.html#語言認知與多模態-3",
-    "title": "Week 12 語意與文化",
-    "section": "語言、認知與多模態",
-    "text": "語言、認知與多模態\nsensori-motion and cognition\n\n感官（Sensory）和運動（Motion）是兩個在神經科學和心理學中經常被討論的概念。感官指的是我們的感官系統（視覺、聽覺、嗅覺、味覺和觸覺）以及我們如何通過這些系統來感知周圍的世界。運動則是指我們的身體運動和動作，這通常涉及到我們的肌肉和骨骼系統以及大腦中控制這些系統的區域。\n當我們談論感官和運動的交互作用時，我們可能會討論如何將我們的感官輸入（例如，看到一個球接近）轉化為適當的運動反應（例如，揮棒擊球）。這種過程涉及到大腦中多個區域的協同工作，並且是我們日常生活中的許多活動的基礎。\n語言處理也是如此。語言也是一種感官運動活動，它涉及到我們的感官系統（例如，聽覺和視覺）和運動系統（例如，口腔和手部運動）的協同工作。這種感官運動活動的特性，使得語言處理與其他感官運動活動有許多相似之處。\n傳統上語言理解模型，如情景理論 (situation theory) 認爲，語言理解是一種抽象的、非具身的、符號性的過程，與感官運動活動無關。構建被描述的情景的心理表徵就是理解。如此觀點難以回答符碼接地 (symbol grounding) 問題 。\n\n\n\n\n\n\n\n\nsesorimotor memory trace\n\n\n對於「桌子」一詞的理解，來自有關桌子的記憶印痕（桌子的形狀、大小、顏色等特徵）以及動作印痕（某人作出的和桌子相關的動作）產生共鳴。所以沒有語境時，這些提取就可能發生變異，隨着時間也會變化。\n這些語言和環境中的接地 (grounding) 經驗（同時藉由手勢與注意力引導等機制），開始於語言習得的初始階段。這些經驗在語言習得的過程中，逐漸被語言符號所取代，但是這些經驗仍然存在於我們的大腦中，並且在我們使用語言時被激活。",
-    "crumbs": [
-      "首頁",
-      "Week 12 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week12.html#語言認知與多模態-4",
-    "href": "week12.html#語言認知與多模態-4",
-    "title": "Week 12 語意與文化",
-    "section": "語言、認知與多模態",
-    "text": "語言、認知與多模態\n手語、手勢（與體勢）、多模溝通\n\n大多數語言學家終其一生，研究的只是一個語言學次領域或兩個領域之間的邊界。然而，真實語言是具身的、整合的、多模態的。\n\n\nThe language-body relationship is complex. Manual gestures, shoulder shrungs, facial expressions and gaze movements, and postural or torso shifts, all add meaning to a spoken utterance (Hinnell 2020).\n\n\n\n\n\n\n\n這和手相 (Palmistry)、面相 (Physiognomics)、骨相 (Phrenology) 等，判斷個性或一生運勢吉凶無關。",
-    "crumbs": [
-      "首頁",
-      "Week 12 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week12.html#台灣多模態語料庫",
-    "href": "week12.html#台灣多模態語料庫",
-    "title": "Week 12 語意與文化",
-    "section": "台灣多模態語料庫",
-    "text": "台灣多模態語料庫\n\n介紹\n應用",
-    "crumbs": [
-      "首頁",
-      "Week 12 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week12.html#手勢與體勢",
-    "href": "week12.html#手勢與體勢",
-    "title": "Week 12 語意與文化",
-    "section": "手勢（與體勢）",
-    "text": "手勢（與體勢）\n\n階段：preparation, stroke, retraction. (gesture onset and speech onset alignment)\n與語言的合作關係：complementary, supplementary, or redundant.\n\n\ncf. 政大中文口語語料庫",
-    "crumbs": [
-      "首頁",
-      "Week 12 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week12.html#section",
-    "href": "week12.html#section",
-    "title": "Week 12 語意與文化",
-    "section": "",
-    "text": "Figure illustrates the derivational process in ASL that is equivalent to the formation of the nouns comparison and measuring from the verbs compare and measure in English. Everything about the root morpheme remains the same except for the movement of the hands.\n\n\n我們用 cool 本週的講義來粗略理解一下。",
-    "crumbs": [
-      "首頁",
-      "Week 12 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week12.html#人造手語-artificial-sign-language",
-    "href": "week12.html#人造手語-artificial-sign-language",
-    "title": "Week 12 語意與文化",
-    "section": "人造手語 | artificial sign language",
-    "text": "人造手語 | artificial sign language\nConstruct your own (concise) Sign Language\n\nplaces = consonants?\nmovement = vowels?\nhandshape = tone ?",
-    "crumbs": [
-      "首頁",
-      "Week 12 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week12.html#遊戲時間",
-    "href": "week12.html#遊戲時間",
-    "title": "Week 12 語意與文化",
-    "section": "遊戲時間",
-    "text": "遊戲時間\n\n先找好組員。\n設計一套迷你手語，可以用來傳達一些簡單的訊息。（以下四句）\n溝通與訓練好之後，請一組一組上台表演。（分出一個人與其他所有人一起來猜測）",
-    "crumbs": [
-      "首頁",
-      "Week 12 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week12.html#section-1",
-    "href": "week12.html#section-1",
-    "title": "Week 12 語意與文化",
-    "section": "",
-    "text": "訓練語料\n\n\n我是台大的學生。\n台大有很大的校園。\n台大學生人數很多。\n台大校園裡到處都看得到學生(們)。",
-    "crumbs": [
-      "首頁",
-      "Week 12 語意與文化"
-    ]
-  },
-  {
-    "objectID": "week3.html#聲音三要素",
-    "href": "week3.html#聲音三要素",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "聲音三要素",
-    "text": "聲音三要素\nSound is a physical phenomenon that can be described in terms of three properties 物理上來說：\n\n音量 (大小) loudness 《》 振幅大小\n音調 (高低) pitch 《》振動頻率高低\n音色 (差異) quality 《》許多正弦波疊合而成的複雜波形",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#聲音無所不在",
-    "href": "week3.html#聲音無所不在",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "聲音無所不在",
-    "text": "聲音無所不在\n\n(Human) sounds of the world\nSound and Geography",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#語音聲音是什麼",
-    "href": "week3.html#語音聲音是什麼",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "語音（聲音）是什麼？",
-    "text": "語音（聲音）是什麼？\nSpeech Sounds\n\n聲音是一種(縱)波：聲帶震動發出聲響，發音位置修飾在口／鼻腔產生共鳴，以空氣為介質，以波的形式傳遞，在耳中的鼓膜震動，訊號傳入大腦解析。",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#speech-sounds-phonemes",
-    "href": "week3.html#speech-sounds-phonemes",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "Speech Sounds: Phonemes",
-    "text": "Speech Sounds: Phonemes\n\n音位（英語：Phoneme），又譯音素，是人類語言中能夠區別意義的最小聲音單位。傳統上用 Minimal pair (最小音對) 方法來辨認。\n人類語言中平均的音素數目（大約）是 30（ranging from 141 phonemes in !Xū to 11 phonemes in Pirahā）",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#speech-sounds-some-interesting-facts",
-    "href": "week3.html#speech-sounds-some-interesting-facts",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "Speech Sounds: Some (Interesting) Facts",
-    "text": "Speech Sounds: Some (Interesting) Facts\n\nVowelless word/sentence in Bella coola (Nuxalk): 聽看看",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#speech-sounds-applications",
-    "href": "week3.html#speech-sounds-applications",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "Speech Sounds: Applications",
-    "text": "Speech Sounds: Applications\n\n語音辨識 Speech-to-Text\n語音合成 Text-to-Speech\n多模態 AI 的時代，Speech 可以跟 XXX (melody, emoji, …) 各種互動轉換",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#linguistic-approach",
-    "href": "week3.html#linguistic-approach",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "Linguistic approach",
-    "text": "Linguistic approach\n\n語音學 (Phonetics)\n\n發音學 (Articulatory Phonetics)\n語音聲學 (Acoustic Phonetics)\n語音聽覺學 (Auditory Phonetics)\n\n音韻學 (Phonology)\n\n\n\n\n\n\n\n聲與音的詞彙語意差異，已經透漏了古人的語音學觀念。",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#sound-segments",
-    "href": "week3.html#sound-segments",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "Sound Segments",
-    "text": "Sound Segments\n\nKnowing a language includes knowing the sounds of that language\nPhonetics is the study of speech sounds\nWe are able to segment a continuous stream of speech into distinct parts and recognize the parts in other words",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#identity-of-speech-sounds",
-    "href": "week3.html#identity-of-speech-sounds",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "Identity of Speech Sounds",
-    "text": "Identity of Speech Sounds\n\nOur linguistic knowledge allows us to ignore nonlinguistic differences in speech (such as individual pitch levels, rates of speed, coughs)\nWe are capable of making sounds that are not speech sounds in English (but are in other languages)\n\nThe click tsk that signals disapproval in English is a speech sound in languages such as Zulu.",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#identity-of-speech-sounds-1",
-    "href": "week3.html#identity-of-speech-sounds-1",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "Identity of Speech Sounds",
-    "text": "Identity of Speech Sounds\nThe science of phonetics aims to describe all the sounds of all the world’s languages\n\nAcoustic phonetics: focuses on the physical properties of the sounds of language\nAuditory phonetics: focuses on how listeners perceive the sounds of language\nArticulatory phonetics: focuses on how the vocal tract produces the sounds of language",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#圖示",
-    "href": "week3.html#圖示",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "圖示",
-    "text": "圖示",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#representing-sounds",
-    "href": "week3.html#representing-sounds",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "Representing Sounds",
-    "text": "Representing Sounds\n怎麼（科學的）描述/表示/轉寫語音？\n\nSpelling, or orthography, does not consistently represent the sounds of language. Why?",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#some-problems",
-    "href": "week3.html#some-problems",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "Some Problems",
-    "text": "Some Problems",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#some-problems-1",
-    "href": "week3.html#some-problems-1",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "Some Problems",
-    "text": "Some Problems",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#the-phonetic-alphabet-ipa",
-    "href": "week3.html#the-phonetic-alphabet-ipa",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "The Phonetic Alphabet (IPA)",
-    "text": "The Phonetic Alphabet (IPA)\nIn 1888 the International Phonetic Alphabet (IPA) was invented in order to have a system in which there was a one-to-one correspondence between each sound in language and each phonetic symbol\n\nSomeone who knows the IPA knows (basically) how to pronounce any word in any language",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#practice-with-ipa-值得的投資",
-    "href": "week3.html#practice-with-ipa-值得的投資",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "Practice with IPA (值得的投資)",
-    "text": "Practice with IPA (值得的投資)\nIPA Chart \n\nMimic method 用英文來想像發音的位置\n照表發音 是推薦的學習法，但是要先學會表格的意義\n如果妳對發音生理也有興趣，可以參考 Articulatory information with ULTRASOUND-enhanced videos and animations",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#in-class-exercise-1-german",
-    "href": "week3.html#in-class-exercise-1-german",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "In-class Exercise [1]: German",
-    "text": "In-class Exercise [1]: German\nGerman IPA -enhanced Pronunciation 101",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#in-class-exercise-2-korean",
-    "href": "week3.html#in-class-exercise-2-korean",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "In-class Exercise [2]: Korean",
-    "text": "In-class Exercise [2]: Korean\n從微量數據先來試著推敲韓語的發音",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#語言系譜資料",
-    "href": "week3.html#語言系譜資料",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "語言系譜資料",
-    "text": "語言系譜資料\n\n世界語言結構地圖集 (WALS) 涵蓋 2662 種語言、192 種結構特徵\nlingtypology (Python 與 R 皆有套件)",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#子音數目分佈",
-    "href": "week3.html#子音數目分佈",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "子音數目分佈",
-    "text": "子音數目分佈",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#母音數目分佈",
-    "href": "week3.html#母音數目分佈",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "母音數目分佈",
-    "text": "母音數目分佈",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week3.html#section",
-    "href": "week3.html#section",
-    "title": "Week 3 語音的世界 (1)",
-    "section": "",
-    "text": "題目",
-    "crumbs": [
-      "首頁",
-      "Week 3 語音的世界 (1)"
-    ]
-  },
-  {
-    "objectID": "week5.html#語言結構",
-    "href": "week5.html#語言結構",
-    "title": "Week 5 構詞",
-    "section": "語言結構",
-    "text": "語言結構\n詞法 與 句法\n\n構詞學 (Morphology) the analysis of internal structure of words\n句法 (Syntax) the analysis of the internal structure of sentences/utterances",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#注意界面問題",
-    "href": "week5.html#注意界面問題",
-    "title": "Week 5 構詞",
-    "section": "注意【界面】問題",
-    "text": "注意【界面】問題\n題型設計上（語言使用上也是），常常放在一起討論。\n\n構詞句法 (Morphosyntax) the analysis of the internal structure of utterances, both above the word level and below it.\n\n\n\n\n\n\n\n例子：English Numeral Modification\n\n\none tree, two trees, three trees, etc.\n同時涉及句法 (名詞於數量詞的次序) 和 構詞 (名詞的單複數變化)。",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#word",
-    "href": "week5.html#word",
-    "title": "Week 5 構詞",
-    "section": "Word",
-    "text": "Word\n\nknowing a word",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#岔開做一個實驗",
-    "href": "week5.html#岔開做一個實驗",
-    "title": "Week 5 構詞",
-    "section": "岔開做一個實驗",
-    "text": "岔開做一個實驗\n\n\nContent words (open class) vs function words (closed class).\n\nAny psychological or neurological evidence? (count the number of F’s in the following text)\n\n\n\n\n\n\n\n\n有幾個 F 字母？\nFINISHED FILES ARE THE RESULT OF YEARS OF SCIENTIFIC STUDY COMBINED WITH THE EXPERIENCE OF YEARS",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#morpheme",
-    "href": "week5.html#morpheme",
-    "title": "Week 5 構詞",
-    "section": "Morpheme",
-    "text": "Morpheme\n\nThe minimal units of Meaning (a linguistic hypothesis)\n\none morpheme: boy\ntwo morphemes: boy-ish\nthree morphemes: boy-ish-ness\nfour morphemes: gentle-man-li-ness\nfive morphemes: un-gentle-man-li-ness\n\nnot to confuse morphemes with syllables\n\nMississippi has more than one syllable but is only a single morpheme \n\nEvery word in every language is composed of one or more morphemes (bold hypothesis of discreteness!)",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#morphemes-bound-and-free",
-    "href": "week5.html#morphemes-bound-and-free",
-    "title": "Week 5 構詞",
-    "section": "Morphemes: Bound and Free",
-    "text": "Morphemes: Bound and Free\n\ncan be used alone (i.e., as a word) or not.\nAffix (prefix, suffix, infix, circumfix,…)\nMorphologically complex words consist of a root and one or more affixes.\n\nA root is a lexical content morphemes that cannot be analyzed into small parts.\nWhen a root morpheme is combined with an affix, it forms a stem, which may or may not be a word.",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#english-morpheme",
-    "href": "week5.html#english-morpheme",
-    "title": "Week 5 構詞",
-    "section": "English morpheme",
-    "text": "English morpheme",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#infix",
-    "href": "week5.html#infix",
-    "title": "Week 5 構詞",
-    "section": "Infix",
-    "text": "Infix\n\nThe Inuktitut language of Western Canada, a member of the Eskimo-Aleut language family, has an infix, -pallia-, which must be inserted into a verb root, resulting in a distinct form of the verb.\n\nnungup + pallia + jut  = nungupalliajut (“They are gradually disappearing”)\nilinniaq + pallia + jugut = ilinniapalliajugut (“We are gradually learning”)",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#exercise-expletive-infixation",
-    "href": "week5.html#exercise-expletive-infixation",
-    "title": "Week 5 構詞",
-    "section": "Exercise: Expletive Infixation",
-    "text": "Exercise: Expletive Infixation\n\nThe most common infix in America is the word fuckin’ and all the euphemisms for it, such as friggin, freakin, flippin, and fuggin, as in in-fuggin-credible, un-fuckin-believable. In Britain, a common infix is bloody, an obscene term in British English, and its euphemisms, such as bloomin’. (as in the movie and stage musical My Fair Lady, the word abso + bloomin + lutely)\nNative speakers (with some dialectal variations) have intuitions about where to insert the (expletive) infix.\n\n\n\n\n\n\n\nabsolutely ?\nbasketball ?",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#morphemes-identification",
-    "href": "week5.html#morphemes-identification",
-    "title": "Week 5 構詞",
-    "section": "Morphemes identification",
-    "text": "Morphemes identification\n\nFlowchart for identifying morphemes",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#練習",
-    "href": "week5.html#練習",
-    "title": "Week 5 構詞",
-    "section": "練習",
-    "text": "練習",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#構詞與詞義的界面",
-    "href": "week5.html#構詞與詞義的界面",
-    "title": "Week 5 構詞",
-    "section": "構詞與詞義的界面",
-    "text": "構詞與詞義的界面",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#不可解的還是可解的",
-    "href": "week5.html#不可解的還是可解的",
-    "title": "Week 5 構詞",
-    "section": "不可解的還是可解的",
-    "text": "不可解的還是可解的\n\nwhy is ‘unlockable’ ambiguous?",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#歧義練習",
-    "href": "week5.html#歧義練習",
-    "title": "Week 5 構詞",
-    "section": "歧義練習",
-    "text": "歧義練習\n\n歧義 (ambiguity) is a property of language that arises when a word or phrase can be interpreted in more than one way.\ntypes of ambiguity:\n\nlexical ambiguity\nsyntactic ambiguity\nscope ambiguity",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#中文詞彙網路",
-    "href": "week5.html#中文詞彙網路",
-    "title": "Week 5 構詞",
-    "section": "中文詞彙網路",
-    "text": "中文詞彙網路\n「老」有幾個意思？「老鼠」的「老」是什麼？(empty morpheme?)\n\n\n\n\n\n\n打的故事：課堂加分作業一",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#basic-categories",
-    "href": "week5.html#basic-categories",
-    "title": "Week 5 構詞",
-    "section": "Basic categories",
-    "text": "Basic categories\n(NOUN): Number, Gender, Case, (VERB): Tempus, Modus, Genus verbi,..",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#morphological-processes",
-    "href": "week5.html#morphological-processes",
-    "title": "Week 5 構詞",
-    "section": "Morphological Processes",
-    "text": "Morphological Processes\n\nThe (main) process of forming words\n\nAffixation\nCompounding\nReduplication\nAlternation\nSuppletion\n….\n\n\n\n\n\n\n\n\nSign languages make use of affixation as well.",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#morphological-typology",
-    "href": "week5.html#morphological-typology",
-    "title": "Week 5 構詞",
-    "section": "Morphological Typology",
-    "text": "Morphological Typology\n用構詞特徵來把人類語言分成兩大類\n\nAnalytic language: made up of sequences of free morphemes. Each word consists of a single morpheme, used by itself with meaning and function intact.\n\nPurely analytic languages, also called isolating languages, do not use affixes to compose words.\nE.g., Chinese has a highly analytic structure.\n\n\n\n\nSynthetic language: made up of sequences of bound morphemes.\n\n\n\nHungarian",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#synthetic-language-再分三類",
-    "href": "week5.html#synthetic-language-再分三類",
-    "title": "Week 5 構詞",
-    "section": "Synthetic language 再分三類",
-    "text": "Synthetic language 再分三類\n\nAgglutinative language: have several morphemes that attach to a root morpheme, and each morpheme has only one meaning that is clearly distinct. (e.g., Turkish, Swahili, Japanese).\n\n\nswahili",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#section",
-    "href": "week5.html#section",
-    "title": "Week 5 構詞",
-    "section": "",
-    "text": "Fusional language\n\nwords are formed by adding bound morphemes to stems, just as in agglutinating languages, but in fusional languages the affixes may not be easy to separate from the stem.\nin fusional languages a single affix more frequently conveys several meanings simultaneously. (e.g., the following sentence in Russian, the suffix [-l] means singular, masculine, and past tense, simultaneously.)\n\n[[ʧital]  `he was reading’",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#section-1",
-    "href": "week5.html#section-1",
-    "title": "Week 5 構詞",
-    "section": "",
-    "text": "Polysynthetic language\n\nhighly complex words may be formed by combining several stems and affixes; this is usually a matter of making nouns (subjects, objects, etc.) into parts of the verb forms.\ne.g., Sora, a language spoken in India, allows such incorporation of objects (subjects, instruments, etc.) into verbs\n\n\n\n\nsora",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#練習這是什麼類型的語言",
-    "href": "week5.html#練習這是什麼類型的語言",
-    "title": "Week 5 構詞",
-    "section": "練習：這是什麼類型的語言？",
-    "text": "練習：這是什麼類型的語言？\n\nYup’ik",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#challenging-yet-unresolved-morphological-issue-wordwordhood",
-    "href": "week5.html#challenging-yet-unresolved-morphological-issue-wordwordhood",
-    "title": "Week 5 構詞",
-    "section": "Challenging yet unresolved morphological issue: Word/Wordhood",
-    "text": "Challenging yet unresolved morphological issue: Word/Wordhood\n\nWhat are words / lexicon (a mental dictionary you store your ‘words’) like?\n\nthe lack of pauses between ‘words’ in speech\nthe lack of boundary between ‘words’ in (some) writing systems\nnote that no spaces when we speak\n\n\nIwonderifyoucanreadthiswithoutspacesaseasilyasyoucanwhentherearespacesbetweenthewords.",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#what-about-chinese",
-    "href": "week5.html#what-about-chinese",
-    "title": "Week 5 構詞",
-    "section": "What about Chinese?",
-    "text": "What about Chinese?\n\nless than 80% agreement in word counts experiment\nCharacter = morpheme = syllable ???\n\n\n\n\n\n\n\nThe indeterminacy of word boundaries shows that “word” is far from a simple concept, and possibly not possible to define in a consistent way cross-linguistically. (Haspelmath, 2011)",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#以下句子中有幾個字",
-    "href": "week5.html#以下句子中有幾個字",
-    "title": "Week 5 構詞",
-    "section": "以下句子中有幾個字",
-    "text": "以下句子中有幾個字\n(今天聯合報即時新聞)\n柯文哲說，他卸任這一陣子，就是當老百姓，每天坐公車、騎YouBike，不過柯也忍不住抱怨，在台北市騎 YouBike真危險，「騎人行道怕撞到人，騎到慢車道怕被車撞」，",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#繼續玩一下",
-    "href": "week5.html#繼續玩一下",
-    "title": "Week 5 構詞",
-    "section": "繼續玩一下",
-    "text": "繼續玩一下\n(隨機在 Dcard 上選了這篇)",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#word-segmentation",
-    "href": "week5.html#word-segmentation",
-    "title": "Week 5 構詞",
-    "section": "Word segmentation",
-    "text": "Word segmentation\n對「正規」文本看似沒事，但問題很大。（不是新詞表、停用詞表可以解決的）\n\nptt、社會媒體\n口語對話\n語言障礙",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#applying-morphology-emoticon",
-    "href": "week5.html#applying-morphology-emoticon",
-    "title": "Week 5 構詞",
-    "section": "Applying Morphology: Emoticon",
-    "text": "Applying Morphology: Emoticon\n       http://emojitracker.com/",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#顏文字",
-    "href": "week5.html#顏文字",
-    "title": "Week 5 構詞",
-    "section": "顏文字",
-    "text": "顏文字\n◢▆▅▄▃崩╰(〒皿〒)╯溃▃▄▅▇◣\n\nemoji",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#迷因",
-    "href": "week5.html#迷因",
-    "title": "Week 5 構詞",
-    "section": "迷因",
-    "text": "迷因",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#applying-morphology-neologism",
-    "href": "week5.html#applying-morphology-neologism",
-    "title": "Week 5 構詞",
-    "section": "Applying Morphology: Neologism",
-    "text": "Applying Morphology: Neologism\n\nwhat is the underlying word formation process?\nproductivity? chance of survival?\n\n\n\n\n\n\n\n\n卡位 (blocking) 原則\n\n\n臺北大學 》北大；系友會 vs 所有會？",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week4.html",
-    "href": "week4.html",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "",
-    "text": "音韻學基本概念與分析\n語音音韻的題型設計 (+ 上次的題目討論)\n語音轉寫與自動辨識應用"
-  },
-  {
-    "objectID": "week4.html#今天的主題",
-    "href": "week4.html#今天的主題",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "今天的主題",
-    "text": "今天的主題\n\n音韻學基本概念與分析\n語音音韻的題型設計 (+ 上次的題目) 討論\nlab session : 語音轉寫與自動辨識應用",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#複習一下基本概念",
-    "href": "week4.html#複習一下基本概念",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "複習一下基本概念",
-    "text": "複習一下基本概念\n\nPhoneme vs. Allophone\n如何描述子音與母音？",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#複習一下基本概念-1",
-    "href": "week4.html#複習一下基本概念-1",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "複習一下基本概念",
-    "text": "複習一下基本概念\n\n\n\n\n\n\nCOOL 本週放上去的講義 (chaper 3) 有簡短說明。\n\n\n\n測試：中文注音符號之漢語拼音與 IPA 拼寫對照表",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#另一種較大的角度",
-    "href": "week4.html#另一種較大的角度",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "另一種較大的角度",
-    "text": "另一種較大的角度\nConsonant: Place of articulation\n Labial（唇音）：由嘴唇的關閉或部分關閉來產生的，可以進一步細分為雙唇音（兩唇之間的發音）和唇齒音（嘴唇和牙齒間的發音）。\nCoronal（舌尖音/舌冠音）：通過舌尖或舌冠與上腭的不同部位接觸來產生的，包括舌尖前音和舌尖後音等。\nDorsal（舌背音）：通過舌背與上腭或軟腭的接觸來產生的，涉及到的音包括軟腭音（k音和g音等）和腭音（如“y”音）。\nLaryngeal（喉音）：通過聲帶和喉部結構的不同配置來產生的，包括喉塞音（例如英語中的h音）和聲門閉鎖音（產生一種停頓感）。",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#consonant-manner-of-articulation",
-    "href": "week4.html#consonant-manner-of-articulation",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Consonant: Manner of Articulation",
-    "text": "Consonant: Manner of Articulation",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#consonant-manner-of-articulation-1",
-    "href": "week4.html#consonant-manner-of-articulation-1",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Consonant: Manner of Articulation",
-    "text": "Consonant: Manner of Articulation",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#consonant-manner-of-articulation-2",
-    "href": "week4.html#consonant-manner-of-articulation-2",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Consonant: Manner of Articulation",
-    "text": "Consonant: Manner of Articulation\nOther manners of articulation\n\nFlap: Very short stop\nTrill\nRhotic, Liquid\nNon-Pulmonic: Click, Implosive, Ejective",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#vowel",
-    "href": "week4.html#vowel",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Vowel",
-    "text": "Vowel\n\nHeight\nFrontness\nRoundness\nNasalization\nLength",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#超音段特徵-supersegmental-features",
-    "href": "week4.html#超音段特徵-supersegmental-features",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "超音段特徵 Supersegmental Features",
-    "text": "超音段特徵 Supersegmental Features\n\n指那些跨越單個音素（語音的最小單位）的語音特徵，它們影響的是音節、單詞甚至更長語句的發音。不僅影響語音的音質，還能傳達情感、語氣和強調等語用信息。",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#section",
-    "href": "week4.html#section",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "",
-    "text": "語調（Tone）：語調是指聲音的高低變化，它在一些語言中是區分意義的重要特徵，如漢語。不同的語調可以改變單詞的意義。例如，漢語中的“媽”（高平調）表示“媽媽”，而“麻”（上聲調）則有不同的意義。\n重音（Stress）：重音是指在單詞或語句中某個音節相對於其他音節發音更強、更高或更長。在許多語言中，重音的位置可以改變單詞的意義或語法特性。例如，英語中“record”（名詞）與“record”（動詞）就是通過重音的不同來區分的。\n節奏（Rhythm）：節奏是指語言中音節或音素出現的時間模式。不同語言有不同的節奏特徵，例如，有些語言如西班牙語，其節奏比較均勻，而英語則是以重音音節為基礎，形成不均勻的節奏。\n長短（Length）：在某些語言中，音素（特別是元音）的發音長度可以區分意義。例如，芬蘭語和日語中，音素的長短不同可以構成不同的單詞。",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#聽一個例子",
-    "href": "week4.html#聽一個例子",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "聽一個例子",
-    "text": "聽一個例子",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#回去有練習-ipa-嗎",
-    "href": "week4.html#回去有練習-ipa-嗎",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "回去有練習 IPA 嗎？ 😏",
-    "text": "回去有練習 IPA 嗎？ 😏\n我們用一個題目來練看看\n\n完整題目在 COOL 本週。",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#至少知道這幾個基本概念",
-    "href": "week4.html#至少知道這幾個基本概念",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "至少知道這幾個基本概念",
-    "text": "至少知道這幾個基本概念\n\n\nPhoneme: a contrastive sound or category of sounds within a language\nInventory: the set of phonemes (sounds) in a language.\nAllophone: a variant of a phoneme\nPhonotactics: the rules governing the combination of phonemes in a language (e.g. no two consonants can occur together in English)",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#phonetics-vs.-phonology",
-    "href": "week4.html#phonetics-vs.-phonology",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Phonetics vs. Phonology",
-    "text": "Phonetics vs. Phonology\n\nPhonetics: What the sounds are\nPhonology: How the sounds are organized\nSounds that are phonetically different can be phonologically same",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#phoneme",
-    "href": "week4.html#phoneme",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Phoneme",
-    "text": "Phoneme\n\nAre [p] and [pʰ] different sounds?\nIn English?\nIn Mandarin Chinese?\nHow to determine: minimal pair",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#allophone",
-    "href": "week4.html#allophone",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Allophone",
-    "text": "Allophone\n\nSame phoneme, different environment\ne.g. pan [pʰæn] vs. span [spæn]",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#例子",
-    "href": "week4.html#例子",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "例子",
-    "text": "例子",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#音節-syllable-和-語音組合法-phonotactics",
-    "href": "week4.html#音節-syllable-和-語音組合法-phonotactics",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "音節 (Syllable) 和 語音組合法 (Phonotactics)",
-    "text": "音節 (Syllable) 和 語音組合法 (Phonotactics)\n\nSyllable structure\nSonority scale\nPhonotactic constraints",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#音節結構",
-    "href": "week4.html#音節結構",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "音節結構",
-    "text": "音節結構\n\nOnset（聲母）： 音節的開頭部分，包含一個或多個子音。它出現在核心之前。例如，在單詞 “cat” 中，“c” 是 onset。\nNucleus （核心）： 音節的核心部分，通常是一個母音。它是音節中最重要的部分，因為它賦予音節音高。例如，在單詞 “cat” 中，“a” 是核心。\nCoda （韻尾）： 音節的結尾部分，包含一個或多個子音。它跟在核心後面。例如，在單詞 “cat” 中，“t” 是 coda。",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#語音組合法-phonotactics",
-    "href": "week4.html#語音組合法-phonotactics",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "語音組合法 Phonotactics",
-    "text": "語音組合法 Phonotactics\n\nConsonant Cluster\nOpen syllable vs. closed syllable：音節結尾是母音 (e.g. go) 還是子音 (e.g. cat)。\nSwahili, Hawaiian: (C)V\nEnglish: (C)(C)(C)V(C)(C)(C)(C)(C?) split; sixths; strengths",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#phonotactics-sonority-hierarchy",
-    "href": "week4.html#phonotactics-sonority-hierarchy",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Phonotactics: Sonority Hierarchy",
-    "text": "Phonotactics: Sonority Hierarchy\n聲響階層 一種語音學原則，用於描述不同類型的語音元素（如元音、輔音）在發聲的響亮度或音響能量上的相對排列順序。這個層級幫助語言學家理解為什麼某些音節結構在世界的多數語言中更為普遍，以及為什麼某些音的組合在發音時會感覺更自然。\n\nBasically: The sound closer to nucleus will be louder\nLoudness: Vowel &gt; Sonorant &gt; Fricative &gt; Stop\n\ntree, art, blend, trust but not *rtee, *atr, *lbedn\n\n\n\n\n\n\n\n\n\nNotable exception: s + stop : start",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#重音-stress",
-    "href": "week4.html#重音-stress",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "重音 Stress",
-    "text": "重音 Stress\n\nEmphasis on a syllable of a word 某個音節相比於其他音節在發音時更加突出\nStress pattern\nStress and vowel reduction: schwa\n\n /fəˈtɒɡrəfər/\n /ˈfoʊtəˌgræf/",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#音調-tone",
-    "href": "week4.html#音調-tone",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "音調 Tone",
-    "text": "音調 Tone\n\nPitch that carries lexical/grammatical information\nTone pitch are relative\nCounter tone 聲調的區別在於音高隨時間的變化輪廓，如升調、降調、升降調等。\nRegister tone 聲調的區別主要基於音高的絕對高度或相對高低，而不涉及音高的變化過程。\n\n\n\n\n\n\n\n\nPitch 是指聲音的音高，由發音時聲帶振動頻率的高低決定的物理特性。Tone 則指在某些語言中，不同的音高模式用來區分單詞意義或詞形變化的語音特徵。",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#構詞音韻",
-    "href": "week4.html#構詞音韻",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "構詞音韻",
-    "text": "構詞音韻\n\nAllomorph\n\nSame morpheme, different pronunciation\nWhy? Different environment!\nExample: English plural",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#apophony",
-    "href": "week4.html#apophony",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Apophony",
-    "text": "Apophony",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#harmony",
-    "href": "week4.html#harmony",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Harmony",
-    "text": "Harmony",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#language-comparison",
-    "href": "week4.html#language-comparison",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Language Comparison",
-    "text": "Language Comparison",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#features-rules-and-derivation",
-    "href": "week4.html#features-rules-and-derivation",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Features, Rules, and Derivation",
-    "text": "Features, Rules, and Derivation\n\nFeature and natural class\nForm of phonological rules\nRule and derivation",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#sound-change",
-    "href": "week4.html#sound-change",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Sound change",
-    "text": "Sound change\nwhy: people are lazy 😄",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#example",
-    "href": "week4.html#example",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Example",
-    "text": "Example",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#sound-change-assimilation",
-    "href": "week4.html#sound-change-assimilation",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Sound Change: Assimilation",
-    "text": "Sound Change: Assimilation\nWhy: People are lazy 😄",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#sound-change-elision-and-cheshirization",
-    "href": "week4.html#sound-change-elision-and-cheshirization",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Sound Change: Elision and Cheshirization",
-    "text": "Sound Change: Elision and Cheshirization\n\nElision: A sound disappears altogether\n\nCluster reduction: English /wr/, /kn/, /gn/ &gt; /r/, /n/\nLoss of unstressed vowel/syllable: Latin centum &gt; French cent /sɑ̃/\n\nCheshirization: A sound leaves a trace\n\nEnglish  /nixt/ &gt; /ni:t/ &gt; /naɪ̯t/\nFrench  /vim blaŋk/ &gt; /vɛ͂ blɑ͂/",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#other-sound-changes",
-    "href": "week4.html#other-sound-changes",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Other Sound Changes",
-    "text": "Other Sound Changes\n\nMetathesis: swapping of sounds e.g. English third (&lt; OE þridda, cf. three)\nFortition\nDissimilation\nEpenthesis: Insertion of sounds\n\ne.g. ME emty &gt; English empty\ne.g. Latin status &gt; Spanish estado",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#chain-shift",
-    "href": "week4.html#chain-shift",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Chain Shift",
-    "text": "Chain Shift\nA set of linked sound change",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#features-of-sound-change",
-    "href": "week4.html#features-of-sound-change",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Features of sound change",
-    "text": "Features of sound change\n\nNo memory\nIgnores grammar\nUnstoppable\nExceptionless\n\nLexical Diffusion\nInfluence from similar words",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#phonology-and-orthography",
-    "href": "week4.html#phonology-and-orthography",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "Phonology and orthography",
-    "text": "Phonology and orthography\n\nOrthography retains an earlier form of the language\n\nEnglish  /knixt/ &gt; /naɪ̯t/\nFrench  /tʃãnˈtæɾ/ &gt; /ʃɑ̃ˈte/\n\nThis phenomenon is primarily seen in language with long historical record\nOther: script insufficient for phonology",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#語音題目可以怎麼設計",
-    "href": "week4.html#語音題目可以怎麼設計",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "🙋 語音題目可以怎麼設計？",
-    "text": "🙋 語音題目可以怎麼設計？\n\n聽音辨音轉寫 （上週恐怖經驗 👻）\n聲譜圖對應分析\n?",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#上週加分作業討論",
-    "href": "week4.html#上週加分作業討論",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "上週加分作業討論",
-    "text": "上週加分作業討論",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#機器即將做得比人好",
-    "href": "week4.html#機器即將做得比人好",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "機器即將做得比人好？",
-    "text": "機器即將做得比人好？\n\n進入新的人機協作時代\n(多模態)大型語言模型 (e.g. chatGPT) （即將）改變了社會生活與教育的面貌。(Huang et al. 2023)\n\n天下專題",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#練習用-chatgpt-claude-3gemini-來解題",
-    "href": "week4.html#練習用-chatgpt-claude-3gemini-來解題",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "練習用 chatGPT / Claude 3/Gemini 來解題",
-    "text": "練習用 chatGPT / Claude 3/Gemini 來解題\n\n怎麼讓機器解出題目來？\n\n\n怎麼不讓機器解出題目來？（你的期末專案題目）",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#練習",
-    "href": "week4.html#練習",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "練習",
-    "text": "練習\n自行從 NACLO 或 UKLO 中選擇一個題目，自己解完之後（對答案），設法讓 chatGPT (or GPT-4) 來解題，並且將此過程記錄下來，寫成文檔上傳。\n\n記錄的內容\n\n題目 (來源、類型)\n解題過程與時間，以及給機器的 prompting chains）\n解題結果（人與機器的正確率）\n討論\n\n你或機器 (錯誤的原因)\n與其他想法",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#section-2",
-    "href": "week4.html#section-2",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "",
-    "text": "step-by-step / chain-of-thought",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#第一份正式作業",
-    "href": "week4.html#第一份正式作業",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "第一份正式作業",
-    "text": "第一份正式作業",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#課堂練習",
-    "href": "week4.html#課堂練習",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "課堂練習",
-    "text": "課堂練習\n\n布農巒群方言轉寫\n錄一段你覺得人聽得懂，但機器還無法理解（轉寫）的語音句子，或對話。",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#section-3",
-    "href": "week4.html#section-3",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "",
-    "text": "Huang, Shaohan, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, et al. 2023. “Language Is Not All You Need: Aligning Perception with Language Models.” arXiv Preprint arXiv:2302.14045.",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#中文注音符號之漢語拼音與-ipa-拼寫對照表",
-    "href": "week4.html#中文注音符號之漢語拼音與-ipa-拼寫對照表",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "中文注音符號之漢語拼音與 IPA 拼寫對照表",
-    "text": "中文注音符號之漢語拼音與 IPA 拼寫對照表",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#section-1",
-    "href": "week4.html#section-1",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "",
-    "text": "語調（Tone）：語調是指聲音的高低變化，它在一些語言中是區分意義的重要特徵，如漢語。不同的語調可以改變單詞的意義。例如，漢語中的“媽”（高平調）表示“媽媽”，而“麻”（上聲調）則有不同的意義。\n重音（Stress）：重音是指在單詞或語句中某個音節相對於其他音節發音更強、更高或更長。在許多語言中，重音的位置可以改變單詞的意義或語法特性。例如，英語中“record”（名詞）與“record”（動詞）就是通過重音的不同來區分的。\n節奏（Rhythm）：節奏是指語言中音節或音素出現的時間模式。不同語言有不同的節奏特徵，例如，有些語言如西班牙語，其節奏比較均勻，而英語則是以重音音節為基礎，形成不均勻的節奏。\n長短（Length）：在某些語言中，音素（特別是元音）的發音長度可以區分意義。例如，芬蘭語和日語中，音素的長短不同可以構成不同的單詞。",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#section-4",
-    "href": "week4.html#section-4",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "",
-    "text": "Huang, Shaohan, Li Dong, Wenhui Wang, Yaru Hao, Saksham Singhal, Shuming Ma, Tengchao Lv, et al. 2023. “Language Is Not All You Need: Aligning Perception with Language Models.” arXiv Preprint arXiv:2302.14045.",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week4.html#超音段特徵-suprasegmental-features",
-    "href": "week4.html#超音段特徵-suprasegmental-features",
-    "title": "Week 4 語音的世界 (2)",
-    "section": "超音段特徵 Suprasegmental Features",
-    "text": "超音段特徵 Suprasegmental Features\n\n指那些跨越單個音素（語音的最小單位）的語音特徵，它們影響的是音節、單詞甚至更長語句的發音。不僅影響語音的音質，還能傳達情感、語氣和強調等語用信息。",
-    "crumbs": [
-      "首頁",
-      "Week 4 語音的世界 (2)"
-    ]
-  },
-  {
-    "objectID": "week5.html#本週主題",
-    "href": "week5.html#本週主題",
-    "title": "Week 5 構詞",
-    "section": "本週主題",
-    "text": "本週主題\n\n字詞的內部與組合結構",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#先岔開做一個實驗",
-    "href": "week5.html#先岔開做一個實驗",
-    "title": "Week 5 構詞",
-    "section": "先岔開做一個實驗",
-    "text": "先岔開做一個實驗\n\n\nContent words (open class) vs function words (closed class).\n\nAny psychological or neurological evidence?\n\n\n\n\n\n\n\n\n\n以下句子有幾個 F 字母？\n\n\nFINISHED FILES ARE THE RESULT OF YEARS OF SCIENTIFIC STUDY COMBINED WITH THE EXPERIENCE OF YEARS",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#詞素-morpheme",
-    "href": "week5.html#詞素-morpheme",
-    "title": "Week 5 構詞",
-    "section": "詞素 Morpheme",
-    "text": "詞素 Morpheme\n\nThe minimal units of Meaning (a linguistic hypothesis)  boy (1), boy-ish (2), boy-ish-ness (3), gentle-man-li-ness (4), un-gentle-man-li-ness (5) \nEvery word in every language is composed of one or more morphemes (bold hypothesis of discreteness!)\n\n\n\n\n\n\n\n\nnot to confuse morphemes with syllables\n\n\n\nMississippi has more than one syllable but is only a single morpheme",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#exercise-咒罵中綴-expletive-infixation",
-    "href": "week5.html#exercise-咒罵中綴-expletive-infixation",
-    "title": "Week 5 構詞",
-    "section": "Exercise: 咒罵中綴 Expletive Infixation",
-    "text": "Exercise: 咒罵中綴 Expletive Infixation\n\nThe most common infix in America is the word fuckin’ and all the euphemisms for it, such as friggin, freakin, flippin, and fuggin, as in in-fuggin-credible, un-fuckin-believable. In Britain, a common infix is bloody, an obscene term in British English, and its euphemisms, such as bloomin’. (as in the movie and stage musical My Fair Lady, the word abso + bloomin + lutely)\nNative speakers (with some dialectal variations) have intuitions about where to insert the (expletive) infix.\n\n\n\n\n\n\n\nabsolutely ?\nbasketball ?",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#構詞語意",
-    "href": "week5.html#構詞語意",
-    "title": "Week 5 構詞",
-    "section": "構詞語意",
-    "text": "構詞語意",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#構詞語意練習",
-    "href": "week5.html#構詞語意練習",
-    "title": "Week 5 構詞",
-    "section": "構詞語意練習",
-    "text": "構詞語意練習\nYou are given words in Swahili:\nmtu, mbuzi, jito, mgeni, jitu and kibuzi. \nTheir translations in a different order are:\ngiant, little goat, guest, goat, person, large river\n\nMake the correspondence.",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#wordnet",
-    "href": "week5.html#wordnet",
-    "title": "Week 5 構詞",
-    "section": "Wordnet",
-    "text": "Wordnet\nfine-grained word sense inventory",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#section-4",
-    "href": "week5.html#section-4",
-    "title": "Week 5 構詞",
-    "section": "",
-    "text": "最多義的動詞？ :::{.incremental}\n :::",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#section-5",
-    "href": "week5.html#section-5",
-    "title": "Week 5 構詞",
-    "section": "",
-    "text": "More data analysis and applications in AI context\nROCLING 2023 tutorial",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#sense-tagger",
-    "href": "week5.html#sense-tagger",
-    "title": "Week 5 構詞",
-    "section": "Sense tagger",
-    "text": "Sense tagger\ncolab notebook",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#語法化",
-    "href": "week5.html#語法化",
-    "title": "Week 5 構詞",
-    "section": "語法化",
-    "text": "語法化\n虛化\n\n實詞 (content word) 語義在歷史的軌跡中，轉化為非實詞語義，並且該詞轉化為表語法功能為主的成分（即虛詞或稱功能詞） 的過程或現象。如漢語「把」「被」。\n「那(個)」\n\n 從最原始的遠指指示代名詞 (“那(個)人”)，到心理空間中較遠 (“你如果不喜歡，那我就不去”)，到言談中換取思考時間的填充詞 (filler) (“那個那個拍得很好”)\n那個我跟你說，我老公實在很那個，昨天那個來了他還要那個",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#語奧必考知識",
-    "href": "week5.html#語奧必考知識",
-    "title": "Week 5 構詞",
-    "section": "語奧必考知識",
-    "text": "語奧必考知識\nGrammatical Category 或 Grammatical features\n\n\n\n\n\n\n推薦語奧推廣影片",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#section-6",
-    "href": "week5.html#section-6",
-    "title": "Week 5 構詞",
-    "section": "",
-    "text": "Fusional language\n\nwords are formed by adding bound morphemes to stems, just as in agglutinating languages, but in fusional languages the affixes may not be easy to separate from the stem.\nin fusional languages a single affix more frequently conveys several meanings simultaneously. (e.g., the following sentence in Russian, the suffix [-l] means singular, masculine, and past tense, simultaneously.)\n\n[[ʧital]  `he was reading’",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#section-7",
-    "href": "week5.html#section-7",
-    "title": "Week 5 構詞",
-    "section": "",
-    "text": "Polysynthetic language\n\nhighly complex words may be formed by combining several stems and affixes; this is usually a matter of making nouns (subjects, objects, etc.) into parts of the verb forms.\ne.g., Sora, a language spoken in India, allows such incorporation of objects (subjects, instruments, etc.) into verbs\n\n\n\n\nsora",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#wordhood-是個大哉問",
-    "href": "week5.html#wordhood-是個大哉問",
-    "title": "Week 5 構詞",
-    "section": "Wordhood 是個大哉問",
-    "text": "Wordhood 是個大哉問",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#還在那邊的斷詞剖析",
-    "href": "week5.html#還在那邊的斷詞剖析",
-    "title": "Week 5 構詞",
-    "section": "「還在那邊」]的斷詞剖析",
-    "text": "「還在那邊」]的斷詞剖析\nBEFORE\n\n不是我要說他，已經什麼都有了他還在那邊邱什麼邱。別人我不敢說，這種人喔實在是 $#* :-(\n\nAFTER",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#錄位-listeme",
-    "href": "week5.html#錄位-listeme",
-    "title": "Week 5 構詞",
-    "section": "「錄位」 listeme",
-    "text": "「錄位」 listeme\n\nidiosyncratic linguistic unit that must be recorded in the lexicon.\n記憶單位 (Memorized units:)：不拘大小，可以是語段、詞組、句子、成語、單詞、音段、聲調、子母音…",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#構式-constructions",
-    "href": "week5.html#構式-constructions",
-    "title": "Week 5 構詞",
-    "section": "構式 constructions",
-    "text": "構式 constructions",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
-    ]
-  },
-  {
-    "objectID": "week5.html#題目練習",
-    "href": "week5.html#題目練習",
-    "title": "Week 5 構詞",
-    "section": "題目練習",
-    "text": "題目練習\nIn Latvian a noun can be one of two genders; furthermore, adjectives agree with nouns in gender, number and case. You are given phrases in either the nominative or the genitive case with their translations:\nsilts ezers — warm lake\nmelns lauva — black lion\nliela krāsns — big oven\nlielas jūras — big sea’s\nsarkana ezera — red lake’s\nmelna kafija — black coffee\nsarkans putns — red bird\nliela kalna — big mountain’s\nsarkanas lapas — red leaf’s\nsarkana pils — red castle\nliels ezers — big lake\nmelna putna — black bird’s\nliela lauvas — big lion’s\nsilta jūra — warm sea\nmelnas kafijas — black coffee’s\nliels kalns — big mountain",
-    "crumbs": [
-      "首頁",
-      "Week 5 構詞"
     ]
   }
 ]
