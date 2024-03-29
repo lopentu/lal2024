@@ -581,5 +581,412 @@
       "首頁",
       "LING5503 語言的邏輯分析"
     ]
+  },
+  {
+    "objectID": "week6.html#基本用語",
+    "href": "week6.html#基本用語",
+    "title": "Week 6 構詞與句法",
+    "section": "基本用語",
+    "text": "基本用語\n\n句法學（syntax）是語言學中研究句子結構的學科。\nGrammar 是一般教學用的文法概念；在語言學中也可以當成是指涉整體語言系統。\n構詞句法 (morpho-syntax) 則是從世界語言的角度，探究與描述 grammar 特徵 (esp. 構詞句法互動)。",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#syntax-101",
+    "href": "week6.html#syntax-101",
+    "title": "Week 6 構詞與句法",
+    "section": "Syntax 101",
+    "text": "Syntax 101\n\nConstituent: a unit of syntactic structure, such as a phrase or a clause.\nSyntactic categories: N, V, Noun Phrase, Verb Phrase, Prepositional Phrase, etc.",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#syntax-101-1",
+    "href": "week6.html#syntax-101-1",
+    "title": "Week 6 構詞與句法",
+    "section": "Syntax 101",
+    "text": "Syntax 101\n\nSubject and Object; Word order\nArgument: argument, complement (non-subject, obligatory argument), adjunct (optional argument)\nthematic roles\nAgreement\n\n\n\n\n\n\n\n\n(a). The painting resembles a flower.\n(b). The painting was stolen from the museum.",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#constructing-a-grammar",
+    "href": "week6.html#constructing-a-grammar",
+    "title": "Week 6 構詞與句法",
+    "section": "Constructing a grammar",
+    "text": "Constructing a grammar\n(形式) 語言學向來的主流假說 - 一個語言的 grammar 由一系列的句法規則+詞庫組成，這些規則可以用來描述與生成語言的結構。\n\nPhrase structure rule and Recursion",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#section",
+    "href": "week6.html#section",
+    "title": "Week 6 構詞與句法",
+    "section": "",
+    "text": "在語法上，遞歸（Recursion）指的是能夠利用有限的規則和詞彙生成無限數量的句子的語言特質。遞歸允許在語言結構中的某一部分在其自身內部被重複使用。NP -&gt; NP Conj NP\n\n有各種方式：Bob的[朋友的[兄弟]]], 我知道[你喜歡[她說的話]]",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#categorical-grammar",
+    "href": "week6.html#categorical-grammar",
+    "title": "Week 6 構詞與句法",
+    "section": "Categorical Grammar",
+    "text": "Categorical Grammar\n規則更少更抽象的",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#section-1",
+    "href": "week6.html#section-1",
+    "title": "Week 6 構詞與句法",
+    "section": "",
+    "text": "形式語言學（形式語法與邏輯語意）在程式語言的編譯上具有很大的用途。\n\n語意學很長一段時間將重點放在具有真值 (truth value) 判斷的陳述句，同時開展了相當完整的邏輯與推導系統。\n但是，語言的使用者不只是要表達真實的意義，也要表達自己的情緒、態度、立場、意圖、想法、慾望等交際意義。",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#語言學到現在累積的幾個經驗",
+    "href": "week6.html#語言學到現在累積的幾個經驗",
+    "title": "Week 6 構詞與句法",
+    "section": "語言學到現在累積的幾個經驗",
+    "text": "語言學到現在累積的幾個經驗\n(Hsieh 2023)\n\n化約論 (reductionism) (複雜的問題可以通過分析其組成部分來解決) 在探究語言的意義上有很大的局限性。\n模塊觀 (modularist view) 是 useful fiction。例如把語意與語用分開處理，是教學方便。\n語法自主 (autonomy of syntax) 與內在天賦論 (innateness) 是可疑的。 \\(\\rightarrow\\) 語言學習是意義與交互作用中驅動的。句法與語意不可分，是在使用中湧現的產物。\n\n\n\n\n\n\n\n語言不僅是單一的物理現象、生理現象、社會現象，心理現象。它是人文化成的複雜系統。",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#語言學的認知假設",
+    "href": "week6.html#語言學的認知假設",
+    "title": "Week 6 構詞與句法",
+    "section": "語言學的認知假設",
+    "text": "語言學的認知假設\n認知語言學 (cognitive linguistics) ，或語言與認知\n\n在腦神經科學與認知科學的基礎下，80-90 年代，一些語言學家開始關注語言與人類認知之間的相互作用。\n\n\n核心觀點是語言不僅是一種抽象的符號系統，而且是與我們的思維、知識和經驗密切相關的複雜心智現象。",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#主要研究範疇",
+    "href": "week6.html#主要研究範疇",
+    "title": "Week 6 構詞與句法",
+    "section": "主要研究範疇",
+    "text": "主要研究範疇\n\n\n\n\n\n\n概念隱喻（Conceptual Metaphor）、構式語法（Construction Grammar）、語言類型學（Linguistic Typology）與文化、語言習得和使用、語言與時間空間、語言與概念組織等",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#核心觀點",
+    "href": "week6.html#核心觀點",
+    "title": "Week 6 構詞與句法",
+    "section": "核心觀點",
+    "text": "核心觀點\n象似性 (iconicity)：語言的符號與其對應的客觀對象之間的相似性。the degree to which a linguistic expression resembles the object or event it denotes (Peirce).",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#section-2",
+    "href": "week6.html#section-2",
+    "title": "Week 6 構詞與句法",
+    "section": "",
+    "text": "皮爾斯提出了三種不同類型的符號 (sign)：\n\n標誌符號 (icon) : 符號與客觀對象有形象上的關係。 \n指示符號（index）: 符號與客觀對象有直接的或因果的關係。\n象徵符號（symbol）: 符號與客觀對象有約定俗成的關係。 \n\npic source",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#象似性在中文文字造字上的表現",
+    "href": "week6.html#象似性在中文文字造字上的表現",
+    "title": "Week 6 構詞與句法",
+    "section": "象似性在中文文字造字上的表現",
+    "text": "象似性在中文文字造字上的表現\n象形 (iconic)、指示 (indexical)、…?",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#象似性在漢語上的表現",
+    "href": "week6.html#象似性在漢語上的表現",
+    "title": "Week 6 構詞與句法",
+    "section": "象似性在漢語上的表現",
+    "text": "象似性在漢語上的表現\n語言中的象似性主要是指「語言結構」跟人的「概念結構」之間的自然聯繫 (戴浩一, 1985)。展現在順序、距離、重疊等方面。\n\n順序象似性\n\n她搭捷運到這裏 vs 她到這裏搭捷運",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#象似性在漢語上的表現-1",
+    "href": "week6.html#象似性在漢語上的表現-1",
+    "title": "Week 6 構詞與句法",
+    "section": "象似性在漢語上的表現",
+    "text": "象似性在漢語上的表現\n\n距離象似性 (概念上距離近的成分設法在句法分佈上彼此鄰近)\n\n吃飽了vs *吃了飽 vs 吃個飽\n他送給她一張卡片vs 他送一張卡片給他",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#主觀性場景與注意力焦點",
+    "href": "week6.html#主觀性場景與注意力焦點",
+    "title": "Week 6 構詞與句法",
+    "section": "主觀性、場景與注意力/焦點",
+    "text": "主觀性、場景與注意力/焦點\n\nSubjectivity 心理活動的選擇性 個體在其心理活動中對於信息、感受、想法等進行主觀選擇和偏好的過程。\nFocus 心理活動所選擇的客觀物件 通常指的是話語或思考中被賦予特別注意力或突出顯示的信息或對象。",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#範疇化-categorization",
+    "href": "week6.html#範疇化-categorization",
+    "title": "Week 6 構詞與句法",
+    "section": "範疇化 (categorization)",
+    "text": "範疇化 (categorization)\n\n概念的原型和屬性\n階層化\n\n\ncup or bowl",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#主體與背景-figure-and-ground",
+    "href": "week6.html#主體與背景-figure-and-ground",
+    "title": "Week 6 構詞與句法",
+    "section": "主體與背景 (Figure and Ground)",
+    "text": "主體與背景 (Figure and Ground)\n\n\n語言順序如何反應主體與背景的認知關係？",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#意象圖示-image-schemas",
+    "href": "week6.html#意象圖示-image-schemas",
+    "title": "Week 6 構詞與句法",
+    "section": "意象圖示 | Image Schemas",
+    "text": "意象圖示 | Image Schemas\n\n意象: 在某物不在場時，我們的心智還能想像得出該物的具體。\n圖示：把經驗加工組織成某種認知結構，較長期地儲存在記憶之中。\n意象圖示：在人與客觀世界感知與互動中一種反覆出現的動態的模式。 e.g, SOURCE-PATH-GOAL schema",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#完形與語言壓縮",
+    "href": "week6.html#完形與語言壓縮",
+    "title": "Week 6 構詞與句法",
+    "section": "完形與語言壓縮",
+    "text": "完形與語言壓縮\nGestalt and Language Compression\n\n語言壓縮涉及將信息簡化或縮減，以去除冗餘或不必要的部分，同時仍使接收者能夠根據上下文或已知的模式來重建原始信息的完整意義。~GPT4",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#隱喻與轉喻-metaphor-and-metonymy",
+    "href": "week6.html#隱喻與轉喻-metaphor-and-metonymy",
+    "title": "Week 6 構詞與句法",
+    "section": "隱喻與轉喻 (metaphor and metonymy)",
+    "text": "隱喻與轉喻 (metaphor and metonymy)\n隱喻 (基於相似)\n\n隱喻在修辭上，由本體 (tenor)、喻體 (vehicle)、喻基 (ground) 三個部分組成。\n世界是舞台；男人和女人都是演戲的人；他們都有各自的出場及下場。(cf. wiki)\n認知隱喻：source - target\n\n轉喻 (基於鄰近)",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#構式語法construction-grammar",
+    "href": "week6.html#構式語法construction-grammar",
+    "title": "Week 6 構詞與句法",
+    "section": "構式語法（Construction Grammar）",
+    "text": "構式語法（Construction Grammar）\n(Goldberg)\n\n構式是指形意配對的模式，是語言的一種基本結構。\n較穩定的如\n\n中動構式 NP-起來-AP(AD+Adj)\n把字句構式\n…\n\n\n參考投影片",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#構式知識語料庫",
+    "href": "week6.html#構式知識語料庫",
+    "title": "Week 6 構詞與句法",
+    "section": "構式知識語料庫",
+    "text": "構式知識語料庫\n北大現代漢語構式數據庫",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#構式與機器學習",
+    "href": "week6.html#構式與機器學習",
+    "title": "Week 6 構詞與句法",
+    "section": "構式與機器學習",
+    "text": "構式與機器學習\nComputational Construction Grammar (C*G)\nCxLM: A Construction and Context-aware Language Model, 2022",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#總結",
+    "href": "week6.html#總結",
+    "title": "Week 6 構詞與句法",
+    "section": "總結",
+    "text": "總結\n\n人的認知結構（象似性、思維時序關係、空間層次關係等）參與決定了語言的意義結構。",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#也可以出成題目",
+    "href": "week6.html#也可以出成題目",
+    "title": "Week 6 構詞與句法",
+    "section": "也可以出成題目",
+    "text": "也可以出成題目",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#section-3",
+    "href": "week6.html#section-3",
+    "title": "Week 6 構詞與句法",
+    "section": "",
+    "text": "grammatical features \\(\\approxeq\\) grammatical categories\n\nGrammatical features are the properties of languages that are used to describe the grammatical structure of sentences.",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#section-4",
+    "href": "week6.html#section-4",
+    "title": "Week 6 構詞與句法",
+    "section": "",
+    "text": "這個分佈圖，猜得出是什麼特徵嗎？\n\n\n\n\n\nThis map from the World Atlas of Language Structures Online shows the distribution of gender as a grammatical feature in 256 languages: white = none; yellow = two; orange = three; red = four; black = five or more.",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#grammatical-features-of-world-languages",
+    "href": "week6.html#grammatical-features-of-world-languages",
+    "title": "Week 6 構詞與句法",
+    "section": "Grammatical Features of World Languages",
+    "text": "Grammatical Features of World Languages\n\n我們先用維基上的 Grammatical Category 來看看不同的語言有哪些語法特徵。頁面中右下的 grammatical features，可以看到有很多種關聯到名詞、動詞、一般等語法特徵。以下是比較重要的幾種。\n這個參考資源會用上！語言學的註釋縮寫",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#case",
+    "href": "week6.html#case",
+    "title": "Week 6 構詞與句法",
+    "section": "Case",
+    "text": "Case\n\nCase is a grammatical feature of nouns, pronouns, and certain other words in some languages, which expresses the grammatical relationship between the word and other words in the clause.\nFrom Persian (2) to Tsez (64) cases\n\n\n\n\n\n\n\n\n英文有幾個格？\n\n\n\n\n\nGender\nNumber\n\n\n綜合整理：Icelandic 爲例",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#classifier",
+    "href": "week6.html#classifier",
+    "title": "Week 6 構詞與句法",
+    "section": "Classifier",
+    "text": "Classifier\n\nA classifier is a word or affix that accompanies nouns and can be considered to “classify” a noun depending on the type of its referent.\n在中文，(量詞、分類詞)、(數量詞)常常混用。\n\n\n\n\n\n\n\n\n語意分類是可能的嗎？",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#genetive-construction",
+    "href": "week6.html#genetive-construction",
+    "title": "Week 6 構詞與句法",
+    "section": "Genetive construction",
+    "text": "Genetive construction\npossessive construction",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#tense-aspect-mood-tam",
+    "href": "week6.html#tense-aspect-mood-tam",
+    "title": "Week 6 構詞與句法",
+    "section": "Tense-Aspect-Mood (TAM)",
+    "text": "Tense-Aspect-Mood (TAM)\n時態、時貌、情態\n\nevent-in-time vs time-in-event\n\n\n\n\n\n\n\n語法特徵的語言單位實現，不見得是單一的詞彙，也不見得是 1-1 的關係。 例如：English -s is used for the third person singular present tense. 反過來說，許多印歐語言也沒有明顯方式來區分 tense 與 aspect。\n\n\n\n\nEvidentiality：In some languages, evidentiality (whether evidence exists for the statement, and if so what kind) and mirativity (surprise) may also be included.",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#clusivity",
+    "href": "week6.html#clusivity",
+    "title": "Week 6 構詞與句法",
+    "section": "Clusivity",
+    "text": "Clusivity\ninclusive \"we\" and exclusive \"we\"",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#conjugation",
+    "href": "week6.html#conjugation",
+    "title": "Week 6 構詞與句法",
+    "section": "Conjugation",
+    "text": "Conjugation\n\n動詞的屈折變化 (conjugation) ：以便能夠與主語的人稱、數量、性別、時態、情態等不同的語法特徵相符合。\n例如：English 的動詞屈折變化，以 be 為例：\n\nI am\nyou are\nhe/she/it is\nwe are\nyou are\nthey are\n\n注意 conjugation 這個詞只用在動詞的屈折變化，其他詞類如名詞或形容詞的屈折變化則稱 declension\n\n\n西班牙文的跑",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#練習",
+    "href": "week6.html#練習",
+    "title": "Week 6 構詞與句法",
+    "section": "練習",
+    "text": "練習\n請解釋 Japhug Rgyalrong 語言中的 associated motion 特徵？",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
+  },
+  {
+    "objectID": "week6.html#練習-1",
+    "href": "week6.html#練習-1",
+    "title": "Week 6 構詞與句法",
+    "section": "練習",
+    "text": "練習\nantipassive voice, 和中文的 middle Voice？",
+    "crumbs": [
+      "首頁",
+      "Week 6 構詞與句法"
+    ]
   }
 ]

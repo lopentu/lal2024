@@ -388,20 +388,6 @@ The indeterminacy of word boundaries shows that "word" is far from a simple conc
 
 
 
-## 「還在那邊」]的斷詞剖析 
-### BEFORE
-
-> 不是我要說他，已經什麼都有了他還在那邊邱什麼邱。別人我不敢說，這種人喔實在是 $#* :-(
-
-
-### AFTER
-
-```{r echo=TRUE, message=FALSE, warning=FALSE}
-tokens("不是我要說他，已經什麼都有了他還在那邊邱什麼邱。別人我不敢說，這種人喔實在是 $#* :-( $#*") 
-``` 
-
-
-
 
 
 ## 「錄位」 listeme
