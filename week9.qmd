@@ -35,14 +35,16 @@ bibliography: tol.bib
 > `不去描寫感知者的主題所獲得之印象，而去描寫客體在生活空間中的
 形狀、輪廓、位置、運動、作用方式等等。`
 
+## 
+![](pics/malena1.png){width="75%"}
 
-![example](pics/malena1.png){width="85%"}
-![solution](pics/malena2.png){width="50%"}
+## 
+![](pics/malena2.png){width="60%"}
 
 
 ## 另一個例子
 
-![Kafir](pics/kafir.png)
+![](pics/kafir.png)
 
 
 ## 田野工作 (linguistic fieldwork) 與語言類型學 (linguistic typology)
@@ -75,7 +77,7 @@ else (hearsay), whether they witness it etc.
 ## [思考] 
 如何設計情境才能得出像是 Tariana 的言據系統?
 
-![Tariana](pics/tariana.png)
+![wiki:Tariana tense-evidentiality](pics/tariana.png)
 
 
 ## 人類語言學 (anthropological linguistics)
@@ -113,7 +115,7 @@ else (hearsay), whether they witness it etc.
 在言談交際上有何意義？
 
 
-# 親屬關係 
+## 親屬關係 
 ![wiki](pics/kinship.svg)
 
 - English follows the Eskimo kinship system, very inclusive in the term "cousin" (堂（表）兄弟，堂（表）姐妹). 
@@ -155,9 +157,9 @@ else (hearsay), whether they witness it etc.
 
 [語奧選手培訓講義](https://docs.google.com/presentation/d/1BU8M67DAdpyubGlv2kh5_lYCHyMW22uM-fvAKrgrTLE/edit?usp=sharing)
 
-# 顏色與形狀
+## 顏色與形狀
 
-![](pics/cow.png)
+![](pics/cow.png){width="70%"}
 
 
 # 嗅覺
@@ -167,10 +169,19 @@ else (hearsay), whether they witness it etc.
 ## [練習] 如何翻譯成(好的)中文？
 ![Jur-Lwoo, a language spoken in South Sudan](pics/olfactory2.png){width="80%"}
 
+## 嗅覺詞彙與題目
+
+
+![](pics/jahai.png){width="85%"}
+
+[smell like Jahai，UKLO](https://www.uklo.org/wp-content/uploads/2022/05/2019_3-Jahai.pdf)
+
 
 ## 詞彙與名字
-
+Some fun facts
 ![中文姓名聲調分佈](pics/cn_name1.png){width="90%"}
+
+## 
 
 ![臺灣名字排行](pics/tw_names.png){width="90%"}
 
